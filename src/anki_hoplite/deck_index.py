@@ -68,6 +68,7 @@ def _load_model_map(path: str | Path) -> dict:
 def build_from_export(
     export_path: str | Path,
     model_map_path: str | Path | None = None,
+    lemmatizer: GreekLemmatizer | None = None,
 ) -> DeckIndex:
     """Parse a tab-separated Anki export with header comments and build index.
 
@@ -89,6 +90,7 @@ def build_from_export(
     models = model_map.get("models", {})
 
     tags_col = None
+    lem = lemmatizer or GreekLemmatizer()
     with export_path.open("r", encoding="utf-8") as f:
         for line in f:
             if line.startswith("#"):
@@ -121,7 +123,7 @@ def build_from_export(
             greek_text = _clean_field_text(field_values[g_idx]) if g_idx < len(field_values) else ""
             english_text = _clean_field_text(field_values[e_idx]) if e_idx < len(field_values) else ""
             note = NoteEntry(note_id=guid or "", model=model, greek_text=greek_text, english_text=english_text)
-            # Use a lemmatizer to populate lemma index
-            di.add_note(note, lemmatizer=GreekLemmatizer())
+            # Use a shared lemmatizer to populate lemma index
+            di.add_note(note, lemmatizer=lem)
 
     return di

@@ -9,7 +9,10 @@ from __future__ import annotations
 
 from dataclasses import dataclass
 from functools import lru_cache
-from typing import List
+from typing import List, Optional
+import json
+from pathlib import Path
+import unicodedata as ud
 
 from .normalize import normalize_greek_for_match
 from .cltk_setup import ensure_cltk_grc_models
@@ -22,8 +25,16 @@ class LemmaResult:
 
 
 class GreekLemmatizer:
-    def __init__(self) -> None:
+    def __init__(self, cache_path: Optional[str] = "out/lemma_cache.json") -> None:
         self._backend = None  # lazy init
+        self._cache_path = Path(cache_path) if cache_path else None
+        self._cache: dict[str, str] = {}
+        # Load cache if present
+        try:
+            if self._cache_path and self._cache_path.exists():
+                self._cache = json.loads(self._cache_path.read_text(encoding="utf-8"))
+        except Exception:
+            self._cache = {}
 
     def _ensure_backend(self):
         if self._backend is not None:
@@ -51,15 +62,25 @@ class GreekLemmatizer:
         self._ensure_backend()
         if not token:
             return ""
+        key = normalize_greek_for_match(token)
+        if key in self._cache:
+            return self._cache[key]
         if self._backend is None:
             # Fallback: return normalized token itself
-            return normalize_greek_for_match(token)
+            lemma = key
+            if key:
+                self._cache[key] = lemma
+            return lemma
         try:
             # BackoffGreekLemmatizer API: .lemmatize -> list[(form, lemma)]
             if hasattr(self._backend, "lemmatize") and not hasattr(self._backend, "analyze"):
                 pairs = self._backend.lemmatize(token)
                 if pairs:
-                    return pairs[0][1]
+                    lemma = pairs[0][1]
+                    lemma = normalize_greek_for_match(lemma)
+                    if key:
+                        self._cache[key] = lemma
+                    return lemma
             # NLP pipeline API: .analyze(text) -> doc; pick first token's lemma
             if hasattr(self._backend, "analyze"):
                 doc = self._backend.analyze(token)
@@ -67,10 +88,16 @@ class GreekLemmatizer:
                     for w in getattr(s, "words", []):
                         lemma = getattr(w, "lemma", None)
                         if lemma:
+                            lemma = normalize_greek_for_match(lemma)
+                            if key:
+                                self._cache[key] = lemma
                             return lemma
         except Exception:
             pass
-        return normalize_greek_for_match(token)
+        lemma = key
+        if key:
+            self._cache[key] = lemma
+        return lemma
 
     def lemmatize(self, text: str) -> List[LemmaResult]:
         # Simple whitespace tokenization for scaffold; refine later.
@@ -82,8 +109,23 @@ class GreekLemmatizer:
         return results
 
     def best_lemma(self, text: str) -> str:
+        # Prefer the first token that has a Greek letter; strip leading/trailing punctuation.
+        for raw in (text or "").split():
+            tok = raw.strip()
+            # Remove surrounding punctuation by Unicode category
+            tok = tok.strip()
+            tok = "".join(ch for ch in tok if not ud.category(ch).startswith("P")) or tok
+            if any(0x0370 <= ord(ch) <= 0x03FF or 0x1F00 <= ord(ch) <= 0x1FFF for ch in tok):
+                return self.lemmatize_token(tok)
+        # Fallback to first token's lemma if no obvious Greek token
         results = self.lemmatize(text)
-        if not results:
-            return ""
-        # For single-word inputs, return the sole lemma; otherwise first token's lemma.
-        return results[0].lemma
+        return results[0].lemma if results else ""
+
+    def save_cache(self) -> None:
+        if not self._cache_path:
+            return
+        try:
+            self._cache_path.parent.mkdir(parents=True, exist_ok=True)
+            self._cache_path.write_text(json.dumps(self._cache, ensure_ascii=False, indent=2), encoding="utf-8")
+        except Exception:
+            pass

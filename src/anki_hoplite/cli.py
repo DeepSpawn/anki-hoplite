@@ -44,19 +44,21 @@ def cmd_lint(args: argparse.Namespace) -> int:
     # Build deck index (export-backed for MVP).
     export_path = cfg.get("export_path", "resources/Unified-Greek.txt")
     model_map_path = cfg.get("model_field_map", "resources/model_field_map.json")
-    deck = build_from_export(export_path, model_map_path)
+    lemmatizer = GreekLemmatizer()
+    deck = build_from_export(export_path, model_map_path, lemmatizer=lemmatizer)
 
     # Load candidates
     candidates = [r.__dict__ for r in read_candidates_csv(args.input)]
 
     # Analyze
-    lemmatizer = GreekLemmatizer()
     results = analyze_candidates(candidates, deck, lemmatizer)
 
     # Report
     write_results_csv(args.out, results)
     print_summary(results)
     print(f"Wrote report: {args.out}")
+    # Persist lemma cache for faster subsequent runs
+    lemmatizer.save_cache()
     return 0
 
 
