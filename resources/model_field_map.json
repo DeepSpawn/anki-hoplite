@@ -1,0 +1,11 @@
+{
+  "_comment": "Map note model name to greek/english field indexes (0-based within the fields segment of the export line). Update models after inspecting export.",
+  "defaults": {
+    "greek_index": 0,
+    "english_index": 1,
+    "ignore": false
+  },
+  "models": {
+    "Basic Quizlet": { "greek_index": 0, "english_index": 1, "ignore": false }
+  }
+}

@@ -1,0 +1,112 @@
+# Anki-Hoplite (Prototype)
+
+Anki-Hoplite is a middleware “gatekeeper” for Ancient Greek Anki cards. It ingests candidate cards (CSV), normalizes Greek text, performs lemmatization, and flags potential duplicates against your existing deck before you import them into Anki. The initial prototype focuses on Feature A: Smart Duplicate Detection.
+
+- End-to-end flow: CSV → analysis → CSV report (dry run only)
+- Deck reference: read-only, using an existing export of the “Unified Greek” deck
+- Future work: Core 500 coverage, cloze validation, tag hygiene
+
+See docs/PLAN.md for the full plan and handoff notes.
+
+## Requirements
+
+- Python 3.10+
+- AnkiConnect (read-only during prototype): https://git.sr.ht/~foosoft/anki-connect
+- Data files:
+  - `resources/Unified-Greek.txt` (deck export; provided)
+  - `resources/greek-core-list.xml` (Core 500; used later)
+
+CLTK is used for Greek lemmatization. The code lazily imports CLTK and falls back safely if unavailable; you can install it later when wiring real lemmatization.
+
+## Quick Start
+
+1) Prepare a candidate CSV with headers `front,back,tags` (UTF-8).
+
+2) Run the CLI to analyze and produce a report:
+
+```
+python -m anki_hoplite.cli lint \
+  --input path/to/candidates.csv \
+  --out out/lint_results.csv
+```
+
+3) Review the summary printed in the console and open `out/lint_results.csv` for per-row details:
+
+- `warning_level`: high (exact Greek), medium (lemma), low (English), none
+- `match_reason`: why it matched
+- `matched_note_ids`: IDs from the reference deck export
+
+Note: As of this scaffold, exporting parsing/indexing is the next task to implement; results will read as `none` until `build_from_export()` is completed.
+
+## Dependency Management with `uv`
+
+This project uses `uv` for fast dependency management. If you don’t have it:
+
+```
+curl -LsSf https://astral.sh/uv/install.sh | sh
+```
+
+Install dependencies and run the CLI via `uv`:
+
+```
+uv sync
+uv run ankihoplite lint --input samples/candidates_sample.csv --out out/lint_results.csv
+```
+
+To ensure CLTK Greek corpora are installed (requires network):
+
+```
+uv run ankihoplite setup-cltk
+```
+
+## Configuration
+
+Defaults live in `resources/config.json` and include:
+
+- `deck_name`: "Unified Greek"
+- `export_path`: `resources/Unified-Greek.txt`
+- `model_field_map`: `resources/model_field_map.json`
+- `dry_run`: true
+
+You can pass a different config path via `--config` on the CLI.
+
+## Data Conventions
+
+- Input CSV headers: `front,back,tags` (tags may be empty; space-separated is fine)
+- Greek matching policy (core of duplicate detection):
+  - Normalize to NFC
+  - Lowercase
+  - Strip punctuation
+  - Strip accents (combining marks)
+  - Normalize final sigma
+  - Collapse whitespace
+
+## AnkiConnect Setup
+
+AnkiConnect provides a local HTTP API used for read-only deck queries (later phases). Install it via the link above. On macOS, disable App Nap to keep Anki responsive in the background:
+
+1. Start the Terminal application.
+2. Execute the following commands:
+
+```
+defaults write net.ankiweb.dtop NSAppSleepDisabled -bool true
+defaults write net.ichi2.anki NSAppSleepDisabled -bool true
+defaults write org.qt-project.Qt.QtWebEngineCore NSAppSleepDisabled -bool true
+```
+
+3. Restart Anki.
+
+## Repository Structure
+
+- `src/anki_hoplite/` — core modules (ingest, normalize, lemmatize, deck_index, detect_duplicates, report, cli)
+- `resources/` — config, deck export, model-field map, core list
+- `out/` — generated reports
+- `docs/PLAN.md` — roadmap and session handoff plan
+- `spec.md` — original high-level specification
+
+## Roadmap (High-Level)
+
+- Implement export parsing in `deck_index.build_from_export()` and populate indexes
+- Author `resources/model_field_map.json` by inspecting the export
+- Add lemma caching and improve tokenization
+- Optional: minimal Streamlit UI for upload/run/review

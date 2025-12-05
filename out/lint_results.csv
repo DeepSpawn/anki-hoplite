@@ -1,0 +1,5 @@
+front,back,tags,normalized_greek,lemma,warning_level,match_reason,matched_note_ids
+καί,and,,και,και,high,exact-greek-match,"q-oR=X0yWk,K@PV9ss;_|"
+εἶπον,I said,,ειπον,ειπον,none,no-match,
+τζ,field,,τζ,τζ,low,english-gloss-match,h#yWox0RxD
+ἀλφα,alpha,,αλφα,αλφα,none,no-match,

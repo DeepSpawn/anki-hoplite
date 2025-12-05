@@ -1,0 +1,13 @@
+{
+  "deck_name": "Unified Greek",
+  "export_path": "resources/Unified-Greek.txt",
+  "model_field_map": "resources/model_field_map.json",
+  "normalization": {
+    "nfc": true,
+    "lower": true,
+    "strip_punct": true,
+    "strip_accents": true
+  },
+  "dry_run": true
+}
+

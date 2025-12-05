@@ -1,0 +1,17 @@
+Readme.md
+pyproject.toml
+src/anki_hoplite/__init__.py
+src/anki_hoplite/cli.py
+src/anki_hoplite/cltk_setup.py
+src/anki_hoplite/deck_index.py
+src/anki_hoplite/detect_duplicates.py
+src/anki_hoplite/ingest.py
+src/anki_hoplite/lemmatize.py
+src/anki_hoplite/normalize.py
+src/anki_hoplite/report.py
+src/anki_hoplite.egg-info/PKG-INFO
+src/anki_hoplite.egg-info/SOURCES.txt
+src/anki_hoplite.egg-info/dependency_links.txt
+src/anki_hoplite.egg-info/entry_points.txt
+src/anki_hoplite.egg-info/requires.txt
+src/anki_hoplite.egg-info/top_level.txt

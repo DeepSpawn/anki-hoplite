@@ -1,0 +1,2 @@
+[console_scripts]
+ankihoplite = anki_hoplite.cli:main
