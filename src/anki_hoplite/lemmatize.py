@@ -52,20 +52,17 @@ class GreekLemmatizer:
         if self._backend is not None:
             return
         try:
-            # Attempt to ensure models first (no-op if already present)
-            ensure_cltk_grc_models()
-            from cltk.lemmatize.grc.backoff import (  # type: ignore
-                BackoffGreekLemmatizer,
-            )
+            # Try GreekBackoffLemmatizer from CLTK 1.5+ API
+            from cltk.lemmatize import GreekBackoffLemmatizer  # type: ignore
 
-            self._backend = BackoffGreekLemmatizer()
+            self._backend = GreekBackoffLemmatizer()
         except Exception:
             # Try generic NLP pipeline fallback
             try:
                 from cltk import NLP  # type: ignore
 
                 ensure_cltk_grc_models()
-                self._backend = NLP(language="grc")
+                self._backend = NLP(language="grc", suppress_banner=True)
             except Exception:
                 self._backend = None
 
@@ -90,7 +87,7 @@ class GreekLemmatizer:
         try:
             # BackoffGreekLemmatizer API: .lemmatize -> list[(form, lemma)]
             if hasattr(self._backend, "lemmatize") and not hasattr(self._backend, "analyze"):
-                pairs = self._backend.lemmatize(token)
+                pairs = self._backend.lemmatize([token])  # Must pass a list of tokens
                 if pairs:
                     lemma = pairs[0][1]
                     lemma = normalize_greek_for_match(lemma)
@@ -153,7 +150,7 @@ class GreekLemmatizer:
             return "fallback"
         name = type(b).__name__
         # Normalize known CLTK classes
-        if name == "BackoffGreekLemmatizer":
+        if name in ("GreekBackoffLemmatizer", "BackoffGreekLemmatizer"):
             return "cltk-backoff"
         if name == "NLP":
             return "cltk-nlp"
