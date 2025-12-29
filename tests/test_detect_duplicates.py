@@ -71,6 +71,7 @@ class TestDetectionResult:
     def test_detection_result_creation(self):
         """Test creating a DetectionResult."""
         result = DetectionResult(
+            note_id="test123",
             front="λύω",
             back="I loose",
             tags="verb",

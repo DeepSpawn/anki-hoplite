@@ -14,7 +14,7 @@ from typing import List
 from .ingest import read_candidates_csv
 from .lemmatize import GreekLemmatizer
 from .deck_index import build_from_export
-from .detect_duplicates import analyze_candidates
+from .detect_duplicates import analyze_candidates, analyze_deck_internal
 from .report import write_results_csv, print_summary
 from .cltk_setup import ensure_cltk_grc_models
 
@@ -62,6 +62,40 @@ def cmd_lint(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_lint_deck(args: argparse.Namespace) -> int:
+    """Analyze the deck itself for internal duplicates."""
+    cfg = load_config(args.config)
+
+    # Build deck index (export-backed for MVP).
+    export_path = cfg.get("export_path", "resources/Unified-Greek.txt")
+    model_map_path = cfg.get("model_field_map", "resources/model_field_map.json")
+    lemmatizer = GreekLemmatizer()
+    print(f"Loading deck from: {export_path}")
+    deck = build_from_export(export_path, model_map_path, lemmatizer=lemmatizer)
+    print(f"Loaded {len(deck.notes)} cards from deck")
+
+    # Analyze deck for internal duplicates
+    print("Analyzing deck for internal duplicates...")
+    results = analyze_deck_internal(deck, lemmatizer)
+
+    # Filter by minimum level if specified
+    if args.min_level:
+        level_priority = {"high": 3, "medium": 2, "low": 1}
+        min_priority = level_priority.get(args.min_level, 1)
+        results = [r for r in results if level_priority.get(r.warning_level, 0) >= min_priority]
+        print(f"Filtered to {args.min_level}+ severity: {len(results)} cards")
+
+    # Report
+    write_results_csv(args.out, results)
+    print_summary(results)
+    print(f"Wrote report: {args.out}")
+    print(f"Found {len(results)} cards with duplicates (out of {len(deck.notes)} total)")
+
+    # Persist lemma cache for faster subsequent runs
+    lemmatizer.save_cache()
+    return 0
+
+
 def build_parser() -> argparse.ArgumentParser:
     p = argparse.ArgumentParser(prog="ankihoplite", description="Anki-Hoplite prototype CLI")
     sub = p.add_subparsers(dest="cmd", required=True)
@@ -75,6 +109,20 @@ def build_parser() -> argparse.ArgumentParser:
         help="Path to config.json (optional; defaults will be used if missing)",
     )
     lint.set_defaults(func=cmd_lint)
+
+    lint_deck = sub.add_parser("lint-deck", help="Analyze deck itself for internal duplicates")
+    lint_deck.add_argument("--out", required=True, help="Path to output CSV report")
+    lint_deck.add_argument(
+        "--config",
+        default="resources/config.json",
+        help="Path to config.json (optional; defaults will be used if missing)",
+    )
+    lint_deck.add_argument(
+        "--min-level",
+        choices=["high", "medium", "low"],
+        help="Minimum warning level to include (e.g., --min-level high shows only exact duplicates)",
+    )
+    lint_deck.set_defaults(func=cmd_lint_deck)
 
     setup = sub.add_parser("setup-cltk", help="Download/ensure CLTK Greek models")
     setup.set_defaults(func=lambda _args: (ensure_cltk_grc_models() or 0))

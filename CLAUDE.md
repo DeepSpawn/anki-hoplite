@@ -6,6 +6,21 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 Anki-Hoplite is a middleware "gatekeeper" for Ancient Greek Anki cards. It analyzes candidate cards (CSV), normalizes Greek text, performs lemmatization, and detects duplicates against existing decks before import into Anki. The prototype focuses on smart duplicate detection using three levels: High (exact Greek match), Medium (lemma match), and Low (English gloss match).
 
+### Anki Integration Model
+
+The application uses **deck export files** (not AnkiConnect) to access the reference deck:
+- **Export file:** `resources/Unified-Greek.txt` (tab-separated, ~1000 cards)
+- **Checked into git:** Allows running in GitHub Codespaces without Anki installed
+- **Manual updates:** Periodically re-export and commit when deck grows significantly
+- **Format:** Tab-separated with metadata headers (`#separator:tab`, `#html:true`, etc.)
+
+To update the reference deck:
+1. Open Anki Desktop and select "Unified Greek" deck
+2. File → Export → "Notes in Plain Text (.txt)"
+3. Ensure "Include HTML and media references" is checked
+4. Save as `resources/Unified-Greek.txt` (overwrite existing)
+5. Commit and push the updated export
+
 ## Development Commands
 
 ### Environment Setup

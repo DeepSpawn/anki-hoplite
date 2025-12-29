@@ -19,8 +19,34 @@ The application acts as a staging area. It does not replace Anki but serves as a
       * Normalization (Unicode/Diacritics).
       * NLP Analysis (Lemmatization).
       * Rule-based Linting.
-3.  **Reference Check:** Querying existing Anki collection (via AnkiConnect) and the Core 500 list.
+3.  **Reference Check:** Querying existing Anki collection (via **deck export files**) and the Core 500 list.
 4.  **Output:** A "Diff" report requiring user approval before final export/sync to Anki.
+
+**Anki Integration Approach (Export-Based):**
+
+Since development occurs in GitHub Codespaces without access to a running Anki instance, the application uses **deck export files** instead of AnkiConnect:
+
+1.  **Export from Anki Desktop:**
+    *   In Anki, select the deck (e.g., "Unified Greek")
+    *   File → Export → "Notes in Plain Text (.txt)"
+    *   Ensure "Include HTML and media references" is checked
+    *   Save as `Unified-Greek.txt`
+
+2.  **Check into Repository:**
+    *   The export file is committed to `resources/Unified-Greek.txt`
+    *   This allows the linter to run in any environment (local, codespace, CI/CD)
+    *   Trade-off: Must manually update the export when deck changes significantly
+
+3.  **Update Workflow:**
+    *   Periodically re-export the deck when you've added substantial new cards
+    *   Commit the updated export file
+    *   The linter will detect duplicates against the latest deck state
+
+**Why Export Files vs AnkiConnect:**
+*   **Portability:** Works in GitHub Codespaces, CI/CD, without running Anki
+*   **Reproducibility:** Export file can be version controlled
+*   **Simplicity:** No network calls, localhost dependencies, or plugin management
+*   **Trade-off:** Requires manual export updates (acceptable for prototype)
 
 [Image of data processing pipeline flow diagram]
 
@@ -78,7 +104,7 @@ Cloze cards are useless if the context doesn't narrow down the answer.
   * **Requirement:** Visualize coverage of the "Top 500" Ancient Greek words.
   * **Data Source:** A static JSON/CSV list of the Top 500 lemmas.
   * **Logic:**
-    1.  Scan the current Anki Collection (via AnkiConnect).
+    1.  Scan the current Anki Collection (via deck export file).
     2.  Lemmatize the "Front" field of every card.
     3.  Match against the Top 500 list.
     4.  **On New Import:** Highlight if the new card covers a "New" word from the Top 500 (High Priority) or a word already "Mastered" (Low Priority).
@@ -119,8 +145,8 @@ Since you are dealing with NLP and data processing, Python is the optimal choice
 | :--- | :--- | :--- |
 | **Language** | **Python 3.10+** | Best ecosystem for text processing and Anki interaction. |
 | **Greek NLP** | **CLTK (Classical Language Toolkit)** | The gold standard for lemmatizing Ancient Greek. Handles polytonic accents natively. |
-| **Anki Interface** | **AnkiConnect** | A local generic plugin that exposes a localhost REST API to your Anki app. |
-| **UI** | **Streamlit** or **Textual** | *Streamlit* for a quick web-based dashboard; *Textual* if you prefer a TUI (Terminal UI). |
+| **Anki Interface** | **Deck Export Files (.txt)** | Tab-separated export format with metadata headers. No network dependencies. |
+| **UI** | **CLI (prototype)** | Command-line interface for CSV input/output. Future: Streamlit or Textual. |
 
 -----
 
