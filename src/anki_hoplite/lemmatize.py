@@ -25,16 +25,28 @@ class LemmaResult:
 
 
 class GreekLemmatizer:
-    def __init__(self, cache_path: Optional[str] = "out/lemma_cache.json") -> None:
+    def __init__(
+        self,
+        cache_path: Optional[str] = "out/lemma_cache.json",
+        overrides_path: Optional[str] = "resources/lemma_overrides.json",
+    ) -> None:
         self._backend = None  # lazy init
         self._cache_path = Path(cache_path) if cache_path else None
         self._cache: dict[str, str] = {}
+        self._overrides_path = Path(overrides_path) if overrides_path else None
+        self._overrides: dict[str, str] = {}
         # Load cache if present
         try:
             if self._cache_path and self._cache_path.exists():
                 self._cache = json.loads(self._cache_path.read_text(encoding="utf-8"))
         except Exception:
             self._cache = {}
+        # Load overrides if present
+        try:
+            if self._overrides_path and self._overrides_path.exists():
+                self._overrides = json.loads(self._overrides_path.read_text(encoding="utf-8"))
+        except Exception:
+            self._overrides = {}
 
     def _ensure_backend(self):
         if self._backend is not None:
@@ -63,6 +75,10 @@ class GreekLemmatizer:
         if not token:
             return ""
         key = normalize_greek_for_match(token)
+        if key in self._overrides:
+            lemma = normalize_greek_for_match(self._overrides[key])
+            self._cache[key] = lemma
+            return lemma
         if key in self._cache:
             return self._cache[key]
         if self._backend is None:
@@ -129,3 +145,16 @@ class GreekLemmatizer:
             self._cache_path.write_text(json.dumps(self._cache, ensure_ascii=False, indent=2), encoding="utf-8")
         except Exception:
             pass
+
+    def backend_name(self) -> str:
+        self._ensure_backend()
+        b = self._backend
+        if b is None:
+            return "fallback"
+        name = type(b).__name__
+        # Normalize known CLTK classes
+        if name == "BackoffGreekLemmatizer":
+            return "cltk-backoff"
+        if name == "NLP":
+            return "cltk-nlp"
+        return name

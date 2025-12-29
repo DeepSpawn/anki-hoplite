@@ -70,7 +70,7 @@ This document captures the current plan, decisions, and step-by-step tasks for b
 
 Validation: Ran CLI on `samples/candidates_sample.csv` (4 rows). Results -> High:1, Medium:0 (until CLTK corpora fetched), Low:1, None:2. Output at `out/lint_results.csv`.
 
-Dependency mgmt: `pyproject.toml` added; `uv` documented in README; CLI `setup-cltk` added to fetch Greek models when network is available.
+Dependency mgmt: `pyproject.toml` uses minimal deps for uv; CLTK moved to optional via a Conda `environment.yml` (macOS x86_64: PyTorch wheels unavailable on PyPI). README documents uv vs conda flows.
 
 Next action: Fetch CLTK corpora locally (`uv run ankihoplite setup-cltk`) to enable lemma-based matching (expect Medium hits), refine tokenization if needed, and expand `resources/model_field_map.json` as additional models are encountered.
 

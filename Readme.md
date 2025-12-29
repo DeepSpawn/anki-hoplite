@@ -59,6 +59,18 @@ To ensure CLTK Greek corpora are installed (requires network):
 uv run ankihoplite setup-cltk
 ```
 
+### CLTK with BackoffGreekLemmatizer on macOS Intel (x86_64)
+
+CLTK 1.x’s backoff lemmatizer does not require PyTorch, but recent CLTK stacks pull `stanza` which depends on `torch`. PyPI does not provide `torch` wheels for macOS x86_64. For a full CLTK pipeline on Intel Macs, use Conda:
+
+```
+micromamba create -f environment.yml
+micromamba activate anki-hoplite
+python -m anki_hoplite.cli doctor --sample
+```
+
+This environment installs CPU PyTorch via conda and CLTK via pip, enabling the CLTK pipeline. The app remains runnable under `uv` (without CLTK) for development; lemmatization will fallback to manual overrides unless CLTK is available.
+
 ## Configuration
 
 Defaults live in `resources/config.json` and include:

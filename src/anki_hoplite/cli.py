@@ -79,6 +79,35 @@ def build_parser() -> argparse.ArgumentParser:
     setup = sub.add_parser("setup-cltk", help="Download/ensure CLTK Greek models")
     setup.set_defaults(func=lambda _args: (ensure_cltk_grc_models() or 0))
 
+    doctor = sub.add_parser("doctor", help="Verify CLTK setup and lemma-based matching")
+    doctor.add_argument(
+        "--sample", action="store_true", help="Run sample analysis on εἶπον -> expect Medium"
+    )
+    def _doctor(args: argparse.Namespace) -> int:
+        lem = GreekLemmatizer()
+        print(f"Lemmatizer backend: {lem.backend_name()}")
+        for w in ["εἶπον", "ἔλυσα", "λύεις", "λέγω"]:
+            print(f"best_lemma('{w}') -> '{lem.best_lemma(w)}'")
+        if args.sample:
+            cfg = load_config("resources/config.json")
+            deck = build_from_export(
+                cfg.get("export_path", "resources/Unified-Greek.txt"),
+                cfg.get("model_field_map", "resources/model_field_map.json"),
+                lemmatizer=lem,
+            )
+            candidates = [
+                {"front": "εἶπον", "back": "I said", "tags": ""},
+            ]
+            from .detect_duplicates import analyze_candidates
+
+            results = analyze_candidates(candidates, deck, lem)
+            for r in results:
+                print(
+                    f"sample front='{r.front}' -> level={r.warning_level}, reason={r.match_reason}, matches={r.matched_note_ids}"
+                )
+        return 0
+    doctor.set_defaults(func=_doctor)
+
     return p
 
 
