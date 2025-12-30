@@ -9,11 +9,12 @@ Levels (per spec):
 from __future__ import annotations
 
 from dataclasses import dataclass
-from typing import Dict, List
+from typing import Dict, List, Optional
 
 from .normalize import normalize_greek_for_match
 from .lemmatize import GreekLemmatizer
 from .deck_index import DeckIndex
+from .tag_hygiene import TagSchema, analyze_card_tags, format_tags
 
 
 @dataclass
@@ -21,17 +22,40 @@ class DetectionResult:
     note_id: str  # The current card's ID (for deck linting; empty for candidate analysis)
     front: str
     back: str
-    tags: str
+    tags: str  # ORIGINAL tags (preserved)
     normalized_greek: str
     lemma: str
     warning_level: str
     match_reason: str
     matched_note_ids: str  # comma-separated
+    # Tag hygiene fields (Feature B)
+    tags_kept: str = ""  # Space-separated kept tags
+    tags_deleted: str = ""  # Space-separated blocked tags (deleted)
+    tags_unknown: str = ""  # Space-separated unknown tags (need review)
+    tags_auto_added: str = ""  # Space-separated auto-added tags
+    tags_final: str = ""  # Final tag string (kept + auto-added)
+    tags_need_review: bool = False  # Flag for unknown tags
 
 
 def analyze_candidates(
-    candidates: List[dict], deck: DeckIndex, lemmatizer: GreekLemmatizer
+    candidates: List[dict],
+    deck: DeckIndex,
+    lemmatizer: GreekLemmatizer,
+    tag_schema: Optional[TagSchema] = None,
+    enable_auto_tag: bool = False
 ) -> List[DetectionResult]:
+    """Analyze candidate cards for duplicates and tag hygiene.
+
+    Args:
+        candidates: List of candidate card dictionaries
+        deck: Deck index to check against
+        lemmatizer: Lemmatizer for extracting lemmas
+        tag_schema: Optional tag schema for tag hygiene enforcement
+        enable_auto_tag: Whether to apply auto-tagging (requires tag_schema)
+
+    Returns:
+        List of DetectionResults with duplicate detection and tag hygiene results
+    """
     results: List[DetectionResult] = []
     for row in candidates:
         front = row.get("front", "")
@@ -66,6 +90,24 @@ def analyze_candidates(
                     reason = "english-gloss-match"
                     match_ids = ids_low
 
+        # Tag hygiene analysis (if schema provided)
+        if tag_schema is not None:
+            tag_result = analyze_card_tags(front, back, tags, tag_schema, enable_auto_tag)
+            tags_kept = format_tags(tag_result.kept_tags)
+            tags_deleted = format_tags(tag_result.deleted_tags)
+            tags_unknown = format_tags(tag_result.unknown_tags)
+            tags_auto_added = format_tags(tag_result.auto_added_tags)
+            tags_final = format_tags(tag_result.final_tags)
+            tags_need_review = tag_result.needs_review
+        else:
+            # No tag hygiene - set default values
+            tags_kept = ""
+            tags_deleted = ""
+            tags_unknown = ""
+            tags_auto_added = ""
+            tags_final = ""
+            tags_need_review = False
+
         results.append(
             DetectionResult(
                 note_id="",  # Candidates don't have IDs yet
@@ -77,6 +119,12 @@ def analyze_candidates(
                 warning_level=level,
                 match_reason=reason,
                 matched_note_ids=",".join(match_ids),
+                tags_kept=tags_kept,
+                tags_deleted=tags_deleted,
+                tags_unknown=tags_unknown,
+                tags_auto_added=tags_auto_added,
+                tags_final=tags_final,
+                tags_need_review=tags_need_review,
             )
         )
     return results

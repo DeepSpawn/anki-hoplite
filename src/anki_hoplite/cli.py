@@ -17,6 +17,7 @@ from .deck_index import build_from_export
 from .detect_duplicates import analyze_candidates, analyze_deck_internal
 from .report import write_results_csv, print_summary
 from .cltk_setup import ensure_cltk_grc_models
+from .tag_hygiene import load_tag_schema
 
 
 def load_config(path: str | Path) -> dict:
@@ -41,6 +42,27 @@ def load_config(path: str | Path) -> dict:
 def cmd_lint(args: argparse.Namespace) -> int:
     cfg = load_config(args.config)
 
+    # Validate auto-tag flag
+    if args.auto_tag and not args.enforce_tags:
+        print("Error: --auto-tag requires --enforce-tags")
+        return 1
+
+    # Load tag schema if tag hygiene is enabled
+    tag_schema = None
+    if args.enforce_tags:
+        try:
+            tag_schema = load_tag_schema(args.tag_schema)
+            print(f"Loaded tag schema from: {args.tag_schema}")
+            print(f"  Allowed tags: {len(tag_schema.allowed_tags)}")
+            print(f"  Blocked tags: {len(tag_schema.blocked_tags)}")
+            print(f"  Auto-tag rules: {len(tag_schema.auto_tag_rules)}")
+        except FileNotFoundError as e:
+            print(f"Error: {e}")
+            return 1
+        except ValueError as e:
+            print(f"Error: {e}")
+            return 1
+
     # Build deck index (export-backed for MVP).
     export_path = cfg.get("export_path", "resources/Unified-Greek.txt")
     model_map_path = cfg.get("model_field_map", "resources/model_field_map.json")
@@ -50,12 +72,18 @@ def cmd_lint(args: argparse.Namespace) -> int:
     # Load candidates
     candidates = [r.__dict__ for r in read_candidates_csv(args.input)]
 
-    # Analyze
-    results = analyze_candidates(candidates, deck, lemmatizer)
+    # Analyze (with optional tag hygiene)
+    results = analyze_candidates(
+        candidates,
+        deck,
+        lemmatizer,
+        tag_schema=tag_schema,
+        enable_auto_tag=args.auto_tag
+    )
 
     # Report
-    write_results_csv(args.out, results)
-    print_summary(results)
+    write_results_csv(args.out, results, include_tag_hygiene=args.enforce_tags)
+    print_summary(results, include_tag_hygiene=args.enforce_tags)
     print(f"Wrote report: {args.out}")
     # Persist lemma cache for faster subsequent runs
     lemmatizer.save_cache()
@@ -107,6 +135,21 @@ def build_parser() -> argparse.ArgumentParser:
         "--config",
         default="resources/config.json",
         help="Path to config.json (optional; defaults will be used if missing)",
+    )
+    lint.add_argument(
+        "--tag-schema",
+        default="resources/tag_schema.json",
+        help="Path to tag schema JSON (default: resources/tag_schema.json)",
+    )
+    lint.add_argument(
+        "--enforce-tags",
+        action="store_true",
+        help="Enable tag hygiene enforcement (allowlist/blocklist/unknown detection)",
+    )
+    lint.add_argument(
+        "--auto-tag",
+        action="store_true",
+        help="Enable auto-tagging based on schema rules (requires --enforce-tags)",
     )
     lint.set_defaults(func=cmd_lint)
 

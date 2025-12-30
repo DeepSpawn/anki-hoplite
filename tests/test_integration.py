@@ -357,3 +357,235 @@ class TestCachingBehavior:
 
             cached = json.loads(cache_path.read_text(encoding="utf-8"))
             assert len(cached) > 0  # Should have cached some lemmas
+
+
+class TestTagHygieneIntegration:
+    """Test tag hygiene integration with duplicate detection pipeline."""
+
+    def test_tag_hygiene_with_duplicate_detection(self, mock_cltk_backend):
+        """Test that tag hygiene works alongside duplicate detection."""
+        from anki_hoplite.tag_hygiene import TagSchema, AutoTagRule
+        import re
+
+        with tempfile.TemporaryDirectory() as tmpdir:
+            tmpdir = Path(tmpdir)
+
+            # Create tag schema
+            schema = TagSchema(
+                allowed_tags={"verb", "noun", "aorist"},
+                blocked_tags={"tmp", "delete"},
+                case_sensitive=False,
+                normalize_tags=True,
+                auto_tag_rules=[]
+            )
+
+            # Create reference deck
+            lemmatizer = GreekLemmatizer(cache_path=None, overrides_path=None)
+            deck = DeckIndex()
+            deck.add_note(
+                NoteEntry(
+                    note_id="existing1",
+                    model="Basic",
+                    greek_text="λύω",
+                    english_text="I loose",
+                ),
+                lemmatizer=lemmatizer,
+            )
+
+            # Create candidates with various tag scenarios
+            candidates = [
+                {"front": "λύεις", "back": "you loose", "tags": "verb aorist tmp"},  # Has blocked tag
+                {"front": "νέος", "back": "new", "tags": "verb unknown"},  # Has unknown tag
+                {"front": "ἀγρός", "back": "field", "tags": "noun"},  # All allowed tags
+            ]
+
+            # Analyze with tag hygiene
+            results = analyze_candidates(
+                candidates,
+                deck,
+                lemmatizer,
+                tag_schema=schema,
+                enable_auto_tag=False
+            )
+
+            # Check first result: blocked tag should be deleted
+            assert results[0].tags == "verb aorist tmp"  # Original preserved
+            assert results[0].tags_kept == "verb aorist"
+            assert results[0].tags_deleted == "tmp"
+            assert results[0].tags_unknown == ""
+            assert results[0].tags_need_review is False
+
+            # Check second result: unknown tag should be flagged
+            assert results[1].tags == "verb unknown"  # Original preserved
+            assert results[1].tags_kept == "verb"
+            assert results[1].tags_deleted == ""
+            assert results[1].tags_unknown == "unknown"
+            assert results[1].tags_need_review is True
+
+            # Check third result: all tags allowed
+            assert results[2].tags == "noun"
+            assert results[2].tags_kept == "noun"
+            assert results[2].tags_deleted == ""
+            assert results[2].tags_unknown == ""
+            assert results[2].tags_need_review is False
+
+    def test_auto_tagging_integration(self, mock_cltk_backend):
+        """Test auto-tagging integration with pattern matching."""
+        from anki_hoplite.tag_hygiene import TagSchema, AutoTagRule
+        import re
+
+        with tempfile.TemporaryDirectory() as tmpdir:
+            tmpdir = Path(tmpdir)
+
+            # Create tag schema with auto-tag rules
+            # Note: Patterns match NORMALIZED text (accents stripped)
+            schema = TagSchema(
+                allowed_tags={"article", "masculine", "feminine", "verb"},
+                blocked_tags={},
+                case_sensitive=False,
+                normalize_tags=True,
+                auto_tag_rules=[
+                    AutoTagRule(
+                        name="masculine_article",
+                        pattern=re.compile(r"^ο$"),  # ὁ normalized
+                        tags=["article", "masculine"],
+                        match_field="front"
+                    ),
+                    AutoTagRule(
+                        name="feminine_article",
+                        pattern=re.compile(r"^η$"),  # ἡ normalized
+                        tags=["article", "feminine"],
+                        match_field="front"
+                    )
+                ]
+            )
+
+            # Create empty deck
+            lemmatizer = GreekLemmatizer(cache_path=None, overrides_path=None)
+            deck = DeckIndex()
+
+            # Create candidates that should trigger auto-tagging
+            candidates = [
+                {"front": "ὁ", "back": "the", "tags": ""},  # Should auto-tag article + masculine
+                {"front": "ἡ", "back": "the", "tags": "article"},  # Should auto-tag feminine (article already present)
+                {"front": "λύω", "back": "I loose", "tags": "verb"},  # Should not auto-tag
+            ]
+
+            # Analyze with auto-tagging enabled
+            results = analyze_candidates(
+                candidates,
+                deck,
+                lemmatizer,
+                tag_schema=schema,
+                enable_auto_tag=True
+            )
+
+            # Check first result: should auto-add article + masculine
+            assert results[0].tags == ""  # Original was empty
+            assert results[0].tags_auto_added == "article masculine"
+            assert "article" in results[0].tags_final
+            assert "masculine" in results[0].tags_final
+
+            # Check second result: should auto-add feminine (article already present)
+            assert results[1].tags == "article"
+            assert results[1].tags_kept == "article"
+            assert "feminine" in results[1].tags_auto_added
+            assert "article" in results[1].tags_final
+            assert "feminine" in results[1].tags_final
+
+            # Check third result: no auto-tagging
+            assert results[2].tags == "verb"
+            assert results[2].tags_kept == "verb"
+            assert results[2].tags_auto_added == ""
+            assert results[2].tags_final == "verb"
+
+    def test_tag_hygiene_disabled_by_default(self, mock_cltk_backend):
+        """Test that tag hygiene fields are empty when schema is not provided."""
+        with tempfile.TemporaryDirectory() as tmpdir:
+            tmpdir = Path(tmpdir)
+
+            # Create reference deck
+            lemmatizer = GreekLemmatizer(cache_path=None, overrides_path=None)
+            deck = DeckIndex()
+
+            # Create candidates with tags
+            candidates = [
+                {"front": "λύω", "back": "I loose", "tags": "verb aorist tmp"},
+            ]
+
+            # Analyze WITHOUT tag hygiene (no schema provided)
+            results = analyze_candidates(
+                candidates,
+                deck,
+                lemmatizer,
+                tag_schema=None,
+                enable_auto_tag=False
+            )
+
+            # Check that original tags are preserved but hygiene fields are empty
+            assert results[0].tags == "verb aorist tmp"
+            assert results[0].tags_kept == ""
+            assert results[0].tags_deleted == ""
+            assert results[0].tags_unknown == ""
+            assert results[0].tags_auto_added == ""
+            assert results[0].tags_final == ""
+            assert results[0].tags_need_review is False
+
+    def test_tag_hygiene_csv_output(self, mock_cltk_backend):
+        """Test that tag hygiene columns appear in CSV output."""
+        from anki_hoplite.tag_hygiene import TagSchema
+        from anki_hoplite.report import write_results_csv
+
+        with tempfile.TemporaryDirectory() as tmpdir:
+            tmpdir = Path(tmpdir)
+
+            # Create tag schema
+            schema = TagSchema(
+                allowed_tags={"verb"},
+                blocked_tags={"tmp"},
+                case_sensitive=False,
+                normalize_tags=True,
+                auto_tag_rules=[]
+            )
+
+            # Create reference deck
+            lemmatizer = GreekLemmatizer(cache_path=None, overrides_path=None)
+            deck = DeckIndex()
+
+            # Create candidates
+            candidates = [
+                {"front": "λύω", "back": "I loose", "tags": "verb tmp"},
+            ]
+
+            # Analyze with tag hygiene
+            results = analyze_candidates(
+                candidates,
+                deck,
+                lemmatizer,
+                tag_schema=schema,
+                enable_auto_tag=False
+            )
+
+            # Write CSV
+            output_csv = tmpdir / "output.csv"
+            write_results_csv(str(output_csv), results, include_tag_hygiene=True)
+
+            # Read CSV and verify tag columns exist
+            with output_csv.open("r", encoding="utf-8") as f:
+                reader = csv.DictReader(f)
+                rows = list(reader)
+
+            assert len(rows) == 1
+            # Check that tag hygiene columns exist
+            assert "tags" in rows[0]
+            assert "tags_kept" in rows[0]
+            assert "tags_deleted" in rows[0]
+            assert "tags_unknown" in rows[0]
+            assert "tags_auto_added" in rows[0]
+            assert "tags_final" in rows[0]
+            assert "tags_need_review" in rows[0]
+
+            # Check values
+            assert rows[0]["tags"] == "verb tmp"
+            assert rows[0]["tags_kept"] == "verb"
+            assert rows[0]["tags_deleted"] == "tmp"

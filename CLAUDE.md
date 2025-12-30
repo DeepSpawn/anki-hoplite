@@ -70,11 +70,12 @@ python -m anki_hoplite.cli lint --input <input.csv> --out <output.csv>
 ### Core Pipeline
 The application follows a sequential pipeline:
 1. **Input** (`ingest.py`) - Read candidate CSV with `front,back,tags` format
-2. **Normalization** (`normalize.py`) - Apply Greek-specific text normalization
-3. **Lemmatization** (`lemmatize.py`) - Extract lemmas using CLTK with caching
-4. **Index Building** (`deck_index.py`) - Build searchable indexes from deck exports
-5. **Detection** (`detect_duplicates.py`) - Match candidates against indexes
-6. **Reporting** (`report.py`) - Generate CSV report and summary
+2. **Tag Hygiene** (`tag_hygiene.py`) - Optional: Classify tags, apply auto-tagging (if `--enforce-tags`)
+3. **Normalization** (`normalize.py`) - Apply Greek-specific text normalization
+4. **Lemmatization** (`lemmatize.py`) - Extract lemmas using CLTK with caching
+5. **Index Building** (`deck_index.py`) - Build searchable indexes from deck exports
+6. **Detection** (`detect_duplicates.py`) - Match candidates against indexes, merge tag results
+7. **Reporting** (`report.py`) - Generate CSV report and summary (with optional tag statistics)
 
 ### Key Modules
 
@@ -121,7 +122,55 @@ Implements three-tier warning system:
 - **Low** - English gloss match without Greek match (potentially different words)
 - **None** - No match found
 
-Returns `DetectionResult` dataclass with warning level, reason, and matched note IDs.
+Returns `DetectionResult` dataclass with warning level, reason, and matched note IDs (+ tag hygiene fields if enabled).
+
+#### `tag_hygiene.py` - Tag Hygiene Enforcement (Feature B)
+Implements allowlist/blocklist enforcement and pattern-based auto-tagging:
+- **Allowlist enforcement** - Only tags in the allowlist are kept
+- **Blocklist enforcement** - Tags in the blocklist are silently removed
+- **Unknown tag flagging** - Tags not in allowlist/blocklist are flagged for manual review
+- **Auto-tagging** - Pattern-based rules automatically add tags based on Greek text
+
+Key components:
+- `TagSchema` - Configuration for allowed/blocked tags and auto-tag rules
+- `CardTagResult` - Analysis result for a single card's tags
+- `analyze_card_tags()` - Main analysis function that classifies tags and applies auto-tagging
+
+Schema file (`resources/tag_schema.json`):
+```json
+{
+  "allowed_tags": ["noun", "verb", "aorist", "masculine", ...],
+  "blocked_tags": ["tmp", "ch_1", "import_2023", ...],
+  "case_sensitive": false,
+  "normalize_tags": true,
+  "auto_tag_rules": [
+    {
+      "name": "masculine_article",
+      "pattern": "^ὁ$|^τοῦ$|^τῷ$|^τόν$",
+      "tags": ["article", "masculine"],
+      "match_field": "front"
+    }
+  ]
+}
+```
+
+CLI usage:
+```bash
+# Enable tag hygiene
+uv run ankihoplite lint --input candidates.csv --out results.csv --enforce-tags
+
+# Enable tag hygiene + auto-tagging
+uv run ankihoplite lint --input candidates.csv --out results.csv --enforce-tags --auto-tag
+```
+
+Tag hygiene results are added to the CSV output with columns:
+- `tags` - Original tags (preserved)
+- `tags_kept` - Tags that passed allowlist check
+- `tags_deleted` - Blocked tags that were removed
+- `tags_unknown` - Tags needing manual review
+- `tags_auto_added` - Tags added by auto-tagging rules
+- `tags_final` - Final tags (kept + auto-added)
+- `tags_need_review` - Boolean flag for unknown tags
 
 ### Configuration
 
@@ -129,8 +178,12 @@ Configuration is loaded from `resources/config.json` with defaults in `cli.py:lo
 - `deck_name` - Target deck name
 - `export_path` - Path to deck export file
 - `model_field_map` - Path to model-field mapping JSON
+- `tag_schema` - Path to tag schema JSON (default: `resources/tag_schema.json`)
+- `tag_hygiene` - Tag hygiene settings (enabled, auto_tag)
 - `normalization` - Normalization flags (all currently enabled)
 - `dry_run` - Always true for prototype
+
+Note: Tag hygiene is controlled via CLI flags (`--enforce-tags`, `--auto-tag`), not config file, to make it explicit.
 
 ### CLTK Integration Notes
 
@@ -160,7 +213,9 @@ Processing:
 3. Check against deck indexes (exact → lemma → English)
 4. Generate warnings and matched note IDs
 
-Output CSV includes: `front`, `back`, `tags`, `normalized_greek`, `lemma`, `warning_level`, `match_reason`, `matched_note_ids`
+Output CSV (without tag hygiene): `front`, `back`, `tags`, `normalized_greek`, `lemma`, `warning_level`, `match_reason`, `matched_note_ids`
+
+Output CSV (with `--enforce-tags`): Adds tag hygiene columns: `tags_kept`, `tags_deleted`, `tags_unknown`, `tags_auto_added`, `tags_final`, `tags_need_review`
 
 ## Testing Strategy
 
@@ -202,8 +257,11 @@ Extend this as new note types are encountered in exports.
 
 ## Future Development
 
-The prototype is scoped to Feature A (duplicate detection). Documented but deferred features:
-- **Feature B** - Tag hygiene with allowlist/blocklist
+### Implemented Features
+- **Feature A** - Duplicate detection (High/Medium/Low warning levels)
+- **Feature B** - Tag hygiene with allowlist/blocklist and auto-tagging
+
+### Documented but Deferred Features
 - **Feature C** - Cloze context validation
 - **Feature D** - Core 500 Greek vocabulary coverage tracking
 

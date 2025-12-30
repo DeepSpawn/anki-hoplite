@@ -2,6 +2,11 @@
   "deck_name": "Unified Greek",
   "export_path": "resources/Unified-Greek.txt",
   "model_field_map": "resources/model_field_map.json",
+  "tag_schema": "resources/tag_schema.json",
+  "tag_hygiene": {
+    "enabled": false,
+    "auto_tag": false
+  },
   "normalization": {
     "nfc": true,
     "lower": true,
