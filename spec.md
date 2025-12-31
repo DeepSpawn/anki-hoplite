@@ -86,7 +86,7 @@ Imported decks often contain "junk tags" (e.g., `ch_1`, `import_2023`, `vocab_ea
 #### **Feature C: Cloze Context Validator**
 
 Cloze cards are useless if the context doesn't narrow down the answer.
-
+ 
   * *Bad:* `___ was a general.` (Could be anyone).
 
   * *Good:* `Pericles said that ___ was a general.`

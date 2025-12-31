@@ -589,3 +589,111 @@ class TestTagHygieneIntegration:
             assert rows[0]["tags"] == "verb tmp"
             assert rows[0]["tags_kept"] == "verb"
             assert rows[0]["tags_deleted"] == "tmp"
+
+    def test_lint_with_cloze_validation(self, mock_cltk_backend):
+        """Test full pipeline with cloze validation enabled."""
+        with tempfile.TemporaryDirectory() as tmpdir:
+            tmpdir = Path(tmpdir)
+
+            # Create input CSV with cloze cards
+            input_csv = tmpdir / "candidates.csv"
+            with input_csv.open("w", encoding="utf-8", newline="") as f:
+                writer = csv.DictWriter(f, fieldnames=["front", "back", "tags"])
+                writer.writeheader()
+                # Good cloze (context ≥3 tokens)
+                writer.writerow({"front": "ὁ Δικαιόπολις {{c1::Ἀθηναῖός}} ἐστιν", "back": "Dikaiopolis is an Athenian", "tags": "cloze"})
+                # Poor cloze (no context)
+                writer.writerow({"front": "{{c1::λόγος}}", "back": "word", "tags": "cloze"})
+                # Non-cloze card
+                writer.writerow({"front": "λέγω", "back": "I say", "tags": ""})
+
+            # Create stop words file
+            stopwords_file = tmpdir / "stopwords.txt"
+            with stopwords_file.open("w", encoding="utf-8") as f:
+                f.write("ο\n")
+                f.write("η\n")
+                f.write("και\n")
+                f.write("εστιν\n")
+
+            # Load candidates
+            candidates = [r.__dict__ for r in read_candidates_csv(str(input_csv))]
+
+            # Create empty deck for testing
+            lemmatizer = GreekLemmatizer(cache_path=None, overrides_path=None)
+            deck = DeckIndex()
+
+            # Load stop words
+            from anki_hoplite.cloze_validator import GreekStopWords
+            stopwords = GreekStopWords.load(str(stopwords_file))
+
+            # Analyze with cloze validation
+            results = analyze_candidates(
+                candidates,
+                deck,
+                lemmatizer,
+                enable_cloze_validation=True,
+                cloze_stopwords=stopwords
+            )
+
+            # Verify cloze analysis
+            assert len(results) == 3
+
+            # First card: good cloze
+            assert results[0].cloze_quality in ("excellent", "good")
+            assert results[0].cloze_context_tokens >= 3
+            assert results[0].cloze_deletion_ratio < 0.5
+
+            # Second card: poor cloze (no context)
+            assert results[1].cloze_quality == "poor"
+            assert results[1].cloze_context_tokens == 0
+
+            # Third card: not a cloze card
+            assert results[2].cloze_quality == ""
+            assert results[2].cloze_context_tokens == 0
+
+            # Write CSV and verify cloze columns exist
+            output_csv = tmpdir / "output.csv"
+            write_results_csv(str(output_csv), results, include_tag_hygiene=False)
+
+            with output_csv.open("r", encoding="utf-8") as f:
+                reader = csv.DictReader(f)
+                rows = list(reader)
+
+            assert len(rows) == 3
+            # Check that cloze columns exist
+            assert "cloze_quality" in rows[0]
+            assert "cloze_context_tokens" in rows[0]
+            assert "cloze_deletion_ratio" in rows[0]
+            assert "cloze_content_density" in rows[0]
+            assert "cloze_reasons" in rows[0]
+
+            # Verify values in CSV
+            assert rows[0]["cloze_quality"] in ("excellent", "good")
+            assert rows[1]["cloze_quality"] == "poor"
+            assert rows[2]["cloze_quality"] == ""  # Non-cloze
+
+    def test_cloze_validation_disabled_by_default(self, mock_cltk_backend):
+        """Test that cloze validation is disabled when not requested."""
+        with tempfile.TemporaryDirectory() as tmpdir:
+            tmpdir = Path(tmpdir)
+
+            # Create input CSV with a cloze card
+            input_csv = tmpdir / "candidates.csv"
+            with input_csv.open("w", encoding="utf-8", newline="") as f:
+                writer = csv.DictWriter(f, fieldnames=["front", "back", "tags"])
+                writer.writeheader()
+                writer.writerow({"front": "{{c1::λόγος}}", "back": "word", "tags": ""})
+
+            candidates = [r.__dict__ for r in read_candidates_csv(str(input_csv))]
+            lemmatizer = GreekLemmatizer(cache_path=None, overrides_path=None)
+            deck = DeckIndex()
+
+            # Analyze WITHOUT cloze validation
+            results = analyze_candidates(candidates, deck, lemmatizer)
+
+            # Cloze fields should be empty/default
+            assert results[0].cloze_quality == ""
+            assert results[0].cloze_context_tokens == 0
+            assert results[0].cloze_deletion_ratio == 0.0
+            assert results[0].cloze_content_density == 0.0
+            assert results[0].cloze_reasons == ""

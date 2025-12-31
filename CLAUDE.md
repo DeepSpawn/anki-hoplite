@@ -75,7 +75,8 @@ The application follows a sequential pipeline:
 4. **Lemmatization** (`lemmatize.py`) - Extract lemmas using CLTK with caching
 5. **Index Building** (`deck_index.py`) - Build searchable indexes from deck exports
 6. **Detection** (`detect_duplicates.py`) - Match candidates against indexes, merge tag results
-7. **Reporting** (`report.py`) - Generate CSV report and summary (with optional tag statistics)
+7. **Cloze Validation** (`cloze_validator.py`) - Optional: Analyze cloze context quality (if `--validate-cloze`)
+8. **Reporting** (`report.py`) - Generate CSV report and summary (with optional tag/cloze statistics)
 
 ### Key Modules
 
@@ -172,6 +173,65 @@ Tag hygiene results are added to the CSV output with columns:
 - `tags_final` - Final tags (kept + auto-added)
 - `tags_need_review` - Boolean flag for unknown tags
 
+#### `cloze_validator.py` - Cloze Context Validation (Feature C)
+Implements cloze context quality analysis to identify weak/ambiguous cloze cards:
+- **Context Token Count** - Number of Greek words outside cloze deletions
+- **Deletion Density Ratio** - Percentage of tokens removed by cloze deletions
+- **Content Word Density** - Ratio of content words to stop words in context
+- **Multi-Factor Quality Scoring** - Combines metrics into graduated levels: excellent/good/weak/poor
+
+Key components:
+- `ClozeParseResult` - Parsed cloze syntax (deletions, context, hints)
+- `ClozeAnalysis` - Complete analysis with metrics and quality classification
+- `GreekStopWords` - Stop word list manager for content analysis
+- `analyze_cloze_card()` - Main analysis function
+
+Quality classification thresholds:
+- **excellent**: context ≥5 tokens AND deletion ≤50% AND content density ≥0.40
+- **good**: context ≥3 tokens AND deletion ≤60% AND content density ≥0.30
+- **weak**: context ≥2 tokens OR (context ≥1 AND deletion ≤80%)
+- **poor**: all others (0-1 tokens, or >80% deletion)
+
+Stop words file (`resources/greek_stopwords.txt`):
+```
+# Plain text file, one word per line, normalized (lowercase, no accents)
+ο
+η
+το
+και
+δε
+εστιν
+...
+```
+
+CLI usage:
+```bash
+# Validate cloze quality with default stop words
+uv run ankihoplite lint --input candidates.csv --out results.csv --validate-cloze
+
+# Use custom stop word list
+uv run ankihoplite lint --input candidates.csv --out results.csv \
+    --validate-cloze --cloze-stopwords resources/custom_stopwords.txt
+
+# Combine all features
+uv run ankihoplite lint --input candidates.csv --out results.csv \
+    --enforce-tags --auto-tag --validate-cloze
+```
+
+Cloze validation results are added to the CSV output with columns:
+- `cloze_quality` - Quality classification (excellent/good/weak/poor or empty if not cloze)
+- `cloze_context_tokens` - Number of context tokens
+- `cloze_deletion_ratio` - Deletion percentage (0.0-1.0)
+- `cloze_content_density` - Content word density (0.0-1.0)
+- `cloze_reasons` - Space-separated reason codes (e.g., "low_context high_deletion")
+
+**Why improved over spec.md heuristics:**
+1. Token-based metrics (vs character-based) are more semantically meaningful for inflected Greek
+2. Multi-factor scoring combines context, deletion, and content metrics
+3. Graduated quality levels (excellent/good/weak/poor) vs binary flags
+4. Content word density is more informative than "only stop words" check
+5. Greek-aware tokenization handles polytonic text correctly
+
 ### Configuration
 
 Configuration is loaded from `resources/config.json` with defaults in `cli.py:load_config()`:
@@ -260,9 +320,9 @@ Extend this as new note types are encountered in exports.
 ### Implemented Features
 - **Feature A** - Duplicate detection (High/Medium/Low warning levels)
 - **Feature B** - Tag hygiene with allowlist/blocklist and auto-tagging
+- **Feature C** - Cloze context validation with multi-factor quality scoring
 
 ### Documented but Deferred Features
-- **Feature C** - Cloze context validation
 - **Feature D** - Core 500 Greek vocabulary coverage tracking
 
 See `docs/PLAN.md` for full roadmap and `spec.md` for original feature specifications.
