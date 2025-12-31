@@ -67,3 +67,6 @@ out/atheaze-results.csv
 
 # Test data files (exclude test CSVs from root)
 atheaze-basic-2-test.csv
+
+# Cache files
+out/*.json

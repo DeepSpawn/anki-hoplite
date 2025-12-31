@@ -1,1043 +1,1079 @@
 #separator:tab
 #html:true
-#guid column:1
-#notetype column:2
-#deck column:3
-#tags column:8
-"h#yWox0RxD"	Basic Quizlet	Unified Greek	ἀγρός, ἀγροῦ[sound:rec1672974328.mp3]	field			
-zM;tbb2Jw-	Basic Quizlet	Unified Greek	Ἀθηναῖος, -α, -ον[sound:rec1672974352.mp3]	Athenian			
-cu~WI?F^IA	Basic Quizlet	Unified Greek	ἀλλά[sound:rec1672974362.mp3]	but			
-t-72Vi73Jj	Basic Quizlet	Unified Greek	ἄνθρωπος, ἀνθρώπου, ὁ[sound:rec1672974371.mp3]	man			
-lF$r-K?Qot	Basic Quizlet	Unified Greek	αὐτουργός, αὐτουργοῦ, ὁ[sound:rec1672974385.mp3]	farmer			
-pAiuoA-&J}	Basic Quizlet	Unified Greek	γάρ[sound:rec1672974394.mp3]	for			
-wwg+BDt2d4	Basic Quizlet	Unified Greek	δέ[sound:rec1672974399.mp3]	and, but			
-cu$_^z57iC	Basic Quizlet	Unified Greek	Δικαιόπολις, Δικαιοπόλιδος, ὁ[sound:rec1672974415.mp3]	Dicaeopolis			
-QQ|Eo=+SAI	Basic Quizlet	Unified Greek	ἐν ταῖς Ἀθήναις[sound:rec1672974427.mp3]	in Athens			
-N0uM}<`oB%	Basic Quizlet	Unified Greek	ἐστι(ν), , , , ,[sound:rec1672974434.mp3]	he/she/it is			
-K@PV9ss;_|	Basic Quizlet	Unified Greek	καί[sound:rec1672974448.mp3]	and			
-fJH~$y!a/g	Basic Quizlet	Unified Greek	καλός, -ή, -όν[sound:rec1672974455.mp3]	beautiful			
-tps1p}q%PL	Basic Quizlet	Unified Greek	λέγω, λέξω / ἐρῶ, ἔλεξα / εἶπον, εἴρηκα, λέλεγμαι / εἴρημαι, ἐλέχθην[sound:rec1672974461.mp3]	I speak; I tell; I say			
-fo),t?>IT=	Basic Quizlet	Unified Greek	μακρός, -ά, -όν[sound:rec1672974476.mp3]	long; large			
-QIRHBzR*NJ	Basic Quizlet	Unified Greek	μικρός, -ά, -όν[sound:rec1672974482.mp3]	small			
-e/36go^4N	Basic Quizlet	Unified Greek	οἰκέω, οἰκήσω, ᾤκησα, ᾤκηκα, ᾤκημαι, ᾠκήθην[sound:rec1672974488.mp3]	I live; I dwell			
-vLj)44K%HE	Basic Quizlet	Unified Greek	οἶκος, οἴκου, ὁ[sound:rec1672974503.mp3]	house; home; dwelling			
-uWQy^xs{<[	Basic Quizlet	Unified Greek	οὐ, οὐκ, οὐχ[sound:rec1672974519.mp3]	not			
-gBCYsz$bn	Basic Quizlet	Unified Greek	οὖν[sound:rec1672974526.mp3]	so; then			
-ll+:t@Xvj1	Basic Quizlet	Unified Greek	πολύς, πολλή, πολύ[sound:rec1672974531.mp3]	much, pl. many			
-P&/lLx.LD7	Basic Quizlet	Unified Greek	πονέω, πονήσω, ἐπόνησα, πεπόνηκα, πεπόνημαι, ἐπονήθην[sound:rec1672974537.mp3]	I work			
-"d,vZSJEUB#"	Basic Quizlet	Unified Greek	πόνος, πόνου, ὁ[sound:rec1672974546.mp3]	toil, work			
-j,.dq2@nf}	Basic Quizlet	Unified Greek	σῖτος, σίτου, ὁ[sound:rec1672974552.mp3]	grain; food			
-DKfbD8$8Z3	Basic Quizlet	Unified Greek	φιλέω, φιλήσω, ἐφίλησα, πεφίληκα, πεφίλημαι, ἐφιλήθην[sound:rec1672974558.mp3]	I love			
-Gl;J&K>?JH	Basic Quizlet	Unified Greek	χαίρω, χαιρήσω, --, κεχάρηκα, --, ἐχάρην[sound:rec1672974563.mp3]	I rejoice; + participle, I am glad to			
-IUhK@3SD~Z	Basic Quizlet	Unified Greek	αἴρω, ἀρῶ, ἦρα, ἦρκα, ἦρμαι, ἤρθην[sound:rec1672974569.mp3]	I lift; with reflexive pronoun, I get up			
-wv)]a6]g0z	Basic Quizlet	Unified Greek	βαδίζω, βαδιοῦμαι, ἐβάδισα, βεβάδικα, --, --[sound:rec1672974577.mp3]	I walk; I go			
-Q{h,;~lF=G	Basic Quizlet	Unified Greek	ἥλιος, ἡλίου, ὁ[sound:rec1672974592.mp3]	sun			
-o15bJ_>J`<	Basic Quizlet	Unified Greek	ἰσχυρός, -ά, -όν[sound:rec1672974598.mp3]	strong			
-nT2GcRTa6`	Basic Quizlet	Unified Greek	πρός[sound:rec1672974610.mp3]	towards,&nbsp;<i><b>on the side of, in the direction of,</b></i>			
-p)+|}JM>$m	Basic Quizlet	Unified Greek	φέρω, οἴσω, ἤνεγκα or ἤνεγκον, ἐνήνοχα, ἐνήνεγμαι, ἠνέχθην[sound:rec1672974615.mp3]	I carry; of roads: lead			
-duz5<,nKxF	Basic Quizlet	Unified Greek	χαλεπός, -ή, -όν[sound:rec1672974620.mp3]	difficult			
-"DifO{aXr6#"	Basic Quizlet	Unified Greek	χρόνος, χρόνου, ὁ[sound:rec1672974626.mp3]	time			
-rIijI)4ub7	Basic Quizlet	Unified Greek	ἀργός, --, ἀργόν[sound:rec1672974633.mp3]	lazy			
-m{$m9gFp:`	Basic Quizlet	Unified Greek	δοῦλος, δούλου, ὁ[sound:rec1672974648.mp3]	slave			
-GZ[n8tlGAh	Basic Quizlet	Unified Greek	ἐλθέ!, , , , ,[sound:rec1672974675.mp3]	come!			
-q/&BLgZH})	Basic Quizlet	Unified Greek	μέν ... δέ ...[sound:rec1672974693.mp3]	on the one hand ... and on the other			
-Cl;vSezY89	Basic Quizlet	Unified Greek	Ξανθίας, Ξανθίου, ὁ[sound:rec1672974709.mp3]	Xanthias			
-"i4R`-ti#c>"	Basic Quizlet	Unified Greek	οὕτως/οὕτω[sound:rec1672974715.mp3]<br><br>(οὕτως καλὸς ἐστίν)	so, thus<br>(he is so beautiful)			leech
-vFIj{FsS_;	Basic Quizlet	Unified Greek	τί[sound:rec1672974735.mp3]	why?			
-OeDBF-+bP-	Basic Quizlet	Unified Greek	βοῦς, βοός, ὁ[sound:rec1672974753.mp3]	ox			
-i@jadPvnnn	Basic Quizlet	Unified Greek	δένδρον, δένδρου, τό[sound:rec1672974763.mp3]	tree			
-"q#FOMQ0*5r"	Basic Quizlet	Unified Greek	δεσπότης, δεσπότου, ὁ[sound:rec1672974769.mp3]	master			
-nJw(Jk]%HZ	Basic Quizlet	Unified Greek	λίθος, λίθου, ὁ[sound:rec1672974873.mp3]	stone			
-nd(P88z`!q	Basic Quizlet	Unified Greek	μέγας, μεγάλη, μέγα[sound:rec1672974878.mp3]	big, large; great			
-C}Bmklv5g*	Basic Quizlet	Unified Greek	τε ... καί, τε καί[sound:rec1672974964.mp3]	both ... and			
-PE,)uw;<D>	Basic Quizlet	Unified Greek	παῖς, παιδός, ὁ[sound:rec1672975039.mp3]	boy; son; child			
-o:D@hR?<pD	Basic Quizlet	Unified Greek	παῖς, παιδός, ἡ[sound:rec1672975044.mp3]	girl; daughter; child			
-b%r1:B]]Rm	Basic Quizlet	Unified Greek	πατήρ, πατρός, ὁ[sound:rec1672975049.mp3]	father			
-Q{aFv3$E5Q	Basic Quizlet	Unified Greek	πολλοί, πολλαί, πολλά[sound:rec1672975054.mp3]	many			
-sV^9x`4gDy	Basic Quizlet	Unified Greek	Φίλιππος, Φιλίππου, ὁ[sound:rec1672975064.mp3]	Philip			
-J`!%k9<6]]	Basic Quizlet	Unified Greek	ἀκούω, ἀκούσομαι, ἤκουσα, ἀκήκοα, ἤκουσμαι, ἠκούσθην[sound:rec1672975077.mp3]	I listen			
-lARN|N)U,C	Basic Quizlet	Unified Greek	ἀνήρ, ἀνδρός, ὁ[sound:rec1672975082.mp3]	man; husband			
-rxeH>*JX7O	Basic Quizlet	Unified Greek	γυνή, γυναικός, ἡ[sound:rec1672975096.mp3]	women; wife			
-QWy5CZIrvQ	Basic Quizlet	Unified Greek	θυγάτηρ, θυγατρός, ἡ[sound:rec1672975144.mp3]	daughter			
-"mz#Qajk#k,"	Basic Quizlet	Unified Greek	μάλα[sound:rec1672975164.mp3]	very			
-y$EJ=1m3&f	Basic Quizlet	Unified Greek	μήτηρ, μητρός, ἡ[sound:rec1672975187.mp3]	mother			
-n{tB/WI>AI	Basic Quizlet	Unified Greek	πρῶτον[sound:rec1672975214.mp3]	first			
-Hdt[Wo~bas	Basic Quizlet	Unified Greek	χαίρω, χαιρήσω, ἐχαίρησα, κεχάρηκα, ---, ἐχάρην[sound:rec1672975254.mp3]	I rejoice			
-HVYRSi<D8/	Basic Quizlet	Unified Greek	ἀεί[sound:rec1672975264.mp3]	always			leech
-tzx$CbgMO:	Basic Quizlet	Unified Greek	κύων, κυνός, ὁ[sound:rec1672975391.mp3]	dog			
-Lob:U|kx7/	Basic Quizlet	Unified Greek	κύων, κυνός, ἡ[sound:rec1672975400.mp3]	dog			
-CX`a:ZUC].	Basic Quizlet	Unified Greek	λαγώς, λαγών, ὁ[sound:rec1672975406.mp3]	hare			
-"PE#Wv_dx~@"	Basic Quizlet	Unified Greek	λύκος, λύκου, ὁ[sound:rec1672975411.mp3]	wolf			
-L3/Yw`vr_G	Basic Quizlet	Unified Greek	οἰκία, οἰκίας, ἡ[sound:rec1672975419.mp3]	house; home; dwelling			
-p>C|&PXn(^	Basic Quizlet	Unified Greek	οὐδέ[sound:rec1672975469.mp3]	and...not; nor; not even			
-B,SUZP`4P}	Basic Quizlet	Unified Greek	οὔτε...οὔτε[sound:rec1672975474.mp3]	neither; nor			
-J*rzA+n?o}	Basic Quizlet	Unified Greek	πάππος, πάππου, ὁ[sound:rec1672975478.mp3]	grandfather			
-P;H|t;,SV?	Basic Quizlet	Unified Greek	πρόβατα, προβάτων, τό[sound:rec1672975487.mp3]	sheep			
-PZQsrTs%ta	Basic Quizlet	Unified Greek	ἄγριος, -α, -ον[sound:rec1672975526.mp3]	savage; wild; fierce			
-CfFFe|@ht?	Basic Quizlet	Unified Greek	αὐτός, αὐτή, αὐτό[sound:rec1672975537.mp3]	-self, -selves			
-k05rTP!FMG	Basic Quizlet	Unified Greek	καί...καί[sound:rec1672975579.mp3]	both... and			
-CD!v=D+B|+	Basic Quizlet	Unified Greek	πρῶτος, -η, -ον[sound:rec1672975598.mp3]	first			
-CmW.PZv%=)	Basic Quizlet	Unified Greek	βασιλεύς, βασιλέως, ὁ[sound:rec1672975641.mp3]	King			
-D?fY4V;=*.	Basic Quizlet	Unified Greek	Μινώταυρος, Μινωταύρου, ὁ[sound:rec1672975911.mp3]	Minotaur			
-t`6M]@NBN^	Basic Quizlet	Unified Greek	πάππας, πάππου, ὁ[sound:rec1672975940.mp3]	papa			
-EUzkRL7DOQ	Basic Quizlet	Unified Greek	παρθένος, παρθένου, ἡ[sound:rec1672975945.mp3]	maiden, girl (virgin)			
-qX@fUFQ]{(	Basic Quizlet	Unified Greek	᾿ Αθῆναι, ᾿ Αθηνῶν, αἱ[sound:rec1672975972.mp3]	Athens			
-vx)bo}L*wE	Basic Quizlet	Unified Greek	οὐδαμῶς[sound:rec1672976021.mp3]	in no way, no			
-DS,1^t;|2X	Basic Quizlet	Unified Greek	πολλάκις[sound:rec1672976029.mp3]	many times, often			
-NL@iv-``Ny	Basic Quizlet	Unified Greek	αἴξ, αἰγος, ὁ[sound:rec1672976050.mp3]	goat			
-po6]b09;3I	Basic Quizlet	Unified Greek	αἴξ, αἰγός, ἡ[sound:rec1672976054.mp3]	goat			
-vM|b+`$WL7	Basic Quizlet	Unified Greek	θάλαττα, θαλάττης, ἡ[sound:rec1672976078.mp3]	sea			
-u/4.8EODq+	Basic Quizlet	Unified Greek	ὄνομα, ὀνόματος, τό[sound:rec1672976091.mp3]	name			
-vR`F@7i-Is	Basic Quizlet	Unified Greek	δύο, δύο, δύο[sound:rec1672976169.mp3]	two			
-MdXm|UQ@yl	Basic Quizlet	Unified Greek	[sound:rec1672976158.mp3]δύο	two			
-k9TJyS/Ur0	Basic Quizlet	Unified Greek	εἷς, μία, ἕν[sound:rec1672976250.mp3]	one			
-oPY2H=dy5{	Basic Quizlet	Unified Greek	εἷς, μία, ἕν[sound:rec1672976257.mp3]	one			
-Puy?HWh]@a	Basic Quizlet	Unified Greek	δεύτερος, -α, -ον[sound:rec1672976550.mp3]	second			
-q~gB?&bLa>	Basic Quizlet	Unified Greek	Διόνυσος, Διονύσου, ὁ[sound:rec1672976575.mp3]	Dionysus			
-HK|qtc>nD7	Basic Quizlet	Unified Greek	δέκα[sound:rec1672976579.mp3]	ten			
-K.^fcqD-l9	Basic Quizlet	Unified Greek	δέκατος, -η, -ον[sound:rec1672976583.mp3]	tenth			
-nSZ|M85Ufb	Basic Quizlet	Unified Greek	ἕβδομος, -η, -ον[sound:rec1672976593.mp3]	seventh			
-Qv}YzgqORB	Basic Quizlet	Unified Greek	ἕκτος, -η, -ον[sound:rec1672976602.mp3]	sixth			leech
-u0H2>L63]?	Basic Quizlet	Unified Greek	ἔνατος, -η, -ον[sound:rec1672976611.mp3]	ninth			
-C]o@H@E>ub	Basic Quizlet	Unified Greek	ἐννέα[sound:rec1672976615.mp3]	nine			
-tFu_PytySC	Basic Quizlet	Unified Greek	ἕξ[sound:rec1672976621.mp3]	six			
-H|67.;4jrm	Basic Quizlet	Unified Greek	ὀκτώ[sound:rec1672976697.mp3]	eight			
-v05e(xQI/S	Basic Quizlet	Unified Greek	πέμπτος, -η, -ον[sound:rec1672976730.mp3]	fifth			
-n:7Z:Z&|BP	Basic Quizlet	Unified Greek	πέντε[sound:rec1672976735.mp3]	five			
-n`Y:{gzbX-	Basic Quizlet	Unified Greek	τρεῖς, τρία[sound:rec1672976740.mp3]	three			
-"h9ciaAU#q`"	Basic Quizlet	Unified Greek	τρίτος, -η, -ον[sound:rec1672976743.mp3]	third			
-Lm,EG!ocHi	Basic Quizlet	Unified Greek	τέταρτος -η, -ον[sound:rec1672976748.mp3]	fourth			
-I?DQ@WwSvx	Basic Quizlet	Unified Greek	τέτταρες, τέτταρα[sound:rec1672976754.mp3]	four			
-g}=.cOPD%b	Basic Quizlet	Unified Greek	Ζεύς, Διός, ὁ[sound:rec1672976799.mp3]	Zeus (King of the Gods)			
-PAx`wOT%OY	Basic Quizlet	Unified Greek	νεανίας, νεανίου, ὁ[sound:rec1672976810.mp3]	young man			
-tSv`1i&n`&	Basic Quizlet	Unified Greek	θεός, θεοῦ, ἡ[sound:rec1672976887.mp3]	goddess			
-nr*!on/Q{6	Basic Quizlet	Unified Greek	᾿ Αθηνᾶ, ᾿ Αθηνᾶς, ἡ[sound:rec1672976935.mp3]	Athena (daughter of Zeus)			
-vcpLJGRU,p	Basic Quizlet	Unified Greek	τεκόντες, τεκόντων, οἱ[sound:rec1672977141.mp3]	parents			
-od+w0%~9:D	Basic Quizlet	Unified Greek	λέγω, λέξω, ἔλεξα, εἵρηκα, λέλεγμαι, ἐλέχθην[sound:rec1672977274.mp3]	I tell, say, speak			
-c4H5DF+=o,	Basic Quizlet	Unified Greek	ἤ[sound:rec1672977390.mp3]	or			
-GublgR,i[B	Basic Quizlet	Unified Greek	ἤ...ἤ[sound:rec1672977394.mp3]	either...or			
-F}(7,d4^Ez	Basic Quizlet	Unified Greek	κακός, -ή, -όν[sound:rec1672977420.mp3]	bad; evil			
-P<OM7nJ94%	Basic Quizlet	Unified Greek	Θεμιστοκλῆς, Θεμιστοκλέους, ὁ[sound:rec1672978232.mp3]	Themistocles			
-h[PS6:eX{m	Basic Quizlet	Unified Greek	ἳππος, ἳππου, ὁ[sound:rec1672978530.mp3]	horse			
-FUhh8,]tBP	Basic Quizlet	Unified Greek	ποταμός, πουαμοῦ, ὁ[sound:rec1672978568.mp3]	river			
-fUxex/id7m	Basic Quizlet	Unified Greek	βίος, βίου, ὁ[sound:rec1672978652.mp3]	life			
-PkqcDu0F~%	Lingua Graeca	Unified Greek	ἀνήρ, ἀνδρός, ὁ	male, male		2, 10, 12, 14, 17, 26, 28, 32	sust
-"uO7o/#}j_<"	Lingua Graeca	Unified Greek	γένος, γένους, τό	gender, lineage, family, lineage		2, 27, 28, 31	sust
-jszJ>S:xcA	Lingua Graeca	Unified Greek	γυνή, γυναικός, ἡ	woman		2, 6,10,12, 17, 20, 21, 27	sust
-q2fcJ$.l@!	Lingua Graeca	Unified Greek	κόρη, κόρης, ἡ	girl, daughter	πρόστασις τῶν κορῶν la tribuna de las muchachas (Cariátides) 24	2, 5, 12, 23	sust
-A6<6jqvU&H	Lingua Graeca	Unified Greek	νεανίας, νεανίου, ὁ	young man, young man		2, 5, 12, 18, 25, 26	sust
-srngLeFPUz	Lingua Graeca	Unified Greek	παιδίον, παιδίου, τό	toddler, baby		2, 5, 12, 18, 20, 25	sust
-"jpNh*ue|0#"	Lingua Graeca	Unified Greek	παῖς, παιδός, ἡ, ὁ	girl, boy		2, 5, 12, 16, 17, 18, 19, 21, 25, 26	sust
-JJpDw/DEUB	Lingua Graeca	Unified Greek	οὖν	Then, therefore, in effect	οὐ γὰρ οὖν no, by no means.	2, y ss.	part
-o9V&k7).`~	Lingua Graeca	Unified Greek	δύο	two		2, y ss.	num
-m[?kxxQ+7j	Lingua Graeca	Unified Greek	τρεῖς, τρία	three		2, y ss.	num
-M{U8bO}vj+	Lingua Graeca	Unified Greek	γάρ	therefore, since		2, y ss.	conj
-r^|DJjzfyR	Lingua Graeca	Unified Greek	ἀθάνατος, ἀθάνατον	immortal		2, 19, 26	adj
-tl[Lwvh?X}	Lingua Graeca	Unified Greek	θηλυκός, θηλυκή, θηλυκόν	female		2, 3	adj
-w9;jI1llZU	Lingua Graeca	Unified Greek	θνητός, θνητή, θνητόν	mortal (adjective)		2, 6, 28	adj
-PX5Hl[YK)2	Lingua Graeca	Unified Greek	κακός, κακή, κακόν	bad, malicious, horrible, ugly		2, 4, 10, 32	adj
-B*F^lU-Qof	Lingua Graeca	Unified Greek	καλός, καλή, καλόν	beautiful, beautiful, noble, good	superlat.: κάλλιστη 12, κάλλιστον 24	2, 4, 10, 12, 17, 18, 19, 20, 23, 24, 25, 26	adj
-A;4f2JQ^hZ	Lingua Graeca	Unified Greek	οὐδέτερος, οὐδετέρα, οὐδέτερον	neutral		2, 3	adj
-dw%74F1h|,	Basic	Unified Greek	ἐστίν / εἰσίν	is / are			
-Qi~%zfuQA`	Basic	Unified Greek	ἄνθρωπος, ὁ / ἡ	person, human			
-P?$g-7&=!?	Basic	Unified Greek	ἄρθρον, τό	article			
-o$o`-HE~5U	Basic	Unified Greek	ἀριθμός, ὁ	number			
-GU*+ASi^nc	Basic	Unified Greek	βασιλεία, ἡ	kingdom			
-J8^PVx!50U	Basic	Unified Greek	γραμματική, ἡ	grammar			
-E8q;j.[9e]	Basic	Unified Greek	θεά, ἡ	goddess			
-B;4x_2]55]	Basic	Unified Greek	θεός, ὁ	god			
-"w6}WDW4#63"	Basic	Unified Greek	θηρίον, τό	wild beast			
-GCjpm^?W|(	Basic	Unified Greek	ἱέρεια, ἡ	priestess			
-CfeZdo`{<u	Basic	Unified Greek	κεφάλαιον, τό	chapter			
-F,/YYw(,F	Basic	Unified Greek	μαθηματικός, ὁ	mathematician			
-lPA>V>PE|8	Basic	Unified Greek	μελέτημα, τό	study, exercise			
-b1+ZZ]wd?F	Basic	Unified Greek	μουσικός, ὁ	musician			
-f_^(;L$9I%	Basic	Unified Greek	ποιήτρια, ἡ	poetess			
-E=b~aT=@)z	Basic	Unified Greek	φιλόσοφος, ὁ	philosopher			
-FQ[1ILm~]2	Basic	Unified Greek	τίς	who?			
-iw?yxYz3yd	Basic	Unified Greek	δέ	but, and			
-i-/2:GGW)s	Basic	Unified Greek	μέν	on the one hand			
-n^<+L/o1z5	Basic	Unified Greek	Ἑλληνικός, -ή, -όν	Greek (adj.)			vocab;adj;Logos-Γ
-eB;d)h(ZN&	Basic	Unified Greek	ἑλληνικός, -η, -ον	Greek (alternative spelling)			
-B^LqW-^l,D	Basic	Unified Greek	πληθυντικός, -ή, -όν	plural			
-wuB!hRfnq<	Basic	Unified Greek	Ῥωμαϊκός, -ή, -όν	Roman			
-G[3RLtC($&	Basic	Unified Greek	ἄρα (ὁ δοῦλος ἄρα πονεῖ)	then, therefore<br>(“So the slave is working / the slave, then, is working.”)			
-gLAOs,)N,;	Basic	Unified Greek	ναί	yes			
-"Qd44#C]Rb@"	Basic	Unified Greek	οὐ / οὐκ / οὐχ	not			
-Qi6<H8j%k@	Basic	Unified Greek	οὐδαμῶς	by no means			
-BW$ZNL_!,%	Basic	Unified Greek	ὁ, ἡ	the (masc./fem.)			
-ndb05Qm@e2	Basic	Unified Greek	ἀλλά	but			
-q-oR=X0yWk	Basic	Unified Greek	καί	and			
-lkl:9Lc*v$	Basic	Unified Greek	Ἀθηνᾶ, ἡ	Athena			
-C1tx(QnQJ[	Basic	Unified Greek	Ἀπόλλων, ὁ	Apollo			
-CB%4W,.I?2	Basic	Unified Greek	Ἄρης, ὁ	Ares			
-yi2l$}CaV+	Basic	Unified Greek	Ἄρτεμις, ἡ	Artemis			
-ltz@yNke9[	Basic	Unified Greek	Ἀστερίων, ὁ	Asterion			
-f{)iY*,,^^	Basic	Unified Greek	Ἀφροδίτη, ἡ	Aphrodite			
-Dw>y^!;NUg	Basic	Unified Greek	Δημήτηρ, ἡ	Demeter			
-q/);WiieUD	Basic	Unified Greek	Διόνυσος, ὁ	Dionysus			
-GEb0T)&Rd(	Basic	Unified Greek	Διοτίμα, ἡ	Diotima			
-O:Z12X81pA	Basic	Unified Greek	Ἑρμῆς, ὁ	Hermes			
-An!!+heS~:	Basic	Unified Greek	Ἡρακλῆς, ὁ	Heracles			
-"J#hkSwM15l"	Basic	Unified Greek	Ζεύς, ὁ	Zeus			
-g]u4~S)8iZ	Basic	Unified Greek	Ἥρα, ἡ	Hera			
-q/M^~AH6hk	Basic	Unified Greek	Κέρβερος, ὁ	Cerberus			
-tszLO-zeND	Basic	Unified Greek	Κλεοπάτρα, ἡ	Cleopatra			
-F1%!JQm%bi	Basic	Unified Greek	Κόριννα, ἡ	Corinna			
-J3m<sP]n!?	Basic	Unified Greek	Μήδεια, ἡ	Medea			
-OP3)iJO*W)	Basic	Unified Greek	Ὀρφεύς, ὁ	Orpheus			
-Md/N7F1s2_	Basic	Unified Greek	Περσεφόνη, ἡ	Persephone			
-oe@j^M^WtV	Basic	Unified Greek	Πήγασος, ὁ	Pegasus			
-JY@|nDL/XP	Basic	Unified Greek	Πλάτων, ὁ	Plato			
-jZ_xG^hpT?	Basic	Unified Greek	Ποδάρκης, ἡ	Podarke			
-iRZFM-%GK+	Basic	Unified Greek	Πολύφημος, ὁ	Polyphemus			
-yl?ay.~2]7	Basic	Unified Greek	Πυθαγόρας, ὁ	Pythagoras			
-p(l|UbRJk9	Basic	Unified Greek	Ὕδρα, ἡ	Hydra			
-"Gz9_4g1=l#"	Basic	Unified Greek	Χείρων, ὁ	Chiron			
-m`!K>~,n|r	Basic	Unified Greek	Χίμαιρα, ἡ	Chimera			
-I|/:vFjS_-	Cloze	Unified Greek	ὁ {{c1::Δικαιόπολις}} {{c2::Ἀθηναῖός}} ἐστιν.	Dikaiopolis is an Athenian			
-ypHdX/.r!T	Cloze	Unified Greek	γεωργεῖ οὖν τὸν {{c1::κλῆρον}} καὶ πονεῖ ἐν τοῖς {{c2::ἀγροῖς}}.	So he cultivates his farm and works in the fields			
-n`]!f:4vXM	Cloze	Unified Greek	χαλεπὸς δὲ ἐστὶν ὁ {{c1::βίος}}· ὁ γὰρ {{c2::κλῆρος}} ἐστι μικρός, {{c3::μακρὸς}} δὲ ὁ {{c4::πόνος}}.	Life is hard; for the farm is small, but the toil is long.			
-CsSRH8VE&$	Cloze	Unified Greek	{{c1::πολλάκις}} οὖν {{c2::χαίρει}}· {{c3::ἐλεύθερος}} γὰρ ἐστὶ καὶ {{c4::αὐτουργός}}	So he often rejoices; for he is free and a farmer			
-d)bvKh2HqS	Cloze	Unified Greek	καλὸς γάρ ἐστιν ὁ {{c1::κλῆρος}} καὶ {{c2::σῖτον}} {{c3::παρέχει}} οὐ πολὺν ἀλλὰ {{c4::ἱκανόν}}.	<div>For the farm is good and provides grain, not much but enough.</div>			
-z?q`!;@_%B	Cloze	Unified Greek	{{c1::καθίζει}} οὖν ὑπὸ τῷ δένδρῳ καὶ ἡσυχάζει οὐ πολὺν χρόνον.	<div>he sits under the tree and rests for not a long time.</div>			
-tX]O7m(tf/	Cloze	Unified Greek	οὐκέτι οὖν πονεῖ ὁ Δικαιόπολις ἀλλὰ πρὸς τὸν οἶκον {{c1::βαδίζει}}	Dikaiopolis no longer works but walks toward the house.			
-gPYoW_<@$Z	Cloze	Unified Greek	μέγαν λίθον {{c1::αἴρει}} καὶ φέρει πρὸς τὸ ἔρμα.	He lifts a large stone and carries it toward the stone heap.			
-g(&.]JZ(Yp	Cloze	Unified Greek	τοὺς γὰρ λίθους ἐκ τοῦ ἀγροῦ {{c1::φέρει}}.	For he carries the stones out of the field.			
-t`G09EQ%R,	Cloze	Unified Greek	"He sits under the tree and rests for not a long time.<br>
+#tags column:5
+ἀγρός, ἀγροῦ[sound:rec1672974328.mp3]	field			
+Ἀθηναῖος, -α, -ον[sound:rec1672974352.mp3]	Athenian			
+ἀλλά[sound:rec1672974362.mp3]	but			
+ἄνθρωπος, ἀνθρώπου, ὁ[sound:rec1672974371.mp3]	man			
+αὐτουργός, αὐτουργοῦ, ὁ[sound:rec1672974385.mp3]	farmer			
+γάρ[sound:rec1672974394.mp3]	for			
+δέ[sound:rec1672974399.mp3]	and, but			
+Δικαιόπολις, Δικαιοπόλιδος, ὁ[sound:rec1672974415.mp3]	Dicaeopolis			
+ἐν ταῖς Ἀθήναις[sound:rec1672974427.mp3]	in Athens			
+ἐστι(ν), , , , ,[sound:rec1672974434.mp3]	he/she/it is			
+καί[sound:rec1672974448.mp3]	and			
+καλός, -ή, -όν[sound:rec1672974455.mp3]	beautiful			
+λέγω, λέξω / ἐρῶ, ἔλεξα / εἶπον, εἴρηκα, λέλεγμαι / εἴρημαι, ἐλέχθην[sound:rec1672974461.mp3]	I speak; I tell; I say			
+μακρός, -ά, -όν[sound:rec1672974476.mp3]	long; large			
+μικρός, -ά, -όν[sound:rec1672974482.mp3]	small			
+οἰκέω, οἰκήσω, ᾤκησα, ᾤκηκα, ᾤκημαι, ᾠκήθην[sound:rec1672974488.mp3]	I live; I dwell			
+οἶκος, οἴκου, ὁ[sound:rec1672974503.mp3]	house; home; dwelling			
+οὐ, οὐκ, οὐχ[sound:rec1672974519.mp3]	not			
+οὖν[sound:rec1672974526.mp3]	so; then			
+πολύς, πολλή, πολύ[sound:rec1672974531.mp3]	much, pl. many			
+πονέω, πονήσω, ἐπόνησα, πεπόνηκα, πεπόνημαι, ἐπονήθην[sound:rec1672974537.mp3]	I work			
+πόνος, πόνου, ὁ[sound:rec1672974546.mp3]	toil, work			
+σῖτος, σίτου, ὁ[sound:rec1672974552.mp3]	grain; food			
+φιλέω, φιλήσω, ἐφίλησα, πεφίληκα, πεφίλημαι, ἐφιλήθην[sound:rec1672974558.mp3]	I love			
+χαίρω, χαιρήσω, --, κεχάρηκα, --, ἐχάρην[sound:rec1672974563.mp3]	I rejoice; + participle, I am glad to			
+αἴρω, ἀρῶ, ἦρα, ἦρκα, ἦρμαι, ἤρθην[sound:rec1672974569.mp3]	I lift; with reflexive pronoun, I get up			
+βαδίζω, βαδιοῦμαι, ἐβάδισα, βεβάδικα, --, --[sound:rec1672974577.mp3]	I walk; I go			
+ἥλιος, ἡλίου, ὁ[sound:rec1672974592.mp3]	sun			
+ἰσχυρός, -ά, -όν[sound:rec1672974598.mp3]	strong			
+πρός[sound:rec1672974610.mp3]	towards,&nbsp;<i><b>on the side of, in the direction of,</b></i>			
+φέρω, οἴσω, ἤνεγκα or ἤνεγκον, ἐνήνοχα, ἐνήνεγμαι, ἠνέχθην[sound:rec1672974615.mp3]	I carry; of roads: lead			
+χαλεπός, -ή, -όν[sound:rec1672974620.mp3]	difficult			
+χρόνος, χρόνου, ὁ[sound:rec1672974626.mp3]	time			
+ἀργός, --, ἀργόν[sound:rec1672974633.mp3]	lazy			
+δοῦλος, δούλου, ὁ[sound:rec1672974648.mp3]	slave			
+ἐλθέ!, , , , ,[sound:rec1672974675.mp3]	come!			
+μέν ... δέ ...[sound:rec1672974693.mp3]	on the one hand ... and on the other			
+Ξανθίας, Ξανθίου, ὁ[sound:rec1672974709.mp3]	Xanthias			
+οὕτως/οὕτω[sound:rec1672974715.mp3]<br><br>(οὕτως καλὸς ἐστίν)	so, thus<br>(he is so beautiful)			leech
+τί[sound:rec1672974735.mp3]	why?			
+βοῦς, βοός, ὁ[sound:rec1672974753.mp3]	ox			
+δένδρον, δένδρου, τό[sound:rec1672974763.mp3]	tree			
+δεσπότης, δεσπότου, ὁ[sound:rec1672974769.mp3]	master			
+λίθος, λίθου, ὁ[sound:rec1672974873.mp3]	stone			
+μέγας, μεγάλη, μέγα[sound:rec1672974878.mp3]	big, large; great			
+τε ... καί, τε καί[sound:rec1672974964.mp3]	both ... and			
+παῖς, παιδός, ὁ[sound:rec1672975039.mp3]	boy; son; child			
+παῖς, παιδός, ἡ[sound:rec1672975044.mp3]	girl; daughter; child			
+πατήρ, πατρός, ὁ[sound:rec1672975049.mp3]	father			
+πολλοί, πολλαί, πολλά[sound:rec1672975054.mp3]	many			
+Φίλιππος, Φιλίππου, ὁ[sound:rec1672975064.mp3]	Philip			
+ἀκούω, ἀκούσομαι, ἤκουσα, ἀκήκοα, ἤκουσμαι, ἠκούσθην[sound:rec1672975077.mp3]	I listen			
+ἀνήρ, ἀνδρός, ὁ[sound:rec1672975082.mp3]	man; husband			
+γυνή, γυναικός, ἡ[sound:rec1672975096.mp3]	women; wife			
+θυγάτηρ, θυγατρός, ἡ[sound:rec1672975144.mp3]	daughter			
+μάλα[sound:rec1672975164.mp3]	very			
+μήτηρ, μητρός, ἡ[sound:rec1672975187.mp3]	mother			
+πρῶτον[sound:rec1672975214.mp3]	first			
+χαίρω, χαιρήσω, ἐχαίρησα, κεχάρηκα, ---, ἐχάρην[sound:rec1672975254.mp3]	I rejoice			
+ἀεί[sound:rec1672975264.mp3]	always			leech
+κύων, κυνός, ὁ[sound:rec1672975391.mp3]	dog			
+κύων, κυνός, ἡ[sound:rec1672975400.mp3]	dog			
+λαγώς, λαγών, ὁ[sound:rec1672975406.mp3]	hare			
+λύκος, λύκου, ὁ[sound:rec1672975411.mp3]	wolf			
+οἰκία, οἰκίας, ἡ[sound:rec1672975419.mp3]	house; home; dwelling			
+οὐδέ[sound:rec1672975469.mp3]	and...not; nor; not even			
+οὔτε...οὔτε[sound:rec1672975474.mp3]	neither; nor			
+πάππος, πάππου, ὁ[sound:rec1672975478.mp3]	grandfather			
+πρόβατα, προβάτων, τό[sound:rec1672975487.mp3]	sheep			
+ἄγριος, -α, -ον[sound:rec1672975526.mp3]	savage; wild; fierce			
+αὐτός, αὐτή, αὐτό[sound:rec1672975537.mp3]	-self, -selves			
+καί...καί[sound:rec1672975579.mp3]	both... and			
+πρῶτος, -η, -ον[sound:rec1672975598.mp3]	first			
+βασιλεύς, βασιλέως, ὁ[sound:rec1672975641.mp3]	King			
+Μινώταυρος, Μινωταύρου, ὁ[sound:rec1672975911.mp3]	Minotaur			
+πάππας, πάππου, ὁ[sound:rec1672975940.mp3]	papa			
+παρθένος, παρθένου, ἡ[sound:rec1672975945.mp3]	maiden, girl (virgin)			
+᾿ Αθῆναι, ᾿ Αθηνῶν, αἱ[sound:rec1672975972.mp3]	Athens			
+οὐδαμῶς[sound:rec1672976021.mp3]	in no way, no			
+πολλάκις[sound:rec1672976029.mp3]	many times, often			
+αἴξ, αἰγος, ὁ[sound:rec1672976050.mp3]	goat			
+αἴξ, αἰγός, ἡ[sound:rec1672976054.mp3]	goat			
+θάλαττα, θαλάττης, ἡ[sound:rec1672976078.mp3]	sea			
+ὄνομα, ὀνόματος, τό[sound:rec1672976091.mp3]	name			
+δύο, δύο, δύο[sound:rec1672976169.mp3]	two			
+[sound:rec1672976158.mp3]δύο	two			
+εἷς, μία, ἕν[sound:rec1672976250.mp3]	one			
+εἷς, μία, ἕν[sound:rec1672976257.mp3]	one			
+δεύτερος, -α, -ον[sound:rec1672976550.mp3]	second			
+Διόνυσος, Διονύσου, ὁ[sound:rec1672976575.mp3]	Dionysus			
+δέκα[sound:rec1672976579.mp3]	ten			
+δέκατος, -η, -ον[sound:rec1672976583.mp3]	tenth			
+ἕβδομος, -η, -ον[sound:rec1672976593.mp3]	seventh			
+ἕκτος, -η, -ον[sound:rec1672976602.mp3]	sixth			leech
+ἔνατος, -η, -ον[sound:rec1672976611.mp3]	ninth			
+ἐννέα[sound:rec1672976615.mp3]	nine			
+ἕξ[sound:rec1672976621.mp3]	six			
+ὀκτώ[sound:rec1672976697.mp3]	eight			
+πέμπτος, -η, -ον[sound:rec1672976730.mp3]	fifth			
+πέντε[sound:rec1672976735.mp3]	five			
+τρεῖς, τρία[sound:rec1672976740.mp3]	three			
+τρίτος, -η, -ον[sound:rec1672976743.mp3]	third			
+τέταρτος -η, -ον[sound:rec1672976748.mp3]	fourth			
+τέτταρες, τέτταρα[sound:rec1672976754.mp3]	four			
+Ζεύς, Διός, ὁ[sound:rec1672976799.mp3]	Zeus (King of the Gods)			
+νεανίας, νεανίου, ὁ[sound:rec1672976810.mp3]	young man			
+θεός, θεοῦ, ἡ[sound:rec1672976887.mp3]	goddess			
+᾿ Αθηνᾶ, ᾿ Αθηνᾶς, ἡ[sound:rec1672976935.mp3]	Athena (daughter of Zeus)			
+τεκόντες, τεκόντων, οἱ[sound:rec1672977141.mp3]	parents			
+λέγω, λέξω, ἔλεξα, εἵρηκα, λέλεγμαι, ἐλέχθην[sound:rec1672977274.mp3]	I tell, say, speak			
+ἤ[sound:rec1672977390.mp3]	or			
+ἤ...ἤ[sound:rec1672977394.mp3]	either...or			
+κακός, -ή, -όν[sound:rec1672977420.mp3]	bad; evil			
+Θεμιστοκλῆς, Θεμιστοκλέους, ὁ[sound:rec1672978232.mp3]	Themistocles			
+ἳππος, ἳππου, ὁ[sound:rec1672978530.mp3]	horse			
+ποταμός, πουαμοῦ, ὁ[sound:rec1672978568.mp3]	river			
+βίος, βίου, ὁ[sound:rec1672978652.mp3]	life			
+ἀνήρ, ἀνδρός, ὁ	male, male		2, 10, 12, 14, 17, 26, 28, 32	sust
+γένος, γένους, τό	gender, lineage, family, lineage		2, 27, 28, 31	sust
+γυνή, γυναικός, ἡ	woman		2, 6,10,12, 17, 20, 21, 27	sust
+κόρη, κόρης, ἡ	girl, daughter	πρόστασις τῶν κορῶν la tribuna de las muchachas (Cariátides) 24	2, 5, 12, 23	sust
+νεανίας, νεανίου, ὁ	young man, young man		2, 5, 12, 18, 25, 26	sust
+παιδίον, παιδίου, τό	toddler, baby		2, 5, 12, 18, 20, 25	sust
+παῖς, παιδός, ἡ, ὁ	girl, boy		2, 5, 12, 16, 17, 18, 19, 21, 25, 26	sust
+οὖν	Then, therefore, in effect	οὐ γὰρ οὖν no, by no means.	2, y ss.	part
+δύο	two		2, y ss.	num
+τρεῖς, τρία	three		2, y ss.	num
+γάρ	therefore, since		2, y ss.	conj
+ἀθάνατος, ἀθάνατον	immortal		2, 19, 26	adj
+θηλυκός, θηλυκή, θηλυκόν	female		2, 3	adj
+θνητός, θνητή, θνητόν	mortal (adjective)		2, 6, 28	adj
+κακός, κακή, κακόν	bad, malicious, horrible, ugly		2, 4, 10, 32	adj
+καλός, καλή, καλόν	beautiful, beautiful, noble, good	superlat.: κάλλιστη 12, κάλλιστον 24	2, 4, 10, 12, 17, 18, 19, 20, 23, 24, 25, 26	adj
+οὐδέτερος, οὐδετέρα, οὐδέτερον	neutral		2, 3	adj
+ἐστίν / εἰσίν	is / are			
+ἄνθρωπος, ὁ / ἡ	person, human			
+ἄρθρον, τό	article			
+ἀριθμός, ὁ	number			
+βασιλεία, ἡ	kingdom			
+γραμματική, ἡ	grammar			
+θεά, ἡ	goddess			
+θεός, ὁ	god			
+θηρίον, τό	wild beast			
+ἱέρεια, ἡ	priestess			
+κεφάλαιον, τό	chapter			
+μαθηματικός, ὁ	mathematician			
+μελέτημα, τό	study, exercise			
+μουσικός, ὁ	musician			
+ποιήτρια, ἡ	poetess			
+φιλόσοφος, ὁ	philosopher			
+τίς	who?			
+δέ	but, and			
+μέν	on the one hand			
+Ἑλληνικός, -ή, -όν	Greek (adj.)			vocab;adj;Logos-Γ
+ἑλληνικός, -η, -ον	Greek (alternative spelling)			
+πληθυντικός, -ή, -όν	plural			
+Ῥωμαϊκός, -ή, -όν	Roman			
+ἄρα (ὁ δοῦλος ἄρα πονεῖ)	then, therefore<br>(“So the slave is working / the slave, then, is working.”)			
+ναί	yes			
+οὐ / οὐκ / οὐχ	not			
+οὐδαμῶς	by no means			
+ὁ, ἡ	the (masc./fem.)			
+ἀλλά	but			
+καί	and			
+Ἀθηνᾶ, ἡ	Athena			
+Ἀπόλλων, ὁ	Apollo			
+Ἄρης, ὁ	Ares			
+Ἄρτεμις, ἡ	Artemis			
+Ἀστερίων, ὁ	Asterion			
+Ἀφροδίτη, ἡ	Aphrodite			
+Δημήτηρ, ἡ	Demeter			
+Διόνυσος, ὁ	Dionysus			
+Διοτίμα, ἡ	Diotima			
+Ἑρμῆς, ὁ	Hermes			
+Ἡρακλῆς, ὁ	Heracles			
+Ζεύς, ὁ	Zeus			
+Ἥρα, ἡ	Hera			
+Κέρβερος, ὁ	Cerberus			
+Κλεοπάτρα, ἡ	Cleopatra			
+Κόριννα, ἡ	Corinna			
+Μήδεια, ἡ	Medea			
+Ὀρφεύς, ὁ	Orpheus			
+Περσεφόνη, ἡ	Persephone			
+Πήγασος, ὁ	Pegasus			
+Πλάτων, ὁ	Plato			
+Ποδάρκης, ἡ	Podarke			
+Πολύφημος, ὁ	Polyphemus			
+Πυθαγόρας, ὁ	Pythagoras			
+Ὕδρα, ἡ	Hydra			
+Χείρων, ὁ	Chiron			
+Χίμαιρα, ἡ	Chimera			
+ὁ {{c1::Δικαιόπολις}} {{c2::Ἀθηναῖός}} ἐστιν.	Dikaiopolis is an Athenian			
+γεωργεῖ οὖν τὸν {{c1::κλῆρον}} καὶ πονεῖ ἐν τοῖς {{c2::ἀγροῖς}}.	So he cultivates his farm and works in the fields			
+χαλεπὸς δὲ ἐστὶν ὁ {{c1::βίος}}· ὁ γὰρ {{c2::κλῆρος}} ἐστι μικρός, {{c3::μακρὸς}} δὲ ὁ {{c4::πόνος}}.	Life is hard; for the farm is small, but the toil is long.			
+{{c1::πολλάκις}} οὖν {{c2::χαίρει}}· {{c3::ἐλεύθερος}} γὰρ ἐστὶ καὶ {{c4::αὐτουργός}}	So he often rejoices; for he is free and a farmer			
+καλὸς γάρ ἐστιν ὁ {{c1::κλῆρος}} καὶ {{c2::σῖτον}} {{c3::παρέχει}} οὐ πολὺν ἀλλὰ {{c4::ἱκανόν}}.	<div>For the farm is good and provides grain, not much but enough.</div>			
+{{c1::καθίζει}} οὖν ὑπὸ τῷ δένδρῳ καὶ ἡσυχάζει οὐ πολὺν χρόνον.	<div>he sits under the tree and rests for not a long time.</div>			
+οὐκέτι οὖν πονεῖ ὁ Δικαιόπολις ἀλλὰ πρὸς τὸν οἶκον {{c1::βαδίζει}}	Dikaiopolis no longer works but walks toward the house.			
+μέγαν λίθον {{c1::αἴρει}} καὶ φέρει πρὸς τὸ ἔρμα.	He lifts a large stone and carries it toward the stone heap.			
+τοὺς γὰρ λίθους ἐκ τοῦ ἀγροῦ {{c1::φέρει}}.	For he carries the stones out of the field.			
+"He sits under the tree and rests for not a long time.<br>
 {{c1::καθίζει}} οὖν ὑπὸ τῷ δένδρῳ καὶ ἡσυχάζει οὐ πολὺν χρόνον."				reverse
-fG9XyV8cg,	Cloze	Unified Greek	"Dikaiopolis no longer works but walks toward the house.<br>
+"Dikaiopolis no longer works but walks toward the house.<br>
 οὐκέτι οὖν πονεῖ ὁ Δικαιόπολις ἀλλὰ πρὸς τὸν οἶκον {{c1::βαδίζει}}."				reverse
-rDW5uj/irq	Cloze	Unified Greek	"He lifts a large stone and carries it toward the stone heap.<br>
+"He lifts a large stone and carries it toward the stone heap.<br>
 μέγαν λίθον {{c1::αἴρει}} καὶ φέρει πρὸς τὸ ἔρμα."				reverse
-s+E}|<0_cc	Cloze	Unified Greek	"He carries the stones out of the field.<br>
+"He carries the stones out of the field.<br>
 τοὺς γὰρ λίθους ἐκ τοῦ ἀγροῦ {{c1::φέρει}}."				reverse
-es-(D3xi|,	Basic	Unified Greek	ἀνήρ, ὁ	man (masc.)			
-"nW#5z*RXwY"	Basic	Unified Greek	man (masc.)	ἀνήρ, ὁ			
-m7tsFa%he|	Basic	Unified Greek	γένος, τό	race, kind (neut.)			
-C9mbKamEz5	Basic	Unified Greek	race, kind (neut.)	γένος, τό			
-j&mL^HJV[J	Basic	Unified Greek	γυνή, ἡ	woman (fem.)			
-iu,a_j)!{`	Basic	Unified Greek	woman (fem.)	γυνή, ἡ			
-l>S_c)euDX	Basic	Unified Greek	κόρη, ἡ	girl (fem.)			
-PM,UsuHmoj	Basic	Unified Greek	girl (fem.)	κόρη, ἡ			
-MrOynx`i?F	Basic	Unified Greek	νεανίας, ὁ	young man (masc.)			
-qA)py:G0U(	Basic	Unified Greek	young man (masc.)	νεανίας, ὁ			
-A&|/w$j^+O	Basic	Unified Greek	παῖς, ὁ/ἡ	child (masc./fem.)			
-Q|xqUsS.0L	Basic	Unified Greek	child (masc./fem.)	παῖς, ὁ/ἡ			
-EY6H9pKM$Y	Basic	Unified Greek	παιδίον, τό	little child (neut.)			
-s,O;|t<O,B	Basic	Unified Greek	little child (neut.)	παιδίον, τό			
-AL}R0%=,Mb	Basic	Unified Greek	ἀθάνατος, -ον	immortal (m/f), immortal (n)			
-wtg+b^M`bE	Basic	Unified Greek	immortal (m/f), immortal (n)	ἀθάνατος, -ον			
-vH]lGe)3-R	Basic	Unified Greek	ἀρσενικός, -ή, -όν	male, masculine			
-tlE!CG;5Ol	Basic	Unified Greek	male, masculine	ἀρσενικός, -ή, -όν			
-utb64[&w,@	Basic	Unified Greek	θηλυκός, -ή, -όν	female, feminine			
-F[LX7<FApX	Basic	Unified Greek	female, feminine	θηλυκός, -ή, -όν			
-htSQEl`,9>	Basic	Unified Greek	θνητός, -ή, -όν	mortal			
-tv6k|USwpP	Basic	Unified Greek	mortal	θνητός, -ή, -όν			
-p9a50aLSw.	Basic	Unified Greek	κακός, -ή, -όν	bad, evil			
-m+)B-ZX_)T	Basic	Unified Greek	bad, evil	κακός, -ή, -όν			
-l!!*C|0bC[	Basic	Unified Greek	καλός, -ή, -όν	good, beautiful			
-CME}2;/11$	Basic	Unified Greek	good, beautiful	καλός, -ή, -όν			
-cmX8>2+wK]	Basic	Unified Greek	οὐδέτερος, -τέρα, -τερον	neither, neuter			
-rQ@4<F*E-*	Basic	Unified Greek	neither, neuter	οὐδέτερος, -τέρα, -τερον			
-PD9BB/sU;X	Basic	Unified Greek	ὁ	the (masc. sg.)			
-H`od%)u[Mr	Basic	Unified Greek	the (masc. sg.)	ὁ			
-wdwA/(=gB)	Basic	Unified Greek	ἡ	the (fem. sg.)			
-"I-.7)0#&0;"	Basic	Unified Greek	the (fem. sg.)	ἡ			
-Iz3RJLCeX+	Basic	Unified Greek	τό	the (neut. sg.)			
-Fys;MBM3^5	Basic	Unified Greek	the (neut. sg.)	τό			
-CtNvv`WBm@	Basic	Unified Greek	οἱ	the (masc. pl.)			
-f0aMvR-W.:	Basic	Unified Greek	the (masc. pl.)	οἱ			
-Nu|;5zHmfy	Basic	Unified Greek	αἱ	the (fem. pl.)			
-j=,fKdG2VX	Basic	Unified Greek	the (fem. pl.)	αἱ			
-lf1d8y1V54	Basic	Unified Greek	τά	the (neut. pl.)			
-"nG*BM#)7(A"	Basic	Unified Greek	the (neut. pl.)	τά			
-G`bwqHpbEw	Basic	Unified Greek	δύο	two			
-B40=!D9!mz	Basic	Unified Greek	two	δύο			
-oiq5SA0Uvw	Basic	Unified Greek	τρεῖς	three			
-sSLNz&f8uc	Basic	Unified Greek	three	τρεῖς			
-td~uJ.6Uuo	Basic	Unified Greek	γάρ	for, since			
-zQ)a*4rc|m	Basic	Unified Greek	for, since	γάρ			
-rwoD*pFM`*	Basic	Unified Greek	ἤ	or			
-clr1bJRDD$	Basic	Unified Greek	or	ἤ			
-gUgtA!L[,1	Basic	Unified Greek	οὔτε ... οὔτε	neither ... nor			
-HTtQSYoLpj	Basic	Unified Greek	neither ... nor	οὔτε ... οὔτε			
-gN)w[em5a5	Basic	Unified Greek	οὖν	therefore, so			
-pNI/<pQTh!	Basic	Unified Greek	therefore, so	οὖν			leech
-uuq6:SN;.,	Basic	Unified Greek	Ἀριστοφάνης, ὁ	Aristophanes (masc.)			
-k}~705L/T<	Basic	Unified Greek	Ἀριστοτέλης, ὁ	Aristotle (masc.)			
-cY9NQg<kh+	Basic	Unified Greek	Ἀπολλόδωρος, ὁ	Apollodorus (masc.)			
-df>+bwWsWO	Basic	Unified Greek	Ἐλένη, ἡ	Helen (fem.)			
-o]d3jui%a6	Basic	Unified Greek	Ἠλέκτρα, ἡ	Electra (fem.)			
-M)(R.!rAuu	Basic	Unified Greek	Καλλίμαχος, ὁ	Callimachus (masc.)			
-"sa<|W#2!Zp"	Basic	Unified Greek	Καλλιρρόη, ἡ	Callirhoe (fem.)			
-lBUu|MDP2_	Basic	Unified Greek	Κασσάνδρα, ἡ	Cassandra (fem.)			
-"f#Dy<L-~}]"	Basic	Unified Greek	Πάτροκλος, ὁ	Patroclus (masc.)			
-"z)P%}4[#IF"	Basic	Unified Greek	Ὑπατία, ἡ	Hypatia (fem.)			
-IFO;$}}y4.	Basic	Unified Greek	Φίλιππος, ὁ	Philip (masc.)			
-n=-UH)/{]o	Basic	Unified Greek	γλῶσσα, ἡ	tongue; language (feminine)			vocab;noun;Logos-Γ
-I}%d{1HCg7	Basic	Unified Greek	γράμμα, τό	letter (of the alphabet) (neuter)			vocab;noun;Logos-Γ
-dy!.^[2Nvx	Basic	Unified Greek	δίφθογγος, ἡ	diphthong (feminine)			vocab;noun;Logos-Γ
-h=76LD$EZ[	Basic	Unified Greek	κλίσις, ἡ	declension (feminine)			vocab;noun;Logos-Γ
-oK+x{`+S6^	Basic	Unified Greek	λέξις, ἡ	word (feminine)			vocab;noun;Logos-Γ
-O)qAG&LjPJ	Basic	Unified Greek	ὄνομα, τό	name (neuter)			vocab;noun;Logos-Γ
-PRFN-h+zJy	Basic	Unified Greek	σύμφωνον, τό	consonant (neuter)			vocab;noun;Logos-Γ
-uAN)UXoLR6	Basic	Unified Greek	φωνῆεν, τό	vowel (neuter)			vocab;noun;Logos-Γ
-ymHsBZGT@E	Basic	Unified Greek	δεύτερος, -α, -ον	second (adj.)			vocab;adj;Logos-Γ
-ONvKVO89K/	Basic	Unified Greek	τρίτος, -η, -ον	third (adj.)			vocab;adj;Logos-Γ
-n~fJN=NshJ	Basic	Unified Greek	πρῶτος, -η, -ον	first (adj.)			vocab;adj;Logos-Γ
-lL-euncJZ<	Basic	Unified Greek	τελευταῖος, -α, -ον	last (adj.)			vocab;adj;Logos-Γ
-C_7UXeR}~+	Basic	Unified Greek	κεφαλαῖος, -α, -ον	capital; uppercase (adj.)			vocab;adj;Logos-Γ
-LDHy^X:t5J	Basic	Unified Greek	κύριος, -α, -ον	proper; principal (adj.)			vocab;adj;Logos-Γ
-Om3O)Lj?e5	Basic	Unified Greek	Λατινικός, -ή, -όν	Latin (adj.)			vocab;adj;Logos-Γ
-H41d(VwfY<	Basic	Unified Greek	μέγας, μεγάλη, μέγα	great; large (adj., irregular)			vocab;adj;Logos-Γ
-jL&;F1Q3vE	Basic	Unified Greek	μικρός, -ά, -όν	small; little (adj.)			vocab;adj;Logos-Γ
-HH,^dc$STg	Basic	Unified Greek	ἀκούω	I hear			vocab;verb;Logos-Γ
-bS,AOBGF`{	Basic	Unified Greek	χαῖρε!	hello! (greeting imperative)			vocab;interj;Logos-Γ
-qUknEx=<xC	Basic	Unified Greek	τί;	what? (interrogative)			leech vocab;pron;Logos-Γ
-xVp{e((VwB	Basic	Unified Greek	εἷς (m.), μία (f.), ἕν (n.)	one			vocab;number;Logos-Γ
-"u$#F;%G]Kx"	Basic	Unified Greek	ἕξ	six			vocab;number;Logos-Γ
-9@Pz8p]mx	Basic	Unified Greek	ἑπτά	seven			vocab;number;Logos-Γ
-hkVJk=bga~	Basic	Unified Greek	ὀκτώ	eight			vocab;number;Logos-Γ
-K0Pt8,tFqz	Basic	Unified Greek	ἐννέα	nine			vocab;number;Logos-Γ
-gzjuU8*~5(	Basic	Unified Greek	δέκα	ten			vocab;number;Logos-Γ
-MO*67&ml1i	Basic	Unified Greek	tongue; language	γλῶσσα, ἡ			reverse;vocab;noun;Logos-Γ
-bOGrb`eWMs	Basic	Unified Greek	letter (of the alphabet)	γράμμα, τό			reverse;vocab;noun;Logos-Γ
-"zp#g7wxz4%"	Basic	Unified Greek	diphthong	δίφθογγος, ἡ			reverse;vocab;noun;Logos-Γ
-OzRq67R{ay	Basic	Unified Greek	declension	κλίσις, ἡ			reverse;vocab;noun;Logos-Γ
-w&X`cn3lvq	Basic	Unified Greek	word	λέξις, ἡ			reverse;vocab;noun;Logos-Γ
-fmA}x)9osn	Basic	Unified Greek	name	ὄνομα, τό			reverse;vocab;noun;Logos-Γ
-iRFJ^bE/+n	Basic	Unified Greek	consonant	σύμφωνον, τό			reverse;vocab;noun;Logos-Γ
-qnT%NWH_go	Basic	Unified Greek	vowel	φωνῆεν, τό			reverse;vocab;noun;Logos-Γ
-bKS5.N(b[m	Basic	Unified Greek	second (adj.)	δεύτερος, -α, -ον			reverse;vocab;adj;Logos-Γ
-wR08I:df(K	Basic	Unified Greek	third (adj.)	τρίτος, -η, -ον			reverse;vocab;adj;Logos-Γ
-p:_loG@f2T	Basic	Unified Greek	first (adj.)	πρῶτος, -η, -ον			reverse;vocab;adj;Logos-Γ
-wKc4l*f[%b	Basic	Unified Greek	last (adj.)	τελευταῖος, -α, -ον			reverse;vocab;adj;Logos-Γ
-bUntY<p6/a	Basic	Unified Greek	capital; uppercase (adj.)	κεφαλαῖος, -α, -ον			reverse;vocab;adj;Logos-Γ
-J$:G!/|PA}	Basic	Unified Greek	proper; principal (adj.)	κύριος, -α, -ον			leech reverse;vocab;adj;Logos-Γ
-cF,I|.Qa{6	Basic	Unified Greek	Latin (adj.)	Λατινικός, -ή, -όν			reverse;vocab;adj;Logos-Γ
-ecX0&`c(6X	Basic	Unified Greek	Greek (adj.)	Ἑλληνικός, -ή, -όν			reverse;vocab;adj;Logos-Γ
-jG@Hz1CSjy	Basic	Unified Greek	great; large (adj.)	μέγας, μεγάλη, μέγα			reverse;vocab;adj;Logos-Γ
-"JIo4w+#M%+"	Basic	Unified Greek	small; little (adj.)	μικρός, -ά, -όν			reverse;vocab;adj;Logos-Γ
-tRlpewI)Ce	Basic	Unified Greek	I hear	ἀκούω			reverse;vocab;verb;Logos-Γ
-jmIBFl,!xm	Basic	Unified Greek	hello!	χαῖρε!			reverse;vocab;interj;Logos-Γ
-"MKf`H]oR,#"	Basic	Unified Greek	what?	τί;			reverse;vocab;pron;Logos-Γ
-"#Mf>=)&~L"	Basic	Unified Greek	one	εἷς (m.), μία (f.), ἕν (n.)			reverse;vocab;number;Logos-Γ
-Cec>jo~DV!	Basic	Unified Greek	six	ἕξ			reverse;vocab;number;Logos-Γ
-q]j62Il)p@	Basic	Unified Greek	seven	ἑπτά			reverse;vocab;number;Logos-Γ
-xHR&W}Oce^	Basic	Unified Greek	eight	ὀκτώ			reverse;vocab;number;Logos-Γ
-O%A[b$S*IT	Basic	Unified Greek	nine	ἐννέα			reverse;vocab;number;Logos-Γ
-I_J/9?(`-B	Basic	Unified Greek	ten	δέκα			reverse;vocab;number;Logos-Γ
-"c!rWlUyxn#"	Basic	Unified Greek	Nom. plural of ἡ γλῶσσα	γλῶσσαι			forms;noun;Logos-Γ
-u:RDHDI&/j	Basic	Unified Greek	Nom. plural of ἡ λέξις	λέξεις			forms;noun;Logos-Γ
-xP2TI/u{TI	Basic	Unified Greek	Nom. plural of ἡ κλίσις	κλίσεις			forms;noun;Logos-Γ
-h]|h)QPMHn	Basic	Unified Greek	Nom. plural of ἡ δίφθογγος	δίφθογγοι			forms;noun;Logos-Γ
-tk4<QrE^>^	Basic	Unified Greek	Nom. plural of τὸ γράμμα	γράμματα			forms;noun;Logos-Γ
-C!t]hW9NdI	Basic	Unified Greek	Nom. plural of τὸ ὄνομα	ὀνόματα			forms;noun;Logos-Γ
-P9zhQyMJ{_	Basic	Unified Greek	Nom. plural of τὸ σύμφωνον	σύμφωνα			forms;noun;Logos-Γ
-Ot@H)I1*DE	Basic	Unified Greek	Nom. plural of τὸ φωνῆεν	φωνήεντα			forms;noun;Logos-Γ
-b=<wA}U=q{	Basic	Unified Greek	Correct article for δίφθογγος (sg nom.) → ___ δίφθογγος	ἡ			forms;article;Logos-Γ
-c2E~[UvZy)	Basic	Unified Greek	Correct article for γράμμα (sg nom.) → ___ γράμμα	τὸ			forms;article;Logos-Γ
-Hp1fIcc/@|	Basic	Unified Greek	Correct article for λέξεις (pl nom.) → ___ λέξεις	αἱ			forms;article;Logos-Γ
-BJe[+:5zy>	Basic	Unified Greek	Correct article for ὀνόματα (pl nom.) → ___ ὀνόματα	τὰ			forms;article;Logos-Γ
-Kg1K2g)`yQ	Basic	Unified Greek	Fem. nom. sg of Ἑλληνικός	Ἑλληνική			forms;adj;Logos-Γ
-N|.i.wgL7@	Basic	Unified Greek	Neut. nom. pl of Ἑλληνικός	Ἑλληνικά			forms;adj;Logos-Γ
-q+[ReK*@1s	Basic	Unified Greek	Neut. nom. sg of μικρός	μικρόν			forms;adj;Logos-Γ
-sGU;->dwpP	Basic	Unified Greek	Fem. nom. pl of μικρός	μικραί			forms;adj;Logos-Γ
-yD%^&Bq++Y	Basic	Unified Greek	Masc. nom. sg of μέγας (irregular)	μέγας			forms;adj;Logos-Γ
-l63g@ijLH0	Basic	Unified Greek	Fem. nom. sg of μέγας (irregular)	μεγάλη			forms;adj;Logos-Γ
-P22i3^V=N8	Basic	Unified Greek	Neut. nom. sg of μέγας (irregular)	μέγα			forms;adj;Logos-Γ
-vi`IOl)DQE	Basic	Unified Greek	Neut. nom. sg of κεφαλαῖος	κεφαλαῖον			forms;adj;Logos-Γ
-H>_pM%avV3	Basic	Unified Greek	Fem. nom. pl of Λατινικός	Λατινικαί			forms;adj;Logos-Γ
-fh/@abaZNv	Cloze	Unified Greek	{{c1::πρῶτον}} γράμμα ἐστίν Α, {{c2::δεύτερον}} Β, {{c3::τρίτον}} Γ.	ordinals;Logos-Γ			
-ts&X]jU,]Y	Basic	Unified Greek	<div><div><div><div><div><div><div><strong>λέγει πολλὰ, τελευταῖον δὲ σιγᾷ.</strong>&nbsp;</div></div></div></div></div><div></div><div><div></div></div></div></div><div></div>	He talks a lot, but finally he falls silent.			
-hlpqg)@1jU	Cloze	Unified Greek	C γράμμα {{c1::Λατινικόν}} ἐστίν, Γ γράμμα {{c2::Ἑλληνικόν}} ἐστίν.	greek_latin;agreement;Logos-Γ			
-ds-tE=lNLw	Cloze	Unified Greek	{{c1::χαῖρε}}! {{c2::τί;}} ἀκούεις;	verb;greeting;Logos-Γ			fixme
-io]%z+EHoS	Basic (and reversed card)	Unified Greek	λέων, -οντος, ὁ	<img src='leon.png'>			animal_vocab
-z-<v{/bi(+	Basic (and reversed card)	Unified Greek	κύων, ὁ	"<img src=""kyon.png"">"			animal_vocab
-IqWJ;=D>/}	Basic (and reversed card)	Unified Greek	ἀλώπηξ, -εκος, ἡ	<img src='alopex.png'>			animal_vocab
-IS(6TCk>=i	Basic (and reversed card)	Unified Greek	ἀράχνη, -ης, ἡ	<img src='arachne.png'>			animal_vocab
-m1R9r{+|uo	Basic (and reversed card)	Unified Greek	ἅρπυια, -ας, ἡ	<img src='arpyia.png'>			animal_vocab
-osyKb_+[:/	Basic (and reversed card)	Unified Greek	βάτραχος, -ου, ὁ	<img src='batrachos.png'>			animal_vocab
-waMB2c!TVg	Basic (and reversed card)	Unified Greek	δελφίς, -ῖνος, ὁ	<img src='delphis.png'>			animal_vocab
-"nanK>#:Psv"	Basic (and reversed card)	Unified Greek	δράκαινα, -ης, ἡ	<img src='drakaina.png'>			animal_vocab
-i^J`&T.~.w	Basic (and reversed card)	Unified Greek	ἔλαφος, -ου, ὁ	<img src='elaphos.png'>			animal_vocab
-H-2-.(W3y=	Basic (and reversed card)	Unified Greek	ἐλέφας, -αντος, ὁ	<img src='elephas.png'>			animal_vocab
-vT6-3|Uaq7	Basic (and reversed card)	Unified Greek	ἱπποπόταμος, -ου, ὁ	<img src='ippopotamos.png'>			animal_vocab
-A`}M+MR|1d	Basic (and reversed card)	Unified Greek	ἰχθύς, -ύος, ὁ	<img src='ichthys.png'>			animal_vocab
-xl(xC|a,wx	Basic (and reversed card)	Unified Greek	καρχαρίας, -ου, ὁ	<img src='karcharias.png'>			animal_vocab
-hgR/*fQa;m	Basic (and reversed card)	Unified Greek	κένταυρος, -ου, ὁ	<img src='kentayros.png'>			animal_vocab
-JsEQDi2?u=	Basic (and reversed card)	Unified Greek	κροκόδειλος, -ου, ὁ	<img src='krokodeilos.png'>			animal_vocab
-E5a|NCS9IA	Basic (and reversed card)	Unified Greek	κύκλωψ, -ωπος, ὁ	<img src='kyklops.png'>			animal_vocab
-N!qNnky[Ey	Basic (and reversed card)	Unified Greek	κύκνος, -ου, ὁ	<img src='kyknos.png'>			animal_vocab
-H?5kkd+Mod	Basic (and reversed card)	Unified Greek	κύων, -νος, ὁ	"<img src=""kyon.png"">"			animal_vocab
-JFB4/38Ph<	Basic (and reversed card)	Unified Greek	λύκος, -ου, ὁ	<img src='lykos.png'>			animal_vocab
-iKl]FEs{NV	Basic (and reversed card)	Unified Greek	μέλισσα, -ης, ἡ	<img src='melissa.png'>			animal_vocab
-"BM3^n#v?Ks"	Basic (and reversed card)	Unified Greek	ὄνος, -ου, ὁ	<img src='onos.png'>			animal_vocab
-"LgfTTNdD/#"	Basic (and reversed card)	Unified Greek	ὄρνις, -ιθος, ἡ	<img src='ornis.png'>			animal_vocab
-u}:22cuvQQ	Basic (and reversed card)	Unified Greek	σαῦρος, -ου, ὁ	<img src='sayros.png'>			animal_vocab
-"rJr+%6/}-#"	Basic (and reversed card)	Unified Greek	σειρήν, -ῆνος, ἡ	<img src='seiren.png'>			animal_vocab
-"yhaD787_a#"	Basic (and reversed card)	Unified Greek	ταῦρος, -ου, ὁ	<img src='tayros.png'>			animal_vocab
-CbQbfZYN(5	Basic (and reversed card)	Unified Greek	τίγρις, -εως/ -ιος, ὁ	"<img src=""tigris.png"">"			animal_vocab
-Lsac!tw]Ib	Basic (and reversed card)	Unified Greek	φάλαινα, -ης, ἡ	<img src='phalaina.png'>			animal_vocab
-E`K+If?mhf	Basic (and reversed card)	Unified Greek	χελώνη, -ης, ἡ	"<img src=""chelone.png"">"			animal_vocab leech
-eN^XDBpGl0	Basic (and reversed card)	Unified Greek	ἵππος, -ου, ὁ/ἡ	<img src='ippos.png'>			animal_vocab
-csb^McKPOr	Basic (and reversed card)	Unified Greek	βοῦς, βοός, ὁ/ἡ	<img src='boys.png'>			animal_vocab
-bo]{8D+nH(	Basic (and reversed card)	Unified Greek	αἴξ, αἰγός, ὁ/ἡ	<img src='aix.png'><br>Memory hook: **αἰγίς** “goatskin (shield)” comes from this word.			animal_vocab
-Iny+r!yE0h	Basic (and reversed card)	Unified Greek	πρόβατον, -ου, τό	<img src='probaton.png'>			animal_vocab
-r0D{AgtB>*	Basic (and reversed card)	Unified Greek	ὗς/σῦς ὁ/ἡ / χοῖρος	<img src='sys.png'>			animal_vocab
-f`/AllG<t`	Basic (and reversed card)	Unified Greek	κριός, -οῦ, ὁ	<img src='krios.png'><br>Ram			animal_vocab
-f.n/h6ZH_^	Basic (and reversed card)	Unified Greek	πέρδιξ, -ικος, ἡ	<img src='perdix.png'>			animal_vocab
-E8rfFchF`+	Basic (and reversed card)	Unified Greek	μῦς, -ῦος, ὁ	<img src='mys.png'>			animal_vocab
-Ph72990yS/	Basic (and reversed card)	Unified Greek	ἀετός, -οῦ, ὁ	<img src='aetos.png'>			animal_vocab
-v(5SB0rGxn	Basic (and reversed card)	Unified Greek	ὄφις, -εως, ὁ	<img src='ophis.png'>			animal_vocab
-dq9)diWtHL	Basic (and reversed card)	Unified Greek	γάλαξ, -ακος, ὁ	<img src='galax.png'>			animal_vocab
-M)~Af9@)PO	Basic (and reversed card)	Unified Greek	κάμηλος, -ου, ἡ	<img src='kamelos.png'>			animal_vocab
-IRE|o`K3I`	Basic (and reversed card)	Unified Greek	τράγος, -ου, ὁ	<img src='tragos.png'><br>(Male goat)<br>Memory hook<br>“tragedy” = “goat-song” (τράγος + ᾠδή).<br><br>			animal_vocab
-hZ)r:;I|=S	Basic (and reversed card)	Unified Greek	κόραξ, -ακος, ὁ	<img src='korax.png'>			animal_vocab
-"QXFX#ehhrc"	Basic (and reversed card)	Unified Greek	λαγώς, -ῷ, ὁ	<img src='lagos.png'>			animal_vocab
-K]uJkyB4i8	Basic (and reversed card)	Unified Greek	στρουθός, -οῦ, ὁ	<img src='stroythos.png'>			animal_vocab
-CyHbtPI;{[	Basic (and reversed card)	Unified Greek	ἀλεκτρυών, -όνος, ὁ	<img src='alektryon.png'>			animal_vocab
-"u*e:;Wmm#t"	Basic	Unified Greek	αἷμα	αἷμα, -ατος, τό — blood			
-Q/zzq>3rbW	Basic	Unified Greek	βίος	βίος, -ου, ὁ — life			
-mM8N!|>Za?	Basic	Unified Greek	ζῷον	ζῷον, -ου, τό — living being, animal (generic)			
-q|`/mS<qWh	Basic	Unified Greek	θάλασσα	θάλασσα, -ης, ἡ — sea			
-pX)DgZn/tC	Basic	Unified Greek	κατηγορούμενον	κατηγορούμενον, -ου, τό — predicate (grammar)			fixme
-wKzL%zmv]%	Basic	Unified Greek	λίμνη	λίμνη, -ης, ἡ — lake			
-txQnB;s)OQ	Basic	Unified Greek	μῦθος	μῦθος, -ου, ὁ — myth			
-n(K3hl849R	Basic	Unified Greek	ὅρις	ὅρις, -εως, ὁ — boundary, definition			
-vn-:^<ZXC3	Basic	Unified Greek	παράδειγμα	παράδειγμα, -ατος, τό — example			
-OuzfD:^qn-	Basic	Unified Greek	πόλις	πόλις, -εως, ἡ — city			
-"kSehdA#I}w"	Basic	Unified Greek	ποταμός	ποταμός, -οῦ, ὁ — river			
-Gmk!`:@myj	Basic	Unified Greek	πτῶσις	πτῶσις, -εως, ἡ — grammatical case, fall			
-O)^>bo/lPI	Basic	Unified Greek	ῥῆμα	ῥῆμα, -ατος, τό — verb, word/saying			
-x~fQu:8`w:	Basic	Unified Greek	ὑποκείμενον	"ὑποκείμενον, -ου, τό — subject (grammar)<br><br>literally means ""underlying thing,"" or ""that which lies beneath""."			
-PAh[e2~Sa+	Basic (and reversed card)	Unified Greek	ἄγριος, -α, -ον	wild (adj.)			
-sAf7wXtTCY	Basic (and reversed card)	Unified Greek	ἀμφίβιος, -ον	amphibious (adj.)			
-Hfn1!cy-t/	Basic (and reversed card)	Unified Greek	ἄναιμος, -ον	bloodless (adj.)			
-xp}L5Rj*rM	Basic (and reversed card)	Unified Greek	ἀνθρωπόμορφος, -ον	anthropomorphic (adj.)			
-d^^~)EZu<{	Basic (and reversed card)	Unified Greek	ἄπους, -ουν	footless (adj.)			
-E99(Y/m^Ou	Basic (and reversed card)	Unified Greek	δίπους, -ουν	two‑footed, biped (adj.)			
-ApN|9pM5lj	Basic (and reversed card)	Unified Greek	ἔναιμος, -ον	bloody; having blood (adj.)			
-y^S8`xf:&3	Basic (and reversed card)	Unified Greek	ἔνυδρος, -ον	aquatic; living in water (adj.)			
-Lp===wCVc*	Basic (and reversed card)	Unified Greek	ἑρπυστικός, -ή, -όν<br><br>(ὁ ὄφις ζῷόν ἐστιν ἑρπυστικόν )	crawling; creeping (adj.)<br>(The serpent is a creeping animal.)			
-qKx>r6$O&y	Basic (and reversed card)	Unified Greek	ἥμερος, -α, -ον	tame (adj.)			leech
-C>@12nDpKw	Basic (and reversed card)	Unified Greek	ἥμισυς, ἡμίσεια, ἥμισυ	half (adj.)			
-p>b~@dm.2z	Basic (and reversed card)	Unified Greek	θάλασσιος, -α, -ον	of the sea; marine (adj.)			
-vfeM5scd&<	Basic (and reversed card)	Unified Greek	λιμναῖος, -α, -ον	of a lake (adj.)			
-OpgF>FsGb!	Basic (and reversed card)	Unified Greek	μυθικός, -ή, -όν	mythical (adj.)			
-c(aQ$kXb$r	Basic (and reversed card)	Unified Greek	ὀλίγος, -ή, -όν	few; little (adj.)			
-i]vhs$&!]J	Basic (and reversed card)	Unified Greek	ὀνομαστικός, -ή, -όν	nominative; of naming (adj.)			
-xa{*r4FPhE	Basic (and reversed card)	Unified Greek	πεζός, -ή, -όν	on foot; pedestrian (adj.)			
-jL3k;@p<Jk	Basic (and reversed card)	Unified Greek	πολιτικός, -ή, -όν	political; civic (adj.)			
-"keZY}eE&#h"	Basic (and reversed card)	Unified Greek	πολύπους, -ουν	many‑footed (adj.)			
-"MlIlWmx#b/"	Basic (and reversed card)	Unified Greek	πολύς, πολλή, πολύ	much; many (adj.)			
-C1!`%eHxr&	Basic (and reversed card)	Unified Greek	ποτάμιος, -α, -ον	of a river (adj.)			
-h7djgU=}5k	Basic (and reversed card)	Unified Greek	πτηνός, -ή, -όν	winged; bird‑like (adj.)			
-Q;j{;!RsOO	Basic (and reversed card)	Unified Greek	τετράπους, -ουν	four‑footed (adj.)			
-PtX_C)_{K]	Basic (and reversed card)	Unified Greek	χερσαῖος, -α, -ον	of the land; terrestrial (adj.)			
-A}-<EZ(aTX	Basic (and reversed card)	Unified Greek	βαδίζω	walk			
-OCWcwv[<d5	Basic (and reversed card)	Unified Greek	ἕρπω	crawl			
-PO97wRl2B)	Basic (and reversed card)	Unified Greek	κολυμβάω	swim			
-y|v):W&}h@	Basic (and reversed card)	Unified Greek	λέγω	say; speak			
-b*qaphlFMa	Basic (and reversed card)	Unified Greek	πέτομαι	fly			
-i|m6$6in>n	Basic (and reversed card)	Unified Greek	πηδάω	leap; jump			leech
-tW=BRY_5.>	Basic (and reversed card)	Unified Greek	ποιέω	make; do			
-+j}64BK*7	Basic (and reversed card)	Unified Greek	τρέχω	run			
-t$`ur,j.y3	Basic (and reversed card)	Unified Greek	ἔτι (ὁ παῖς ἔτι μικρός ἐστιν.)	still; yet			leech
-cFh@9DjZ|E	Basic (and reversed card)	Unified Greek	μόνον	only			
-cNGvPKm;Ak	Basic (and reversed card)	Unified Greek	Ἀριστοτέλης, ὁ	Aristotle (proper name)			
-xyV39VO_NJ	Basic (and reversed card)	Unified Greek	Παρθενόπη, ἡ	Parthenope (proper name)			
-bgZpewF/lt	Basic (and reversed card)	Unified Greek	Σφίγξ, ἡ	Sphinx (proper name)			
-J<Hh`F5yu)	Basic (and reversed card)	Unified Greek	εἴτε… εἴτε	either… or			
-P}ipYb?;{X	Basic (and reversed card)	Unified Greek	ὥσπερ	just as; like			
-C3<@bU}Ogh	Basic	Unified Greek	ἀδελφή, ἡ	sister — gen. ἀδελφῆς (1st decl. fem.)			Logos::Ch5;Genitive;Vocab
-thZjCKm_@K	Basic	Unified Greek	ἀδελφός, ὁ	brother — gen. ἀδελφοῦ (2nd decl. masc.)			Logos::Ch5;Genitive;Vocab
-r((CcTcj8o	Basic	Unified Greek	γονεῖς, οἱ	parents (pl.) — gen. γονέων (3rd decl. pl.)			Logos::Ch5;Genitive;Vocab
-nv0Bqzb@r&	Basic	Unified Greek	δεσπότης, ὁ	master — gen. δεσπότου (1st decl. masc. -της)			Logos::Ch5;Genitive;Vocab
-oD6]xXMHKM	Basic	Unified Greek	δοῦλος, ὁ	slave — gen. δούλου (2nd decl. masc.)			Logos::Ch5;Genitive;Vocab
-"w0T@E+#5]/"	Basic	Unified Greek	δούλη, ἡ	(female) slave — gen. δούλης (1st decl. fem.)			Logos::Ch5;Genitive;Vocab
-fmY,rH--Bm	Basic	Unified Greek	πατήρ, ὁ	father — gen. πατρός (3rd decl. irregular)			Logos::Ch5;Genitive;Vocab
-b;nqXlkk1e	Basic	Unified Greek	μήτηρ, ἡ	mother — gen. μητρός (3rd decl. irregular)			Logos::Ch5;Genitive;Vocab
-DF{3g~bQs<	Basic	Unified Greek	υἱός, ὁ	son — gen. υἱοῦ (2nd decl. masc.)			Logos::Ch5;Genitive;Vocab
-wO)R@w@$3[	Basic	Unified Greek	θυγάτηρ, ἡ	daughter — gen. θυγατρός (3rd decl. irregular)			Logos::Ch5;Genitive;Vocab
-pl!*j{XWN	Basic	Unified Greek	τέκνον, τό	child — gen. τέκνου (2nd decl. neut.)			Logos::Ch5;Genitive;Vocab
-lk(B<J*m;2	Basic	Unified Greek	ἔγγονος, ὁ/ἡ	grandchild; descendant — gen. ἐγγόνου (2nd decl.)			Logos::Ch5;Genitive;Vocab
-"pbAr.l~@#]"	Basic	Unified Greek	πρόγονος, ὁ/ἡ	ancestor — gen. προγόνου (2nd decl.)			Logos::Ch5;Genitive;Vocab
-GO.>QHKmlj	Basic	Unified Greek	οἶκος, ὁ	house; household — gen. οἴκου (2nd decl. masc.)			Logos::Ch5;Genitive;Vocab
-ES/WGw2eB2	Basic	Unified Greek	φίλος, -η, -ον	dear, friendly; as a noun: (male) friend — gen. φίλου (masc. sg.)			Logos::Ch5;Genitive;Vocab;Adj
-BYDnS;XY2;	Basic	Unified Greek	Αἴσωπος, ὁ	Aesop — gen. Αἰσώπου			Logos::Ch5;Genitive;Vocab;ProperName
-B(dr[=!H	Basic	Unified Greek	Ἱππόλυτος, ὁ	Hippolytus — gen. Ἱππολύτου			Logos::Ch5;Genitive;Vocab;ProperName
-r)0U:h4j[x	Basic	Unified Greek	Θάλεια, ἡ	Thaleia — gen. Θάλειας			Logos::Ch5;Genitive;Vocab;ProperName
-uAVf1X*JW$	Basic	Unified Greek	Πανδώρα, ἡ	Pandora — gen. Πανδώρας			Logos::Ch5;Genitive;Vocab;ProperName
-jgEhP!-BL4	Basic	Unified Greek	τούτ’ ἐστιν	this is			Logos::Ch5;Phrase
-E(wo[oAD@+	Basic	Unified Greek	ἰδού	behold! look!			Logos::Ch5;Particle
-u,et})cN)j	Cloze	Unified Greek	ὁ οἶκος {{c1::τοῦ πατρός ::gen. of πατήρ}} ἐστίν.	The house is the father’s.			Logos::Ch5;Genitive;Cloze;Possession
-FZti}cs]7y	Cloze	Unified Greek	ὁ οἶκος {{c1::τῆς μητρός::gen. of μήτηρ}} ἐστίν.	The house is the mother’s.			Logos::Ch5;Genitive;Cloze;Possession
-m>-lC9{U5/	Cloze	Unified Greek	τὸ βιβλίον λαμβάνει τὸ τέκνον {{c1::τοῦ ἀδελφοῦ::whose? ἀδελφός}}.	The child takes the brother’s book.			fixme Logos::Ch5;Genitive;Cloze;Possession
-"tiA*FP#]4M"	Cloze	Unified Greek	τοῦτ᾽ ἐστὶ τὸ βιβλίον {{c1::τοῦ δεσπότου::whose? δεσπότης}}.	This is the master’s book.			Logos::Ch5;Genitive;Cloze;Possession
-dgPJ=)XnW+	Cloze	Unified Greek	ἡ οἰκία {{c1::τῶν φίλων::whose? φίλοι (pl.)}} μεγάλη ἐστίν.	The friends’ house is big.			Logos::Ch5;Genitive;Cloze;Possession
-c<Z$i:13$Y	Cloze	Unified Greek	ὁ υἱὸς {{c1::τῆς Πανδώρας::Pandora}} μικρός ἐστιν.	Pandora’s son is small.			Logos::Ch5;Genitive;Cloze;Kinship;ProperName
-kUlWlYgdp<	Cloze	Unified Greek	ἡ θυγάτηρ {{c1::τοῦ Αἰσώπου::Aesop}} σοφή ἐστιν.	Aesop’s daughter is wise.			fixme Logos::Ch5;Genitive;Cloze;Kinship;ProperName
-qOE4q]90Zo	Cloze	Unified Greek	ἡ ἀδελφὴ {{c1::τοῦ Ἱππολύτου::Hippolytus}} νεᾶνις ἐστίν.	Hippolytus’ sister is a young woman.			fixme Logos::Ch5;Genitive;Cloze;Kinship;ProperName
-P~x101X,8Y	Cloze	Unified Greek	ὁ ἔγγονος {{c1::τῆς Θάλειας::Thaleia}} καλός ἐστιν.	Thaleia’s grandchild is handsome.			fixme Logos::Ch5;Genitive;Cloze;Kinship;ProperName
-M5,U2b*]b>	Cloze	Unified Greek	τοῦτ᾽ ἐστὶν ἡ ἀδελφὴ {{c1::τοῦ πατρὸς::whose? πατήρ}}.	This is the father’s sister (aunt).			Logos::Ch5;Genitive;Cloze;Kinship
-q{g^!=QZJq	Cloze	Unified Greek	ὁ πατήρ ἵσταται ἔμπροσθεν {{c1::τοῦ οἴκου::gen. after ἔμπροσθεν}}.	The father stands in front of the house.			Logos::Ch5;Genitive;Cloze;Adposition
-MLM+T{FfF=	Cloze	Unified Greek	τὸ τέκνον μένει ἐγγὺς {{c1::τῆς μητρός::gen. after ἐγγύς}}.	The child stays near the mother.			leech Logos::Ch5;Genitive;Cloze;Adposition
-Na11>,xCA/	Cloze	Unified Greek	οἱ φίλοι καθίζουσι πλησίον {{c1::τοῦ ἀδελφοῦ::gen. after πλησίον}}.	The friends sit near the brother.			Logos::Ch5;Genitive;Cloze;Adposition
-eJV&])8H[;	Cloze	Unified Greek	ἡ ἀγάπη {{c1::τοῦ πατρός::subjective}} μεγάλη ἐστίν.	The father’s love is great (love felt by the father).			Logos::Ch5;Genitive;Cloze;Abstract
-tvHZ2g@sTF	Cloze	Unified Greek	ἡ τιμὴ {{c1::τῆς μητρός::objective}} μεγάλη ἐστίν.	The honor for the mother is great (honor of the mother).			fixme Logos::Ch5;Genitive;Cloze;Abstract
-"d?usd&;9K#"	Cloze	Unified Greek	τὰ τέκνα {{c1::τῶν γονέων::gen. pl. of γονεῖς}} ἐν τῷ οἴκῳ εἰσί(ν).	The parents’ children are in the house.			Logos::Ch5;Genitive;Cloze;Plural
-t@PIHa~HBR	Cloze	Unified Greek	οἱ δοῦλοι ἀκούουσι τῆς φωνῆς {{c1::τῶν δεσποτῶν::gen. pl. of δεσπότης}}.	The slaves listen to the masters’ voice.			Logos::Ch5;Genitive;Cloze;Plural
-"IY1#uY:G|/"	Cloze	Unified Greek	οἱ δοῦλοι {{c1::τοῦ δεσπότου::whose? δεσπότης}} ἐργάζονται.	The slaves work for the master.			Logos::Ch5;Genitive;Cloze;Possession
-m!fq`7klVb	Cloze	Unified Greek	οὐ τῆς δούλης, ἀλλ᾽ {{c1::τοῦ δεσπότου::choose the right owner}}.	Not the slave-woman’s, but the master’s.			Logos::Ch5;Genitive;Cloze;Contrast
-h7&;dt[,;o	Cloze	Unified Greek	τοῦτ᾽ ἐστὶ τὸ τέκνον {{c1::τῆς ἀδελφῆς::whose? Sister}}.	This is the sister’s child.			Logos::Ch5;Genitive;Cloze;Frame
-dQ&nNrKXZd	Cloze	Unified Greek	τοῦτ᾽ ἐστὶ τὸ τέκνον {{c1::τοῦ ἀδελφοῦ::whose? ἀδελφός}}.	This is the brother’s child.			Logos::Ch5;Genitive;Cloze;Frame
-QF:glx.0Cm	Cloze	Unified Greek	ὁ οἶκος {{c1::τοῦ Αἰσώπου::masc. proper name}} μικρός οὐκ ἔστιν.	Aesop’s house is not small.			fixme Logos::Ch5;Genitive;Cloze;ProperName
-x7^2pcmk]M	Cloze	Unified Greek	ἡ κλίνη ἐστὶν {{c1::τῆς Θάλειας::fem. proper name}}.	It is Thaleia’s bed.			fixme Logos::Ch5;Genitive;Cloze;ProperName
-rvo(Co6n1g	Cloze	Unified Greek	ἔμπροσθεν {{c1::τοῦ οἴκου::after ἔμπροσθεν}} ἵσταται ἡ μήτηρ.	The mother stands in front of the house.			fixme Logos::Ch5;Genitive;Cloze;Adposition
-"Pu@0#K3Y0&"	Cloze	Unified Greek	μακρὰν {{c1::τῶν φίλων::distance from friends}} μένει ὁ υἱός.	The son lives far from the friends.			Logos::Ch5;Genitive;Cloze;Adposition
-KaF0,$QY|o	Basic	Unified Greek	sister	ἀδελφή, ἡ — gen. ἀδελφῆς			Logos::Ch5;Genitive;Vocab;EN2GR
-b(aE-[q&$A	Basic	Unified Greek	brother	ἀδελφός, ὁ — gen. ἀδελφοῦ			Logos::Ch5;Genitive;Vocab;EN2GR
-l~<xlq`>fR	Basic	Unified Greek	parents (pl.)	γονεῖς, οἱ — gen. γονέων			Logos::Ch5;Genitive;Vocab;EN2GR
-Q;<TU!IF<D	Basic	Unified Greek	master	δεσπότης, ὁ — gen. δεσπότου			Logos::Ch5;Genitive;Vocab;EN2GR
-jL^Ep(7xDd	Basic	Unified Greek	slave (male)	δοῦλος, ὁ — gen. δούλου			Logos::Ch5;Genitive;Vocab;EN2GR
-yAsp3vUJ3?	Basic	Unified Greek	slave (female)	δούλη, ἡ — gen. δούλης			Logos::Ch5;Genitive;Vocab;EN2GR
-Cj$dz*Y7C[	Basic	Unified Greek	father	πατήρ, ὁ — gen. πατρός			Logos::Ch5;Genitive;Vocab;EN2GR
-"g;_#W=E}a6"	Basic	Unified Greek	mother	μήτηρ, ἡ — gen. μητρός			Logos::Ch5;Genitive;Vocab;EN2GR
-qZawe.s`]_	Basic	Unified Greek	son	υἱός, ὁ — gen. υἱοῦ			Logos::Ch5;Genitive;Vocab;EN2GR
-q/*C{cK*~B	Basic	Unified Greek	daughter	θυγάτηρ, ἡ — gen. θυγατρός			Logos::Ch5;Genitive;Vocab;EN2GR
-Ow9GE^Q6Cx	Basic	Unified Greek	child (of the parents)	τέκνον, τό — gen. τέκνου			Logos::Ch5;Genitive;Vocab;EN2GR
-x[Iyj]C1QT	Basic	Unified Greek	grandchild; descendant	ἔγγονος, ὁ/ἡ — gen. ἐγγόνου			Logos::Ch5;Genitive;Vocab;EN2GR
-w{NPamGBs[	Basic	Unified Greek	ancestor	πρόγονος, ὁ/ἡ — gen. προγόνου			Logos::Ch5;Genitive;Vocab;EN2GR
-"sEQs%u=2##"	Basic	Unified Greek	house; household	οἶκος, ὁ — gen. οἴκου			Logos::Ch5;Genitive;Vocab;EN2GR
-:W|0om{Vs	Basic	Unified Greek	dear, friendly; friend (m.)	φίλος, -η, -ον; as noun φίλος, ὁ — gen. φίλου			Logos::Ch5;Genitive;Vocab;EN2GR;Adj
-l`5PZ5-+9<	Basic	Unified Greek	Aesop (proper name)	Αἴσωπος, ὁ — gen. Αἰσώπου			Logos::Ch5;Genitive;Vocab;EN2GR;ProperName
-CJ23yz!=a/	Basic	Unified Greek	Hippolytus (proper name)	Ἱππόλυτος, ὁ — gen. Ἱππολύτου			Logos::Ch5;Genitive;Vocab;EN2GR;ProperName
-Ns:UnRI/C>	Basic	Unified Greek	Thaleia (proper name)	Θάλεια, ἡ — gen. Θάλειας			Logos::Ch5;Genitive;Vocab;EN2GR;ProperName
-"D)fh|#b7/I"	Basic	Unified Greek	Pandora (proper name)	Πανδώρα, ἡ — gen. Πανδώρας			Logos::Ch5;Genitive;Vocab;EN2GR;ProperName
-lr$:KDt(Oq	Basic	Unified Greek	this is	τούτ’ ἐστιν			Logos::Ch5;Phrase;EN2GR
-d$z>7@;NdJ	Basic	Unified Greek	look! behold!	ἰδού			Logos::Ch5;Particle;EN2GR
-G3I4(Q%~q8	Basic	Unified Greek	Ὁ οὐρανὸς μέγας ἐστίν. Ἐν ___ κεῖνται τὰ ἄστρα καὶ οἱ πλανῆται.	**ἐν τῷ οὐρανῷ** — dative singular masculine of ὁ οὐρανός (“in the sky”)			
-QK+nS==h~?	Basic	Unified Greek	Ἡ γῆ μεγάλη ἐστίν. Ἐν ___ οἰκοῦσιν οἱ ἄνθρωποι.	**ἐν τῇ γῇ** — dative singular feminine of ἡ γῆ (“on the earth”)			
-pLFN5]WOE!	Basic	Unified Greek	Ἡ νῆσος μικρά ἐστίν. Ἐν ___ πολλοὶ ὄρνιθες οἰκοῦσιν.	**ἐν τῇ νήσῳ** — dative singular feminine of ἡ νῆσος (“on the island”)			fixme
-H^aHz$mN7H	Basic	Unified Greek	Τὸ ἄντρον μικρόν ἐστιν. Ἐν ___ οἰκεῖ ὁ κύκλωψ.	**ἐν τῷ ἄντρῳ** — dative singular neuter of τὸ ἄντρον (“in the cave”)			
-w%(xFId.Em	Basic	Unified Greek	Ἡ Ἀσία ἤπειρός ἐστιν. Ἐν ___ πολλοὶ ποταμοί εἰσιν.	**ἐν τῇ Ἀσίᾳ** — dative singular feminine of ἡ Ἀσία (“in Asia”)			
-e@D]>K*dMR	Basic	Unified Greek	Ἐν ___ κεῖνται τὰ ἄστρα· ὁ τόπος τοῦ Διός.	**ἐν τῷ οὐρανῷ** — dative singular masculine (“in the sky, the place of Zeus”)			
-xJ=N?P>e]6	Basic	Unified Greek	Ἐν ___ ζῶσι πολλοὶ ἄνθρωποι καὶ ζῷα.	**ἐν τῇ γῇ** — dative singular feminine (“on the earth live many humans and animals”)			
-gg?:)XMu:O	Basic	Unified Greek	Οἱ ὄρνιθες οἰκοῦσιν ___ μικρᾷ.	**ἐν τῇ νήσῳ** — dative feminine (“on the small island”)			
-Aws[4bUe]v	Basic	Unified Greek	Ὁ κύκλωψ κεῖται ___ σκοτεινῷ.	**ἐν τῷ ἄντρῳ** — dative neuter (“in the dark cave”)			
-rA&z/u)a$g	Basic	Unified Greek	Ποταμοὶ ῥέουσιν ___ μεγάλῃ.	**ἐν τῇ Ἀσίᾳ** — dative feminine (“in the great Asia”)			fixme
-lteG@dA5[+	Basic	Unified Greek	What are the three accents used in Ancient Greek?	Acute (´), Grave (`), and Circumflex (ˆ)			
-ot1nE01Fno	Basic	Unified Greek	What does the acute accent (´) indicate?	A rising or high pitch on the accented syllable (ὀξεῖα, &quot;sharp&quot;)			
-IENl0T*Biw	Basic	Unified Greek	What does the grave accent (`) indicate?	A lowered or neutral pitch — replaces the acute on the last syllable when another word follows			
-lqr6UjyLcg	Basic	Unified Greek	What does the circumflex accent (ˆ) indicate?	A rise and fall in pitch on a single long syllable (περισπωμένη, &quot;bent around&quot;)			
-e:)G3Gb_wa	Basic	Unified Greek	Where can the accent fall in a Greek word?	Only on one of the last three syllables: ultima, penult, or antepenult			
-Q_yQ.of2hT	Basic	Unified Greek	Which accent can appear only on long vowels or diphthongs?	Circumflex (ˆ)			
-nCe!r<>,kL	Basic	Unified Greek	When does the grave accent replace the acute?	When a word ending in an acute is followed immediately by another word (e.g.  ἀγαθός ἐστιν → ἀγαθὸς ἐστιν)			
-e9;8+7Yy4^	Basic	Unified Greek	Why can’t the circumflex appear on a short syllable?	Because it requires a long vowel or diphthong to allow both rise and fall of pitch			
-bY>]@bJ@{O	Basic	Unified Greek	Give an example of a circumflex accent	δῶρον — rise–fall tone on dô			
-KI=58R]ZEi	Basic	Unified Greek	What does the accent system in Ancient Greek indicate: pitch or stress?	Pitch — the syllable is pronounced with a change in musical tone, not louder stress			
-hgX-q$FbDc	Basic	Unified Greek	How do modern pronunciations treat accents?	As stress marks — simply place vocal emphasis on the accented syllable			
-OGY_=o7s^u	Basic	Unified Greek	Mnemonic for remembering accent functions	“Acute rises, Circumflex bends, Grave falls.”			
-ID$ZVms+Sv	Basic	Unified Greek	Why do accent patterns matter in inflected forms?	They preserve word identity and help distinguish otherwise similar endings.			
-NmVAZu6N1q	Basic	Unified Greek	What is the meaning of a macron (¯) in Ancient Greek?	It marks a long vowel sound (ā, ē, ī, ō, ū) — the vowel is held roughly twice as long as a short one.			
-g;Dt=q>Oy3	Basic	Unified Greek	Which vowels can be either short or long in Ancient Greek?	α (alpha), ι (iota), and υ (upsilon)			
-b$NwWKsVL`	Basic	Unified Greek	Which vowels are always short?	ε (epsilon) and ο (omicron)			
-Ia/$+lj`$M	Basic	Unified Greek	Which vowels are always long?	η (eta) and ω (omega)			
-=OPb->k%m	Basic	Unified Greek	Which diacritic indicates shortness?	The breve (˘), e.g. ᾰ, ῐ, ῠ			
-oY<7Di:F{Z	Basic (and reversed card) - image + english 	Unified Greek	ἀγρός, -οῦ, ὁ 	"<img src=""agros.png"">"			
-cgiZ$0`qGW	Basic (and reversed card) - image + english 	Unified Greek	ἄντρον, -ου, τό 	<img src='antron.png'>			
-y1tr@m@iO|	Basic (and reversed card) - image + english 	Unified Greek	ἥλιος, -ου, ὁ 	<img src='elios.png'>			
-NmNCadQW3M	Basic (and reversed card) - image + english 	Unified Greek	ἤπειρος, -ου, ἡ 	<img src='epeiros.png'>			
-"bRT1>W+}#-"	Basic (and reversed card) - image + english 	Unified Greek	νῆσος, -ου, ἡ 	<img src='nesos.png'>			
-l)nz_diN8O	Basic (and reversed card) - image + english 	Unified Greek	οἰκία, -ας, ἡ 	<img src='oikia.png'>			
-tyac<0*{I-	Basic (and reversed card) - image + english 	Unified Greek	οὐρανός, -οῦ, ὁ 	<img src='oyranos.png'>			
-m_7q?Xw,(+	Basic (and reversed card) - image + english 	Unified Greek	σελήνη, -ης, ἡ 	<img src='selene.jpg'>			
-wm:I~)9?[`	Basic (and reversed card) - image + english 	Unified Greek	σφαῖρα, -ας, ἡ 	<img src='sphaira.png'>			
-"PzLd8K?#,"	Basic (and reversed card) - image + english 	Unified Greek	ὕλη, -ης, ἡ 	<img src='yle.png'>			
-dm.c<yKfK5	Basic (and reversed card) - image + english 	Unified Greek	βυθός, -οῦ, ὁ 	<img src='bythos.png'>			
-ihyLit@vat	Basic (and reversed card) - image + english 	Unified Greek	ἄστρον, -ου, τό 	<img src='astron.png'>			
-E*^mk=ycvZ	Basic (and reversed card) - image + english 	Unified Greek	Ὄλυμπος, -ου, ὁ 	<img src='olympos.png'>			
-O%?d&7oHU/	Basic (and reversed card) - image + english 	Unified Greek	Τάρταρος, -ου, ὁ 	<img src='tartaros.png'>			
-b@pFU2[VKd	Basic (and reversed card) - image + english 	Unified Greek	Ὠκεανός, -οῦ, ὁ 	<img src='okeanos.png'>			
-"Bp?n&9#_M,"	Basic (and reversed card) - image + english 	Unified Greek	Ποσειδῶν, -ῶνος, ὁ 	"<img src=""poseidon.png"">"			
-NmE{JOLG%6	Basic (and reversed card) - image + english 	Unified Greek	Χάρων, -οντος,	<img src='charon.png'>			
-E>.}J$efws	Basic (and reversed card) - image + english 	Unified Greek	Ἅιδης, -ου, 	<img src='aides.png'>			
-kr^X<Z^b}C	Basic (and reversed card) - image + english 	Unified Greek	Ἀμφιτρίτη, -ης,	<img src='amphitrite.png'>			
-u;9D~5cmb(	Basic (and reversed card) - image + english 	Unified Greek	Ἀπόλλων, -ωνος,	<img src='apollon.png'>			
-GdsRfyx-/f	Basic (and reversed card) - image + english 	Unified Greek	Ἀσία, -ας,	<img src='asia.png'>			
-q5Week0`6>	Basic (and reversed card) - image + english 	Unified Greek	Γῆ, γῆς, ἡ	<img src='ge.png'>			
-s*f,qDnw8]	Basic (and reversed card) - image + english 	Unified Greek	Εὐρώπη, -ης, ἡ	<img src='eyrope.png'>			
-l2CRcgFE$E	Basic (and reversed card) - image + english 	Unified Greek	Θεσσαλία, -ας, ἡ	<img src='thessalia.png'>			
-u^x<[HEa*B	Basic (and reversed card) - image + english 	Unified Greek	Νηρηΐδες, -ων, αἱ	<img src='nereides.png'>			
-Qsuan4A4?U	Basic (and reversed card) - image + english 	Unified Greek	Πλειάδες, -ων, αἱ	<img src='pleiades.png'>			
-Xk=Ud4Lz^	Basic (and reversed card) - image + english 	Unified Greek	Ἑκατόγχειρες, -ων,	<img src='ekatogcheires.png'>			
-j2hx0E%_D+	Basic (and reversed card) - image + english 	Unified Greek	λαβύρινθος, -ου, ὁ 	<img src='labyrinthos.png'>			
-cMt@wNYttX	Basic (and reversed card) - image + english 	Unified Greek	τέρας, -ατος, τό 	<img src='teras.png'>			
-e!63im4?|_	Basic (and reversed card) - image + english 	Unified Greek	γράφω	I write			
-e}eBp8}G_	Basic (and reversed card) - image + english 	Unified Greek	κεῖμαι	I lie, am situated			
-Q7e+0WqT5&	Basic (and reversed card) - image + english 	Unified Greek	ἄλλος, -η, -ον<br><br>Ἄλλη γυνὴ λέγει.	other, another<br><br>Another woman is speaking.			
-"t2c3YI>#*R"	Basic (and reversed card) - image + english 	Unified Greek	πόσοι, πόσαι, πόσα	how many? (plural)			
-e)T5KU_lS}	Basic (and reversed card) - image + english 	Unified Greek	τίνες	who? (plural)			
-"NAFF#bP-9q"	Basic (and reversed card) - image + english 	Unified Greek	βαρύς, -εῖα, -ύ	heavy			
-AqC=*4B|fc	Basic (and reversed card) - image + english 	Unified Greek	δοτικός, -ή, -όν	giving, apt to give			
-lX$lrOgV/h	Basic (and reversed card) - image + english 	Unified Greek	μέσος, -η, -ον	middle			
-KygO(S_9ud	Basic (and reversed card) - image + english 	Unified Greek	Ὀλύμπιος, -α, -ον	Olympian			
-F+a*Eq>mfC	Basic (and reversed card) - image + english 	Unified Greek	ὁρατικός, -ή, -όν	visible/optic			
-h}kA6chWNX	Basic (and reversed card) - image + english 	Unified Greek	περιστρεφόμενος, -η, -ον	revolving			
-i+vIF%A/]%	Basic (and reversed card) - image + english 	Unified Greek	Ἐκεῖ οἰκεῖ ὁ Σωκράτης	Socrates lives there			
-b97u%qeO8>	Basic (and reversed card) - image + english 	Unified Greek	ἔξω	outside			
-fzXMVet&uV	Basic (and reversed card) - image + english 	Unified Greek	ἔσω	inside			
-f|TXvt^Z5+	Basic (and reversed card) - image + english 	Unified Greek	κάτω	below, down			
-NqL3/Fn9:B	Basic (and reversed card) - image + english 	Unified Greek	ποῦ	where?			
-KN5N!C16zc	Basic (and reversed card) - image + english 	Unified Greek	τε	and (enclitic)			
-ExIOFy4?lh	Basic (and reversed card) - image + english 	Unified Greek	ἐν (+ δοτ.)	in, on (+ dat.)			
-z7DiJEX0~6	Basic (and reversed card) - image + english 	Unified Greek	δώδεκα	twelve			
-N*u_%3^%p1	Basic (and reversed card) - image + english 	Unified Greek	μεσόγειος, -ον	inland			
-z|$98a_c!]	Basic (and reversed card) - image + english 	Unified Greek	ὁρατός, -ή, -όν	visible			
-J5Aq*FbJ3Z	Basic (and reversed card) - image + english 	Unified Greek	ἔγκλισις, -εως, ἡ	inclination / grammatical mood			
-P(sN`:Y86T	Basic (and reversed card) - image + english 	Unified Greek	νεκρός, -οῦ, ὁ	corpse			
-zqyp|L1./	Basic (and reversed card) - image + english 	Unified Greek	Νηρεΐς, -ίδος, ἡ	Nereid (singular)			
-c9.Oid13cN	Basic (and reversed card) - image + english 	Unified Greek	οἰκουμένη, -ης, ἡ	the inhabited world			
-MV/`|qvfoe	Basic (and reversed card) - image + english 	Unified Greek	πλανήτης, -ου, ὁ	planet			
-k$!g+D`.)Y	Basic (and reversed card) - image + english 	Unified Greek	προφήτης, -ου, ὁ	prophet			
-b_I*t++Lwn	Basic (and reversed card) - image + english 	Unified Greek	Σείριος, -ου, ὁ	Sirius (the Dog Star)			
-"c#z39d@M$3"	Basic (and reversed card) - img + definition	Unified Greek	Αἰθήρ, ὁ	"<img src=""aither.png"">"	Aether; upper air; sky; heaven		mythology_proper_nouns
-CgJ?K2~6Rr	Basic (and reversed card) - img + definition	Unified Greek	Ἀλκμήνη, ἡ	<img src='alkmene.png'>	Alcmene, mother of hercules		mythology_proper_nouns
-"uDz*:$mO#Z"	Basic (and reversed card) - img + definition	Unified Greek	Ἄτλας, ὁ	<img src='atlas.png'>	Atlas		mythology_proper_nouns
-oYEI?dQUFM	Basic (and reversed card) - img + definition	Unified Greek	Γαῖα, ἡ	<img src='gaia.png'>	Earth		mythology_proper_nouns
-lT?a~Xemj@	Basic (and reversed card) - img + definition	Unified Greek	Δευκαλίων, ὁ	<img src='deykalion.png'>	Deucalion, son of Prometheus		mythology_proper_nouns
-Ng(cLfdwF?	Basic (and reversed card) - img + definition	Unified Greek	Διώνη, ἡ	<img src='dione.png'>	Dione, mother of Aphrodite by Zeus		mythology_proper_nouns
-K&_i<T.eT9	Basic (and reversed card) - img + definition	Unified Greek	Ἐπιμηθεύς, ὁ	<img src='epimetheys.png'>	Epimetheus; Afterthought; brother of Prometheus; Forethought (opened		mythology_proper_nouns
-y/W[Gc!(J6	Basic (and reversed card) - img + definition	Unified Greek	Ἐρατώ, ἡ	<img src='erato.png'>	Erato; the lovely; Muse of Lyric choral poetry		mythology_proper_nouns
-K4<%{s=0kB	Basic (and reversed card) - img + definition	Unified Greek	Ἔρεβος, τό	<img src='erebos.png'>	Erebos, the personification of darkness		mythology_proper_nouns
-BWioVcN1Tt	Basic (and reversed card) - img + definition	Unified Greek	Ἥρη, ἡ	<img src='ere.png'>	Hera, the goddess of marriage, women, and family, and the protector of women during childbirth		mythology_proper_nouns
-"u}MD8vS#X<"	Basic (and reversed card) - img + definition	Unified Greek	Ἑστία, ἡ	<img src='estia.png'>	Hestia,The virgin goddess of the hearth, and the household		mythology_proper_nouns
-g`GoCv(ulS	Basic (and reversed card) - img + definition	Unified Greek	Εὐτέρπη, ἡ	<img src='eyterpe.png'>	Euterpe, Muse residing over music<br><br>(τέρπω (please, I delight, I satisfy).)		mythology_proper_nouns
-"lQ</?U|e#9"	Basic (and reversed card) - img + definition	Unified Greek	Ἡμέρα, ἡ	<img src='emera.png'>	Hemera, the personification of day.		mythology_proper_nouns
-"m@#xAKw]D2"	Basic (and reversed card) - img + definition	Unified Greek	Ἡρακλῆς, ὁ	<img src='erakles.png'>	Herakles		mythology_proper_nouns
-HPOFiPX>3(	Basic (and reversed card) - img + definition	Unified Greek	Ἡσίοδος, ὁ	<img src='esiodos.png'>	Hesiod		mythology_proper_nouns
-NE!Zs_O&jz	Basic (and reversed card) - img + definition	Unified Greek	Ἰαπετός, ὁ	<img src='iapetos.png'>	Iapetus,Titan father of Atlas, Prometheus...		mythology_proper_nouns
-lPK@+Q;H<e	Basic (and reversed card) - img + definition	Unified Greek	Καλλιόπη, ἡ	<img src='kalliope.png'>	Calliope; name of the Muse of Epic Poetry		mythology_proper_nouns
-J+!pGY6|E8	Basic (and reversed card) - img + definition	Unified Greek	Κλειώ, ἡ	<img src='kleio.png'>	Clio, muse of history		mythology_proper_nouns
-j4m9ReRG)l	Basic (and reversed card) - img + definition	Unified Greek	Κλυμένη, ἡ	<img src='klymene.png'>	Clymene, the mother of Atlas, Epimetheus, Prometheus, and Menoetius		mythology_proper_nouns
-I)T3w26*r-	Basic (and reversed card) - img + definition	Unified Greek	Λητώ, ἡ	<img src='leto.png'>	Leto, mother of Apollo and Artemis		mythology_proper_nouns
-rX2!,w>1li	Basic (and reversed card) - img + definition	Unified Greek	Μαῖα, ἡ	<img src='maia.png'>	Maia, mother of Hermes		mythology_proper_nouns
-J;wNbzFMU!	Basic (and reversed card) - img + definition	Unified Greek	Μελπομένη, ἡ	<img src='melpomene.png'>	Melpomene, muse of Tragedy and Chorus		mythology_proper_nouns
-Ml-ki!RMB0	Basic (and reversed card) - img + definition	Unified Greek	Μενότιος, ὁ	<img src='menotios.png'>	Menoetius, Titan		mythology_proper_nouns
-L@s_wp,[:@	Basic (and reversed card) - img + definition	Unified Greek	Μίνως, ὁ	<img src='minos.png'>	Minos,  king of Crete, son of Zeus and Europ		mythology_proper_nouns
-FhQU>=x_e.	Basic (and reversed card) - img + definition	Unified Greek	Μνημοσύνη, ἡ	<img src='mnemosyne.jpg'>	Mnemosyne,  goddess of memory and the mother of the nine Muses		mythology_proper_nouns
-LXd7YX(y0z	Basic (and reversed card) - img + definition	Unified Greek	Νύξ, ἡ	<img src='nyx.png'>	Night, darkness; night personified		mythology_proper_nouns
-PxLHB[^j&5	Basic (and reversed card) - img + definition	Unified Greek	Ὅμηρος, ὁ	<img src='omeros.png'>	Homer		mythology_proper_nouns
-Icl0l1j|>J	Basic (and reversed card) - img + definition	Unified Greek	Οὐρανία, ἡ	<img src='oyrania.png'>	Urania; the heavenly one  muse of astronomy and astrology		mythology_proper_nouns
-c7N-3.l(VE	Basic (and reversed card) - img + definition	Unified Greek	Οὐρανός, ὁ	<img src='oyranos.png'>	Heaven		mythology_proper_nouns
-n77Df?ze[a	Basic (and reversed card) - img + definition	Unified Greek	Πολύμνηια, ἡ	<img src='polymneia.png'>	Polyhymnia, Muse of sacred poetry, sacred hymn, dance and eloquence		mythology_proper_nouns
-eEBc?mikil	Basic (and reversed card) - img + definition	Unified Greek	Πόντος, ὁ	<img src='pontos.png'>	Pontus, pre-Olympian sea-god		mythology_proper_nouns
-hf89e_5&*i	Basic (and reversed card) - img + definition	Unified Greek	Προμηθεύς, ὁ	<img src='prometheys.png'>	Prometheus		mythology_proper_nouns
-FIJFJ?<M(G	Basic (and reversed card) - img + definition	Unified Greek	Πῦρ, τό	<img src='pyr.png'>	Fire		mythology_proper_nouns
-y{&cPIx_dw	Basic (and reversed card) - img + definition	Unified Greek	Πανδώρα, ἡ	<img src='pandora.png'>	Pandora		mythology_proper_nouns
-ssHo!@y$v{	Basic (and reversed card) - img + definition	Unified Greek	Ῥέα, ἡ	<img src='rea.png'>	Rhea		mythology_proper_nouns
-qMGXP:O`GP	Basic (and reversed card) - img + definition	Unified Greek	Ῥαδάμανθυς, ὁ	<img src='radamanthys.png'>	Rhadamanthys, a wise king of Crete. As the son of Zeus and Europa. Judge of the dead		mythology_proper_nouns
-"Pc-d!Y4N~#"	Basic (and reversed card) - img + definition	Unified Greek	Σαπφώ, ἡ	<img src='sappho.jpg'>	Sapphο		mythology_proper_nouns
-szfD9bPZfl	Basic (and reversed card) - img + definition	Unified Greek	Σεμέλη, ἡ	<img src='semele.png'>	Semele, mother of Dionysus		mythology_proper_nouns
-sYmQ{<!r3E	Basic (and reversed card) - img + definition	Unified Greek	Στύξ, ἡ	<img src='styx.png'>	Styx		mythology_proper_nouns
-o-fJM5jSL}	Basic (and reversed card) - img + definition	Unified Greek	Τηθύς, ἡ	<img src='tethys.png'>	Tethys, wife of Oceanus		mythology_proper_nouns
-Exql@=4^[:	Basic (and reversed card) - img + definition	Unified Greek	Τιτᾶνες, οἱ	<img src='titanes.png'>	Titans		mythology_proper_nouns
-mysx?:_[zk	Basic (and reversed card) - img + definition	Unified Greek	Χάος, τό	<img src='chaos.png'>	Chaos		mythology_proper_nouns
-khgfpTJchY	Basic (and reversed card) - img + definition	Unified Greek	Ὠκεανίδες, αἱ	<img src='okeanides.jpg'>	Oceanids, Ocean nymphs		mythology_proper_nouns
-hIfeJrRv/H	Basic (and reversed card)	Unified Greek::Unified Greek - Mythology	γίγνομαι	I become / I am born / I happen			
-Cgw5zd[4	Basic (and reversed card)	Unified Greek::Unified Greek - Mythology	αὐτός, αὕτη, τοῦτο	he, she, it / self, same			
-Ba]$Cul=Zm	Basic (and reversed card)	Unified Greek::Unified Greek - Mythology	ἄγγελος, ὁ	messenger / angel			
-HT6wMq3T~H	Basic (and reversed card)	Unified Greek::Unified Greek - Mythology	ἀστρονομία	 astronomy			
-u5-zg5g<t5	Basic (and reversed card)	Unified Greek::Unified Greek - Mythology	ἄμπελος, ἡ	vine			
-NCIo-$mdE^	Basic (and reversed card)	Unified Greek::Unified Greek - Mythology	ἀπορία, ἡ	difficulty / perplexity			
-J2<xvDABsK	Basic (and reversed card)	Unified Greek::Unified Greek - Mythology	γέρας, τό	gift of honor / privilege			
-FnaL?H_]Wm	Basic (and reversed card)	Unified Greek::Unified Greek - Mythology	γάμος	 wedding / wedding feast / marriage			
-hsXk:gGHt.	Basic (and reversed card)	Unified Greek::Unified Greek - Mythology	γῆρας	 old age			
-oZ*crj?}?+	Basic (and reversed card)	Unified Greek::Unified Greek - Mythology	ἐπιστήμη, ἡ	knowledge / understanding			
-m~1ysKkB*r	Basic (and reversed card)	Unified Greek::Unified Greek - Mythology	ἔρως, ὁ	love / desire			
-"q#H0$SQKBH"	Basic (and reversed card)	Unified Greek::Unified Greek - Mythology	ἑστία, ἡ	hearth / home			
-w{!:9`HJd1	Basic (and reversed card)	Unified Greek::Unified Greek - Mythology	εὑρετής, ὁ	inventor / discoverer			leech
-"H~OyGja#[Z"	Basic (and reversed card)	Unified Greek::Unified Greek - Mythology	ἡμίθεος, ὁ	demigod			
-L5IP69XUq`	Basic (and reversed card)	Unified Greek::Unified Greek - Mythology	ἥρως, ὁ	hero			
-"sa,#?B2K:a"	Basic (and reversed card)	Unified Greek::Unified Greek - Mythology	θήρα, ἡ	hunt / hunting			
-"bK;<T%AbD#"	Basic (and reversed card)	Unified Greek::Unified Greek - Mythology	ἱστορία, ἡ	inquiry / story / history			
-f+S.JOXPQx	Basic (and reversed card)	Unified Greek::Unified Greek - Mythology	κωμῳδία, ἡ	comedy			
-l|ufZ9MB6I	Basic (and reversed card)	Unified Greek::Unified Greek - Mythology	μαντεία, ἡ	prophecy / oracle			
-"ie10Y2%*b#"	Basic (and reversed card)	Unified Greek::Unified Greek - Mythology	μοῦσα, ἡ	Muse / art / poetry			
-P<0,~V]9fR	Basic (and reversed card)	Unified Greek::Unified Greek - Mythology	μουσική, ἡ	music / art of the Muses			
-A00K&8/;`n	Basic (and reversed card)	Unified Greek::Unified Greek - Mythology	νύμφη, ἡ	nymph / bride / young woman			
-s%/4r@@iks	Basic (and reversed card)	Unified Greek::Unified Greek - Mythology	οἶνος, ὁ	wine			
-JNY/M0~d%&	Basic (and reversed card)	Unified Greek::Unified Greek - Mythology	ποιητής, ὁ	poet			
-MAb<RmEhb`	Basic (and reversed card)	Unified Greek::Unified Greek - Mythology	ποίησις	 poetry / poem  / a creation, fabrication, production			
-r]=Iz1oxbd	Basic (and reversed card)	Unified Greek::Unified Greek - Mythology	πολεμος	 war / battle			
-h4fj$Uq]61	Basic (and reversed card)	Unified Greek::Unified Greek - Mythology	πυρ	 a fire			
-Nsmj8jUv0@	Basic (and reversed card)	Unified Greek::Unified Greek - Mythology	σοφία	 skill or cleverness in carpentry- music- or other crafts:sound judgment: learning- wisdom			
-ojE>1c/_C4	Basic (and reversed card)	Unified Greek::Unified Greek - Mythology	φωνή	 sound			
-wl^c:8my==	Basic (and reversed card)	Unified Greek::Unified Greek - Mythology	χορός	 chorus			
-yNo[?5C;3)	Basic (and reversed card)	Unified Greek::Unified Greek - Mythology	ἐνεργητικός	 -ή, -όν<br><br>able to act upon, acting upon. (Grammar an active verb)			
-f_@mla_vZU	Basic (and reversed card)	Unified Greek::Unified Greek - Mythology	επικος	 epic			
-"q#zoLH~0YH"	Basic (and reversed card)	Unified Greek::Unified Greek - Mythology	ἔμπειρος, -ον	experienced / skilled			
-o<bO.uJVz;	Basic (and reversed card)	Unified Greek::Unified Greek - Mythology	λυρικός, -ή, -όν	lyric / poetic			
-csJdvDk^yC	Basic (and reversed card)	Unified Greek::Unified Greek - Mythology	μέλας, μέλαινα, μέλαν	black / dark			
-vKdcBg~yEC	Basic (and reversed card)	Unified Greek::Unified Greek - Mythology	πρωτόγονος, -ον	first-born / primeval			
-hnvNzS~1.I	Basic (and reversed card)	Unified Greek::Unified Greek - Mythology	ἔπειτα (ἔπειτα βαδίζει)	then / afterwards (“Then he/she walks)			
-sZ=j%H+z%j	Basic (and reversed card)	Unified Greek::Unified Greek - Mythology	πῶς	how?			
-Dl|vVm5aS@	Basic (and reversed card)	Unified Greek::Unified Greek - Mythology	ὅτι <br>(λέγει ὅτι πονεῖ)	that / because <br>(“he/she says that he/she is working”)			leech
-dVX`M(,lk+	Basic (and reversed card)	Unified Greek::Unified Greek - Mythology	ἐκ / ἐξ	 out of / from			
-u@Xmt=dZ>X	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ἐν τῇ Εὐρώπῃ	in Europe			
-oPj0bW_2ef	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ἐν τῇ Ἀσίᾳ	in Asia			
-qd;rZJ8%;3	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ἐν τῇ Λιβύῃ	in Libya			
-I7}0K{!S)W	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ἐν τῇ Αἰγύπτῳ	in Egypt			
-xua^KVlf?`	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ἐν τῇ Ἰβηρίᾳ	in Iberia			
-Pa<n}QDCGw	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ἐν τῇ Ῥώμῃ	in Rome			
-HH>TRUzA&<	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ἐν τῇ Ἰταλίᾳ	in Italy			
-FI>jWI)Pn8	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ἐν τῇ Συρίᾳ	in Syria			
-DG}n)JR09[	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ἐν τῇ Γαλατίᾳ	in Gaul			
-P6b`7V3v0o	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ἐν τῇ Σικελίᾳ	in Sicily			
-"q^r#0{RM0D"	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ἐν τῷ Εὐξείνῳ Πόντῳ	in the Black Sea			
-Oa9_qK_RAt	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ἐν τῇ πόλει	in the city			
-j=Id2?.hjT	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	Ἡ Εὐρώπη οὐ μικρά	Europe is not small			
-Jr=0&5QAmJ	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ἀλλὰ μεγάλη ἐστίν	but it is large			
-"sroC+#L/Y0"	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	πολλαὶ γὰρ εἰσιν	for there are many			
-"k&#K[oLUf5"	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	αἱ χώραι ἐν τῇ Εὐρώπῃ	the countries in Europe			
-J`fL{eVD!=	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ὁ Νεῖλος ποταμός	the Nile (a river)			
-pz}Yf7Tqw,	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	μέγας ποταμὸς ἐστίν	it is a great river			
-p2VYP<5d(.	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	δύο μεγάλοι ποταμοί	two great rivers			
-GU8$fwd/A^	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	τρεῖς μεγάλοι ποταμοί	three great rivers			
-w*g^wSs7I[	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ὁ Ῥῆνος ποταμός	the Rhine (a river)			
-Pc,B-4_LX{	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ὁ Ἴστρος ποταμός	the Danube (a river)			
-"v~aRNKx#~?"	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ἡ Τύρος πόλις	Tyre is a city			
-q_RlktgPEY	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ἡ Ἀλεξάνδρεια μεγάλη	Alexandria is big			
-EnUtrFGnXz	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	νῆσος Ῥωμαϊκὴ ἐστίν	it is a Roman island			
-Q^;ebP7G6)	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ἡ Κρήτη Ἑλληνική	Crete is Greek			
-"g#,SXy+#6;"	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	Μεγάλαι Ἑλληνικαὶ νῆσοι	big Greek islands			
-fi7WmfEgRZ	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	μικραὶ Ἑλληνικαὶ νῆσοι	small Greek islands			
-lVji3xQ-ys	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ἡ Μελίτη νῆσος	Melite is an island			
-JP)5F:53-L	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	Ἑλληνικὴ ἀποικία ἐν τῇ Ἰβηρίᾳ	a Greek colony in Iberia			
-u*Bx;B[7H]	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	δύο μικραὶ ἀποικίαι	two small colonies			
-y^BI>bAJDf	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	οὔτε ἐν τῇ Εὐρώπῃ οὔτε ἐν τῇ Ἀσίᾳ	neither in Europe nor in Asia			
-PfPlCP,4l	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ἡ Ῥώμη καὶ ἡ Πομπηΐα πόλεις εἰσί	Rome and Pompeii are cities			
-tEa9^_e/Ks	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ὁ Νεῖλος καὶ ὁ Ῥῆνος δύο μεγάλοι ποταμοί	the Nile and the Rhine are two great rivers			
-pd[;w=K>k>	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ἐν μὲν τῇ Εὐρώπῃ πολλοὶ ποταμοί	in Europe, many rivers			
-Q:)(Mb![G8	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ἐν δὲ τῇ Ἀσίᾳ ὀλίγοι	but in Asia, few			
-A%n!tzH>j;	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	τὸ Ἐμπόριον ἀποικία ἐν τῇ Ἰβηρίᾳ	Emporion is a colony in Iberia			
-h,|W&W>*E!	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	αὕτη ἐν τῇ Ἀσίᾳ	she/it is in Asia			
-t-ID`Z<0Rx	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	αὕτη πόλις ἐστίν	she/it is a city			
-P:F[+Tx)`6	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	οὗτος μέγας ποταμός	this is a great river			
-yH48B!woyt	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	οὐκ ἐν τῇ πόλει	not in the city			
-Ex1MEPXNK^	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ἀλλ’ ἐν τῇ χώρᾳ	but in the countryside			
-eZdB}Aooxi	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	οὔτε ἐν τῇ νήσῳ οὔτε ἐν τῇ πόλει	neither on the island nor in the city			
-"EI#?c4e~i{"	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ἐν τῇ Ἑλλάδι	in Greece			
-y-7ge!NCHR	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ἡ Ἑλλὰς χώρα ἐστίν	Greece is a land			
-JPBfL%:%)f	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	οὐ μεγάλη, ἀλλὰ μικρά	not big, but small			
-zS_1!2Rp7r	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	πολλαὶ χῶραι εἰσίν	there are many regions			
-k]aAl6oda*	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	πολλαὶ πόλεις εἰσίν	there are many cities			
-K;I{2D|]D0	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	πολλαὶ νῆσοι εἰσίν	many islands exist			
-i:yl][K|FA	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	οὐκ ὀλίγα, ἀλλὰ πολλὰ	not a few, but many			
-Ng),gi66<B	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	τὰ Ἑλληνικὰ ὄρη	the Greek mountains			
-"v?u@5/;8s#"	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	οἱ ποταμοὶ ὀλίγοι εἰσίν	the rivers are few			
-"jIl<8wRvm#"	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ἡ Ἀττικὴ χώρα καλή	the Attic land is good			
-Erueo{=uq^	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ἐν τῇ Ἀττικῇ	in Attica			
-p_L?t8CQ&t	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ἐν τῇ Θεσσαλίᾳ	in Thessaly			
-"Z^cw`#$Hf"	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ἐν τῇ Βοιωτίᾳ	in Boeotia			
-ulr?kVx1.*	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ἐν τῇ Μακεδονίᾳ	in Macedonia			
-Jy`zKiCVDX	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ἐν τῇ Θρᾴκῃ	in Thrace			
-iH*+ps$fjF	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ἐν τῇ Ἰωνίᾳ	in Ionia			
-gMskoPOyEf	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ἐν τῇ Αἰολίδι	in Aeolis			
-fR?O}q)$K,	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ἐν τῇ Φωκίδι	in Phocis			
-l^oL-+QGD(	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ἐν τῇ Πελοποννήσῳ	in the Peloponnese			
-kxcWvoF8?&	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ἐν τῇ Κρήτῃ	in Crete			
-FLZKKc0SIk	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	Ἑλληνικαὶ πόλεις εἰσίν	Greek cities exist			
-"i?tg#P(}>."	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	αἱ Ἀθῆναι ἐν Ἀττικῇ	Athens in Attica			
-KYHoyKrRe/	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	Κόρινθος ἐν Πελοποννήσῳ	Corinth in the Peloponnese			
-jsczEK%T9N	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	Δελφοί ἐν Φωκίδι	Delphi in Phocis			
-D$ZZmFJW.L	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	Μυτιλήνη ἐν Αἰολίδι	Mytilene in Aeolis			
-fmAOZ*FrG;	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ὁ Ὄλυμπος κεῖται	Mount Olympus lies			
-QmzRF;^hCG	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ἐν τῇ Θεσσαλίᾳ κεῖται	it lies in Thessaly			
-y*^u1rY]K_	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	Θερμοπύλαι στενόν ἐστιν	Thermopylae is a narrow 			
-FV+vdgYJDw	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	οὔτε πόλις ἐστίν	it is not a city			
-F385:aq%8n	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	οὔτε χώρα, ἀλλὰ στενόν	nor a land, but a strait/narrow 			
-O02q3h&.:&	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	αἱ μὲν μικραὶ νῆσοι	some islands are small			
-KXkRd0zWnV	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	αἱ δὲ μεγάλαι	others are large			
-OXL+$X.I|-	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ἡ Κύπρος καὶ ἡ Κρήτη	Cyprus and Crete			
-cZk0R{]58Z	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ἡ Ῥόδος καὶ ἡ Εὔβοια	Rhodes and Euboea			
-I{6Qjz}xOd	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	τὸ Ἰόνιον πέλαγος	the Ionian Sea			
-E$zZBRfNb^	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	τὸ Αἰγαῖον πέλαγος	the Aegean Sea			
-v6_lxY-D<v	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ἐν τῇ Μεσογείῳ θαλάσσῃ	in the Mediterranean sea			
-P}Hn3y]$(x	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	πέλαγος μικρὰ θάλασσα	a sea, a small sea			
-d%/ASqx1fJ	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ἐν τῷ Ἰονίῳ πελάγει	in the Ionian Sea			
-C{VUkf><g{	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ἐν τῷ Αἰγαίῳ πελάγει	in the Aegean Sea			
-OPGA9^D3V	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ἡ Σικελία νῆσός ἐστιν	Sicily is an island			
-n[gfqmK_TN	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	οὐχ Ἑλληνική, ἀλλὰ Ῥωμαϊκή	not Greek, but Roman			
-y<W688IFLj	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ὁ Παρνασὸς ἐν Βοιωτίᾳ	Parnassus in Boeotia			
-cpC+KY$NR|	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ἡ Ἴδη ἐν Κρήτῃ	Ida in Crete			
-rGWqjJ(:Uf	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ὁ Ὑμηττὸς ἐν Ἀττικῇ	Hymettus in Attica			
-"jjXjy>fT#}"	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ἡ Πάρνης καὶ ἡ Πεντέλη	Parnes and Penteli			
-q(1SnDpEHl	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ὁ Ἄξιος ποταμός	the Axios river			
-b_WH91{1CL	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ὁ Ἄξιος μέγας ἐστίν	the Axios is great			
-BC7].QB<09	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ὁ Νέστος μικρὸς ἐστίν	the Nestos is small			
-BnKt6(vNdY	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ὁ Ἀλφειὸς μικρὸς ἐστίν	the Alpheios is small			
-vp1cR00`~V	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ὁ Ἰλισὸς ἐν Ἀττικῇ	the Ilissos in Attica			
-u4X]~.jM0H	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ὁ Ἡριδανὸς ἐν Ἀττικῇ	the Eridanos in Attica			
-G9m)x`oP7i	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ἐν τῷ πελάγει	in the sea			
-"x88X.7#=G#"	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	αἱ πόλεις εἰσίν	the cities are			
-OeCEiE)Ej%	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ἡ Φωκίς ἐστίν	Phocis is			
-H/NS=c69tg	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	ἡ Αἰολίς ἐστίν	Aeolis is			
-JjIS8>apBa	Basic (and reversed card)	Unified Greek::Unified Greek - Geography	τὸ πέλαγος ἐστίν	the open sea is			
-v%GUk.Ia]$	Basic	Unified Greek::Unified Greek - Geography	Ποῦ ἐστὶν ἡ Περσίς;	ἐν τῇ Ἀσίᾳ			
-t~Xs/hbnYu	Basic	Unified Greek::Unified Greek - Geography	Ποῦ ἐστὶν ἡ Αἴγυπτος;	ἐν τῇ Λιβύῃ			
-d3lnXsmAEx	Basic	Unified Greek::Unified Greek - Geography	Ποῦ ἐστὶν ὁ Νεῖλος;	ἐν τῇ Αἰγύπτῳ			
-x0:?Eg/|H6	Basic	Unified Greek::Unified Greek - Geography	Ποῦ ἐστὶν ὁ Ῥῆνος;	ἐν τῇ Εὐρώπῃ			
-dY:pLT0{<@	Basic	Unified Greek::Unified Greek - Geography	Ποῦ ἐστὶν ὁ Ἴστρος;	ἐν τῇ Εὐρώπῃ			
-MSmnP.zmY,	Basic	Unified Greek::Unified Greek - Geography	Ποῦ εἰσὶν ὁ Τίγρις καὶ ὁ Εὐφράτης;	ἐν τῇ Ἀσίᾳ			
-B`qL${I[rr	Basic	Unified Greek::Unified Greek - Geography	Τί ἐστίν ἡ Ῥώμη;	πόλις ἐστὶν ἐν τῇ Ἰταλίᾳ			
-oU<^r>qjC6	Basic	Unified Greek::Unified Greek - Geography	Τί ἐστίν ἡ Πομπηΐα;	πόλις ἐστὶν ἐν τῇ Ἰταλίᾳ			
-=%ET`{9CJ	Basic	Unified Greek::Unified Greek - Geography	Τί ἐστὶν ἡ Τύρος;	πόλις ἐστὶν ἐν τῇ Συρίᾳ			
-qc<lX*1$LC	Basic	Unified Greek::Unified Greek - Geography	Ποῦ ἐστὶν ἡ Ἀλεξάνδρεια;	ἐν τῇ Αἰγύπτῳ			
-Lj2O+P(d=h	Basic	Unified Greek::Unified Greek - Geography	Ποῦ ἐστὶ τὸ Βυζάντιον	ἐν τῷ Εὐξείνῳ Πόντῳ			
-b@Xv@D%*h.	Basic	Unified Greek::Unified Greek - Geography	Ἡ Σικελία τί ἐστίν;	μεγάλη νῆσος ἐστίν			
-vN(p.Y:DXI	Basic	Unified Greek::Unified Greek - Geography	Ἡ Κρήτη τί ἐστίν;	μεγάλη νῆσος ἐστίν			
-"n$PD#X0fqf"	Basic	Unified Greek::Unified Greek - Geography	Ἡ Μελίτη τί ἐστίν	μικρὰ νῆσος ἐστίν			
-h`p%)cw?!6	Basic	Unified Greek::Unified Greek - Geography	Ποῦ ἐστὶ τὸ Ἐμπόριον	ἐν τῇ Ἰβηρίᾳ			
-"v6)o)6*#N}"	Basic	Unified Greek::Unified Greek - Geography	Ποῦ ἐστὶν ἡ Ῥόδη	ἐν τῇ Ἰβηρίᾳ			
-u|Kxfs0GCI	Basic	Unified Greek::Unified Greek - Geography	Ποῦ ἐστὶν ἡ Μασσαλία	ἐν τῇ Γαλατίᾳ			fixme
-hJa-YI<|d9	Basic	Unified Greek::Unified Greek - Geography	Ποῦ εἰσὶν αἱ Πιτυοῦσσαι	ἐν τῇ Ἰβηρίᾳ			
-"I&p{>#N*<,"	Basic	Unified Greek::Unified Greek - Geography	Ἡ Ῥώμη μεγάλη ἢ μικρά ἐστίν;	μεγάλη ἐστίν			
-odfSvRJ0]U	Basic	Unified Greek::Unified Greek - Geography	Ἡ Πομπηΐα μεγάλη ἢ μικρά ἐστίν	μικρά ἐστίν			
-xn$1<%4W/J	Basic	Unified Greek::Unified Greek - Geography	Ὁ Νεῖλος ποταμὸς μέγας ἐστίν;	ναί, μέγας ἐστίν			
-yTZ@@IFDlt	Basic	Unified Greek::Unified Greek - Geography	 ὁ παῖς μέγας ἢ μικρὸς ἐστιν;	μικρὸς ἐστίν			
->Wx)@PR&l	Basic	Unified Greek::Unified Greek - Geography	Ποῦ ἐστὶν ὁ Θύμβρις;	ἐν τῇ Ῥώμῃ			
-NZ3v`;SW>j	Basic	Unified Greek::Unified Greek - Geography	Ἡ Περσίς ἐν τίνι ἠπείρῳ ἐστίν;	ἐν τῇ Ἀσίᾳ			
-Cn8UuA8lo!	Basic	Unified Greek::Unified Greek - Geography	Ἡ Αἴγυπτος ἐν τίνι ἠπείρῳ ἐστίν;	ἐν τῇ Λιβύῃ			
-A(S4+`n_8W	Basic	Unified Greek::Unified Greek - Geography	Τί εἰσιν ἡ Ἀλεξάνδρεια καὶ ἡ Τύρος;	πόλεις εἰσίν			
-ndmb?O;E?/	Basic	Unified Greek::Unified Greek - Geography	Πόσαι ἀποικίαι εἰσὶν ἐν τῇ Ἰβηρίᾳ;	δύο μικραὶ Ἑλληνικαί			
-y5FC+Z6$~z	Basic	Unified Greek::Unified Greek - Geography	ποῦ κεῖται ὁ Ὄλυμπος;	ἐν τῇ Θεσσαλίᾳ κεῖται			
-Gw]YuD(AJt	Basic	Unified Greek::Unified Greek - Geography	ποῦ κεῖται ὁ Παρνασός;	ἐν τῇ Βοιωτίᾳ κεῖται			
-HAVJPVM8QH	Basic	Unified Greek::Unified Greek - Geography	ποῦ κεῖται ὁ Ὑμηττός;	ἐν τῇ Ἀττικῇ κεῖται			
-kqob^dWc>W	Basic	Unified Greek::Unified Greek - Geography	ποῦ κεῖται ἡ Ἴδη;	ἐν τῇ Κρήτῃ κεῖται			
-"j!#woq|vgN"	Basic	Unified Greek::Unified Greek - Geography	ποῦ κεῖνται αἱ Θερμοπύλαι;	ἐν τῇ Θεσσαλίᾳ κεῖνται			
-I0GeRZ[d^@	Basic	Unified Greek::Unified Greek - Geography	τί ἐστιν αἱ Θερμοπύλαι; (what is it not)	οὔτε πόλις οὔτε χώρα, ἀλλὰ στενόν			
-oPyS;~.`YM	Basic	Unified Greek::Unified Greek - Geography	τί ἐστι πέλαγος;	πέλαγος μικρὰ θάλασσα ἐστίν			
-fWyiOJV&LE	Basic	Unified Greek::Unified Greek - Geography	ποῦ κεῖνται αἱ Ἰόνιοι νῆσοι;	ἐν τῷ Ἰονίῳ πελάγει			
-jDY4k5&[I2	Basic	Unified Greek::Unified Greek - Geography	ποῦ κεῖται ἡ Σμύρνη;	ἐν τῇ Ἰωνίᾳ κεῖται			
-Gu,H~85X/7	Basic	Unified Greek::Unified Greek - Geography	ποῦ κεῖται ἡ Μυτιλήνη;	ἐν τῇ Αἰολίδι κεῖται			
-Pm=h/q714q	Basic	Unified Greek::Unified Greek - Geography	ποῦ κεῖται ὁ Κόρινθος;	ἐν τῇ Πελοποννήσῳ κεῖται			
-ERwSgX5{Z&	Basic	Unified Greek::Unified Greek - Geography	ἡ Σικελία Ἑλληνική ἐστίν;	οὔ· Ῥωμαϊκὴ νῆσός ἐστιν			
-HruhC{Z|G9	Basic	Unified Greek::Unified Greek - Geography	ποῦ κεῖται ὁ Ἄξιος;	ἐν τῇ Μακεδονίᾳ κεῖται			
-ek$ngB]]T<	Basic	Unified Greek::Unified Greek - Geography	ποῦ κεῖται ὁ Νέστος;	ἐν τῇ Θρᾴκῃ κεῖται			
-NEh=rEZMa+	Basic	Unified Greek::Unified Greek - Geography	ποῦ κεῖται ὁ Ἀλφειός;	ἐν τῇ Πελοποννήσῳ κεῖται			
-"zMp#Ng.%<X"	Cloze	Unified Greek::Unified Greek - Geography	Ποῦ ἐστὶν ἡ Περσίς;{{c1::ἐν τῇ Ἀσίᾳ}}	ἐν + δοτική			fixme
-ih:4@e!(X,	Cloze	Unified Greek::Unified Greek - Geography	Ἡ Αἴγυπτος οὔτε ἐν τῇ Εὐρώπῃ οὔτε ἐν τῇ Ἀσίᾳ, ἀλλ’ {{c1::ἐν τῇ Λιβύῃ}}	ἀλλὰ + ἐν dative			
-iRRrjGaMH:	Cloze	Unified Greek::Unified Greek - Geography	ὁ Νεῖλος ποταμὸς ἐστίν {{c1::ἐν τῇ Αἰγύπτῳ}}	ποταμός + τόπος			fixme
-q!*-GK5;.z	Cloze	Unified Greek::Unified Greek - Geography	ὁ Ῥῆνος καὶ ὁ Ἴστρος εἰσὶ {{c1::ἐν τῇ Εὐρώπῃ}} (where?)	δύο ὀνόματα + ἐν			
-"h1A3L,5r#%"	Cloze	Unified Greek::Unified Greek - Geography	ὁ Τίγρις καὶ ὁ Εὐφράτης εἰσὶ {{c1::ἐν τῇ Ἀσίᾳ}}	γεωγραφία			
-r)rw},+H~=	Cloze	Unified Greek::Unified Greek - Geography	ἡ Ῥώμη καὶ ἡ Πομπηΐα δύο {{c1::πόλεις}} ἐν τῇ Ἰταλίᾳ εἰσί	πόλις (γ΄ κλίσις)			
-lwz&uvO3~e	Cloze	Unified Greek::Unified Greek - Geography	Τί ἐστίν ἡ Ῥώμη;{{c1::πόλις}} ἐστὶν ἐν τῇ Ἰταλίᾳ	πόλις (nom. sg.)			
-bA[He@e)T)	Cloze	Unified Greek::Unified Greek - Geography	ἡ Τύρος {{c1::πόλις}} ἐστὶν ἐν τῇ Συρίᾳ	πόλις (γ΄ κλίσις)			
-oWH!(j$={N	Cloze	Unified Greek::Unified Greek - Geography	ἡ Ἀλεξάνδρεια ἐστίν {{c1::ἐν τῇ Αἰγύπτῳ}}	τόπος			
-zMl3cb`mB}	Cloze	Unified Greek::Unified Greek - Geography	ἡ Κρήτη {{c1::Ἑλληνική}} ἐστίν;ἐθνικόν ἐπίθετον				
-e6pGb$<UAt	Cloze	Unified Greek::Unified Greek - Geography	Μεγάλαι {{c1::Ἑλληνικαὶ}} νῆσοι εἰσίν;συμφωνία ἐπιθέτου				
-wDt1]5o?tx	Cloze	Unified Greek::Unified Greek - Geography	{{c1::μικραὶ}} Ἑλληνικαὶ νῆσοι εἰσίν;ἀντίθεσις μεγάλαι/μικραί				
-MrI07.+e*H	Cloze	Unified Greek::Unified Greek - Geography	τὸ Ἐμπόριον ἀποικία ἐστὶν {{c1::ἐν τῇ Ἰβηρίᾳ}}	ἀποικία + ἐν dative			
-Eys0z%6]?N	Cloze	Unified Greek::Unified Greek - Geography	τὸ {{c1::Βυζάντιον}} ἐν τῷ Εὐξείνῳ Πόντῳ ἐστίν	κύρια ὀνόματα			
-xhsA+Q2l8L	Cloze	Unified Greek::Unified Greek - Geography	ὁ {{c1::Θύμβρις}} μικρὸς ποταμὸς ἐστίν (river in Rome)	λεξιλόγιον ποταμῶν			
-oL]c?,7LRW	Cloze	Unified Greek::Unified Greek - Geography	Ἡ Σικελία {{c1::μεγάλη νῆσος::large island}} ἐστίν	συμφωνία ἐπιθέτου-ὀνόματος			fixme
-j;RU837a-n	Cloze	Unified Greek::Unified Greek - Geography	{{c1::οὔτε:: neither}} ἐν τῇ πόλει {{c1::οὔτε::nor}} ἐν τῇ νήσῳ	ζεῦγος οὔτε…οὔτε			
-pbyQAypT)d	Cloze	Unified Greek::Unified Greek - Geography	{{c1::ἐν τῷ Εὐξείνῳ Πόντῳ}}	δοτικὴ τοῦ τόπου (2η κλίσις)			
-e|G}2^nCLe	Basic (and reversed card) - img + definition	Unified Greek::Unified Greek - Household objects	ἀνδρωνῖτις	"<img src=""andronitis.png"">"	men's quarters		animal_vocab
-jP}|Caj_x&	Basic (and reversed card) - img + definition	Unified Greek::Unified Greek - Household objects	ἀποθήκη	<img src='apotheke.png'>	storeroom		animal_vocab
-liLApPxxp1	Basic (and reversed card) - img + definition	Unified Greek::Unified Greek - Household objects	αὐλή	<img src='ayle.png'>	courtyard		animal_vocab
-t5p0mb-M-;	Basic (and reversed card) - img + definition	Unified Greek::Unified Greek - Household objects	αὐλόν	<img src='aylon.png'>	aulos		animal_vocab
-fRyEiea=*4	Basic (and reversed card) - img + definition	Unified Greek::Unified Greek - Household objects	βιβλιοθήκη	<img src='bibliotheke.png'>	book chest		animal_vocab
-"u5C#syT?Yc"	Basic (and reversed card) - img + definition	Unified Greek::Unified Greek - Household objects	βιβλίον	<img src='biblion.png'>	scroll		animal_vocab
-H3B*E!,{{R	Basic (and reversed card) - img + definition	Unified Greek::Unified Greek - Household objects	βωμός	<img src='bomos.png'>	altar		animal_vocab
-E^R@AZeB==	Basic (and reversed card) - img + definition	Unified Greek::Unified Greek - Household objects	γυναικωνῖτις	<img src='gynaikonitis.jpg'>	women's quarters		animal_vocab
-y-+?.;n_P$	Basic (and reversed card) - img + definition	Unified Greek::Unified Greek - Household objects	δεῖπνον	<img src='deipnon.png'>	dinner		animal_vocab
-N.x}jVV(54	Basic (and reversed card) - img + definition	Unified Greek::Unified Greek - Household objects	δωμάτιον	<img src='domation.png'>	room		animal_vocab
-m:l>721NrV	Basic (and reversed card) - img + definition	Unified Greek::Unified Greek - Household objects	ἐπιστολή	<img src='epistole.png'>	letter		animal_vocab
-"mGj/*h/<#>"	Basic (and reversed card) - img + definition	Unified Greek::Unified Greek - Household objects	ἑσπέρα	<img src='espera.jpg'>	evening		animal_vocab
-ML3~AKN*_I	Basic (and reversed card) - img + definition	Unified Greek::Unified Greek - Household objects	ἡμέρα	<img src='emera.png'>	day		animal_vocab
-"PF!~mN2dl#"	Basic (and reversed card) - img + definition	Unified Greek::Unified Greek - Household objects	θάλαμος	<img src='thalamos.png'>	bedchamber		animal_vocab
-ihkYG$E5-S	Basic (and reversed card) - img + definition	Unified Greek::Unified Greek - Household objects	θρόνος	<img src='thronos.jpeg'>	throne		animal_vocab
-RdDQHq1{^n	Basic (and reversed card) - img + definition	Unified Greek::Unified Greek - Household objects	θύρα	<img src='thyra.png'>	door		animal_vocab
-xKwbyb8*i=	Basic (and reversed card) - img + definition	Unified Greek::Unified Greek - Household objects	θυρίς	<img src='thyris.png'>	window		animal_vocab
-zRyOT9[1c&	Basic (and reversed card) - img + definition	Unified Greek::Unified Greek - Household objects	καθέδρα	<img src='kathedra.png'>	chair		animal_vocab
-O^V)aj=9mm	Basic (and reversed card) - img + definition	Unified Greek::Unified Greek - Household objects	κάλαμος	<img src='kalamos.png'>	reed pen		animal_vocab
-pSUj?uw*09	Basic (and reversed card) - img + definition	Unified Greek::Unified Greek - Household objects	κῆπος	<img src='kepos.png'>	garden		animal_vocab fixme marked
-kqs/_GB,Cp	Basic (and reversed card) - img + definition	Unified Greek::Unified Greek - Household objects	κιβώτιον	<img src='kibotion.png'>	chest		animal_vocab
-k{*3D}=cNe	Basic (and reversed card) - img + definition	Unified Greek::Unified Greek - Household objects	κιθάρα	<img src='kithara.png'>	kithara		animal_vocab
-QPE}pc87*)	Basic (and reversed card) - img + definition	Unified Greek::Unified Greek - Household objects	κλῖμαξ	<img src='klimax.png'>	ladder		animal_vocab
-i?)y(j||o?	Basic (and reversed card) - img + definition	Unified Greek::Unified Greek - Household objects	κλίνη	<img src='kline.png'>	couch		animal_vocab
-DJJfOPd:}f	Basic (and reversed card) - img + definition	Unified Greek::Unified Greek - Household objects	κόμη	<img src='kome.png'>	hair		animal_vocab
-I8N>b]&]vu	Basic (and reversed card) - img + definition	Unified Greek::Unified Greek - Household objects	λουτρόν	<img src='loytron.png'>	bath basin		animal_vocab
-x9@R6Whs|0	Basic (and reversed card) - img + definition	Unified Greek::Unified Greek - Household objects	μαγειρεῖον	<img src='mageireion.png'>	kitchen		animal_vocab fixme
-"MeFQt#m=E0"	Basic (and reversed card) - img + definition	Unified Greek::Unified Greek - Household objects	μῆλον	<img src='melon.png'>	apple		animal_vocab
-nca,3%m:$Z	Basic (and reversed card) - img + definition	Unified Greek::Unified Greek - Household objects	νύξ	<img src='nyx.png'>	night		animal_vocab
-zX|se]vPHm	Basic (and reversed card) - img + definition	Unified Greek::Unified Greek - Household objects	ξύλον	<img src='xylon.png'>	wood		animal_vocab
-Ma_:pX/8}:	Basic (and reversed card) - img + definition	Unified Greek::Unified Greek - Household objects	πάπυρος	<img src='papyros.png'>	papyrus		animal_vocab
-t8.oR}s5ki	Basic (and reversed card) - img + definition	Unified Greek::Unified Greek - Household objects	πέπλος	<img src='peplos.png'>	peplos		animal_vocab
-bhS;QrG[oY	Basic (and reversed card) - img + definition	Unified Greek::Unified Greek - Household objects	περιστύλιον	<img src='peristylion.png'>	peristyle		animal_vocab
-"u~bY`3#V@p"	Basic (and reversed card) - img + definition	Unified Greek::Unified Greek - Household objects	στῦλος	<img src='stylos.png'>	column		animal_vocab
-l$;W!,loHI	Basic (and reversed card) - img + definition	Unified Greek::Unified Greek - Household objects	συμπόσιον	<img src='symposion.jpg'>	symposium		animal_vocab
-y8^YjB.8UC	Basic (and reversed card) - img + definition	Unified Greek::Unified Greek - Household objects	τράπεζα	<img src='trapeza.png'>	table		animal_vocab
-bf$}n%-4vW	Basic (and reversed card) - img + definition	Unified Greek::Unified Greek - Household objects	τροφὴ	<img src='trophe.png'>	food		animal_vocab
-zN:gTnK>%c	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	τὸν κάλαμον λαμβάνει	he takes the reed			
-G7lf5rU}?~	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	βιβλίον ἀναγιγνώσκει	he reads a book			
-GC:4jrsao:	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	τὴν Ὀδύσσειαν ἀναγιγνώσκει	he reads the Odyssey			
-JiQe/+qap-	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	μικρὰν ἐπιστολὴν γράφει	he writes a small letter			
-iff95JSY8*	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	τὸν κάλαμον λείπει	he leaves the reed			
-uMdID8Y(-z	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	τὴν ἐπιστολὴν λείπει	he leaves the letter			
-f9O|H@YaYS	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	τὸν δοῦλον καλεῖ	he calls the slave			
-"b3[qKA#t~>"	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	τὸν ἵππον τρέφει	he feeds the horse			
-Kd8a/2G}:2	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	τὴν τροφὴν λείπει	he leaves the food			
-P_X>wD,CZz	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	τὸν ὕμνον ἀκούει	he hears the hymn			
-Lbt)e^!~tN	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	καλὸν κιβώτιον ἔχει	he has a fine chest			
-HSZZ{zpCaU	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	τὰ ἄστρα ὁρᾷ	he sees the stars			
-fgLDp%bomx	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	τὸ παιδίον θεραπεύει	she cares for the child			
-P{-t-?.0$o	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	τὸ δεῖπνον παρασκευάζει	she prepares the dinner			
-msfbmU|C8[	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	πέπλον ῥάπτει	she sews a robe			
-jV(Q:KG`&0	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	μῆλον λαμβάνει	she takes an apple			
-DRs-8S;V8f	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	καλὸν πέπλον λαμβάνει	she takes a fine robe			
-lr*BrvGb}y	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	τὸν Πήγασον ἔχει	she has Pegasus			
-LG]~pVIsvc	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	τὴν κόμην κτενίζει	she combs the hair			
-bH*s;^7rno	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	τὰ κατ’ οἶκον ἔργα	the household tasks			
-OYS[JV$(CM	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	ἐν τῇ οἰκίᾳ	in the house			
-yAx4x%e;2b	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	ἐν τῇ βιβλιοθήκῃ	in the library			
-pn}|J+T5l1	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	ἐν τῇ ἀποθήκῃ	in the storeroom			
-Lu>;8f$Ghf	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	ἐν τῷ λουτρῷ	in the bath			
-KLe58FK3o!	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	ἐν τῷ μαγειρείῳ	in the kitchen			
-L8,~S{x2(B	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	ἐν τῷ αὐλίῳ	in the courtyard			
-y!gTf7(F>[	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	ἐπὶ τῇ τραπέζῃ	on the table			
-kP]7>O=`$%	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	ἐν μικρῷ δωματίῳ	in a small room			
-c>+?XVNK=6	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	ἐν τῷ θαλάμῳ	in the bedroom			
-o>4oKi&d$E	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	περίστυλος αὐλή ἐστι	there is a peristyle court			
-P^1xWY<PF5	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	ἡ κλίνη καλή ἐστι	the bed is fine			
-eq~?T(--Rm	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	καλὸς ξύλινος θρόνος	a fine wooden chair			
-A(p`A5?,UF	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	ποῦ ἐστὶν ὁ δοῦλος;	where is the slave?			
-bmmZ(`z>;u	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	ποῦ εἶ, ὦ Καλλίμαχε;	where are you, Callimachus?			
-m_0U?E-k:O	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	ἔπειτα τὸν Φίλιππον καλεῖ	then he calls Philip			
-"Fn}k@n#wS{"	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	ἰδοὺ τὸ παιδίον	look, the child			
-pZ7[W.b$=J	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	κάλαμον λαμβάνει, ἐπιστολὴν γράφει	he takes a reed, writes a letter			
-nnId@t)9(|	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	ἵππον τρέφει, τροφὴν λείπει	he feeds a horse, leaves the food			
-D.|l?A<QaQ	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	ὕμνον ἀκούει, ἄστρα ὁρᾷ	he hears a hymn, sees the stars			
-C&l]e73,Yb	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	μῆλον λαμβάνει, πέπλον ῥάπτει	she takes an apple, sews a robe			
-uln@hy@sTX	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	αὐτὸν καλεῖ	he calls him			
-Gy?,:&+Mg}	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	αὐτὴ τρέφει αὐτόν	she feeds him			
-Oy@|4kyBsT	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	αὐτὸ λείπει	he leaves it			
-Ol0ty-=z`L	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	ἐπιστολὴν γράφει αὕτη	she writes a letter			
-iXp$Hkb]A4	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	πέπλον ῥάπτει αὕτη	she sews a robe			
-j)?]he?`!/	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	ὁρᾷ αὐτά	he sees them			
-ewEiT0gx8i	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	ἡ τοῦ Ἀπολλωνίου οἰκία	the house of Apollonius			
-cr/B5q{>@;	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	οἱ φίλοι αὐτοῦ	his friends			
-r/$Q{n|<q^	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	τὴν τοῦ Ὁμήρου Ὀδύσσειαν	Homer’s Odyssey			
-kr=-&h,sk7	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	βωμὸς κεῖται Διός	an altar of Zeus stands			
-i|9G}{MY><	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	ἡμέρας μὲν ἀναπαύεται	by day it rests			
-E4&qB](BZ:	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	νυκτὸς δὲ καθεύδει	by night it sleeps			
-KG4!}<{4fS	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	ἐν τῷ τῆς τίθης δωματίῳ	in the nurse’s room			
-Z*q&RS{;=	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	ἐν τῷ τοῦ δεσπότου θρόνῳ	on the master’s chair			
-gM?`L?f1%(	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	ἐπὶ μικρᾷ παπύρᾳ	on a small papyrus			
-pqa6EJ7Fj@	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	ἐκεῖ ἐν τῇ αὐλῇ	there in the courtyard			
-xm+!i?zv:E	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	ἡ οἰκία ἐστὶ μεγάλη	the house is big			
-lZ{`m!QNN^	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	διπλὴ ἐστὶ γάρ	for it is double			
-Q&~d1p.B(P	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	καλὸν ξύλινον κιβώτιον	a fine wooden chest			
-iJ|bX.RVYi	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	ὀλίγαι θύραι εἰσίν	there are few doors			
-I8|(kbUJ6h	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	τί ἐστιν ἡ ἀνδρωνῖτις;	what is the men’s quarter?			
-b0Y1Ml]]_b	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	τοῦτ’ ἐστίν…	this means…			
-OaObW|6|@2	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	ποῦ δὲ καθεύδουσιν;	where then do they sleep?			
-En*UmnaJtY	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	ποῦ εἶ, ὦ Ἠλέκτρα;	where are you, Electra?			
-BLgdU2v+jI	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	ὁ πατὴρ οἰκεῖ	the father lives			
-IHi[t.Icne	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	ὁ ἥλιος δύει	the sun sets			
-"dVB8_#y8;~"	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	Ἀπολλώνιος ὁ δεσπότης	Apollonius the master			
-MHA+xwu.%!	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	ἀναπαύεται ὁ οἶκος	the house rests			
-fvx;Che8cm	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	λούονται πάντες ἅμα	they all bathe together			
-"QVln#;;2|v"	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	ἐκεῖ γράφει ὁ δεσπότης	there the master writes			
-l:h:>>zq^p	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	ἐκεῖ γίγνεται τὰ συμπόσια	there the banquets happen			
-KHx!n!R~o?	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	ὁ Καλλίμαχος ἄπεστι	Callimachus is away			
-er%pYdYj7;	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	οὐ πάρεστι ὁ δοῦλος	the slave is not present			
-zt>5&e|aCS	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	καλῶς ᾄδει Πάτροκλος	Patroklos sings well			
-m<9/2SdTEi	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	τῆς μουσικῆς ἀκούει	he listens to the music			
-l3TEWi[s:&	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	ἐν ὕπνῳ ὄναρ ὁρᾷ	in sleep he sees a dream			
-GGrzSx)?ZF	Basic (and reversed card)	Unified Greek::Unified Greek - Household objects	ἰδοὺ ὕπνος λαμβάνει	look—sleep seizes (him)			
-k.o9{VxmU0	Basic	Unified Greek::Unified Greek - Athenaze 2	ὁ Δικαιόπολις ἐκβαίνει	Dicaeopolis goes out			Athenaze-1-2;reading;fragment
-D8Lo{(yXQ.	Basic	Unified Greek::Unified Greek - Athenaze 2	ἐκ τοῦ οἴκου	out of the house			Athenaze-1-2;reading;fragment
-F7wR5NgR73	Basic	Unified Greek::Unified Greek - Athenaze 2	καλεῖ τὸν Ξανθίαν	he calls Xanthias			Athenaze-1-2;reading;fragment
-i+&ZO{|<C?	Basic	Unified Greek::Unified Greek - Athenaze 2	ὁ Ξανθίας δοῦλός ἐστιν	Xanthias is a slave			Athenaze-1-2;reading;fragment
-h0WGyj4%3{	Basic	Unified Greek::Unified Greek - Athenaze 2	ἰσχυρὸς μὲν ἄνθρωπος	a strong man, on the one hand			Athenaze-1-2;reading;fragment
-j>x1|ZH@3,	Basic	Unified Greek::Unified Greek - Athenaze 2	ἀργὸς δέ	but lazy			Athenaze-1-2;reading;fragment
-t?$3j)d@M=	Basic	Unified Greek::Unified Greek - Athenaze 2	οὐ γὰρ πονεῖ	for he does not work			Athenaze-1-2;reading;fragment
-M1S0$+|f+r	Basic	Unified Greek::Unified Greek - Athenaze 2	εἰ μὴ πάρεστιν	unless he is present			Athenaze-1-2;reading;fragment
-RJ;[M;I[h	Basic	Unified Greek::Unified Greek - Athenaze 2	νῦν δὲ καθεύδει	but now he sleeps			Athenaze-1-2;reading;fragment
-EtPFAiB@QC	Basic	Unified Greek::Unified Greek - Athenaze 2	ἐν τῷ οἴκῳ	in the house			Athenaze-1-2;reading;fragment
-N)xd)Cc/Q_	Basic	Unified Greek::Unified Greek - Athenaze 2	καλεῖ αὐτὸν καὶ λέγει	he calls him and says			Athenaze-1-2;reading;fragment
-.QH$Nwqq%	Basic	Unified Greek::Unified Greek - Athenaze 2	ἔλθε δεῦρο, ὦ Ξανθία	come here, O Xanthias			Athenaze-1-2;reading;fragment
-lAtB$jQt@}	Basic	Unified Greek::Unified Greek - Athenaze 2	τί καθεύδεις;	why are you sleeping?			Athenaze-1-2;reading;fragment
-LTnMc@6Q^8	Basic	Unified Greek::Unified Greek - Athenaze 2	μὴ οὕτως ἀργὸς ἴσθι	do not be so lazy			Athenaze-1-2;reading;fragment
-HHF]86r~-Z	Basic	Unified Greek::Unified Greek - Athenaze 2	ἀλλὰ σπεῦδε	but hurry!			Athenaze-1-2;reading;fragment
-J9QgoViXQK	Basic	Unified Greek::Unified Greek - Athenaze 2	ὁ δὲ Ξανθίας βραδέως ἐκβαίνει	and Xanthias comes out slowly			Athenaze-1-2;reading;fragment
-mZ&3b:.VM	Basic	Unified Greek::Unified Greek - Athenaze 2	τί ἐστι, ὦ δέσποτα;	what is it, master?			Athenaze-1-2;reading;fragment
-hT~I,OMnLN	Basic	Unified Greek::Unified Greek - Athenaze 2	οὐ γὰρ ἀργός εἰμι	for I am not lazy			Athenaze-1-2;reading;fragment
-pkCPsxVEM]	Basic	Unified Greek::Unified Greek - Athenaze 2	ἀλλ᾽ ἤδη σπεύδω	but I am already hurrying			Athenaze-1-2;reading;fragment
-z2M//FfqP4	Basic	Unified Greek::Unified Greek - Athenaze 2	ἔλθε δεῦρο καὶ συλλάμβανε	come here and help			Athenaze-1-2;reading;fragment
-Ejy)~@0H<O	Basic	Unified Greek::Unified Greek - Athenaze 2	αἴρε τὸ ἄροτρον	lift the plough			Athenaze-1-2;reading;fragment
-"GO[#P}V4u2"	Basic	Unified Greek::Unified Greek - Athenaze 2	φέρε αὐτὸ πρὸς τὸν ἀγρόν	carry it to the field			Athenaze-1-2;reading;fragment
-wY}_a<>k-P	Basic	Unified Greek::Unified Greek - Athenaze 2	ἐγὼ γὰρ ἐλαύνω τοὺς βοῦς	for I drive the oxen			Athenaze-1-2;reading;fragment
-JZu?3%Q}n%	Basic	Unified Greek::Unified Greek - Athenaze 2	ἀλλὰ σπεῦδε· μικρὸς γάρ ἐστιν ὁ πόνος	but hurry; the toil is small			Athenaze-1-2;reading;fragment
-"F(9uF;mLC#"	Basic	Unified Greek::Unified Greek - Athenaze 2	ὁ μὲν Δικαιόπολις ἐλαύνει τὸν βοῦν	on the one hand Dicaeopolis drives the ox			Athenaze-1-2;reading;fragment
-bO%3AU8m*P	Basic	Unified Greek::Unified Greek - Athenaze 2	ὁ δὲ δοῦλος φέρει τὸ ἄροτρον	but the slave carries the plough			Athenaze-1-2;reading;fragment
-tD3pJBxe~F	Basic	Unified Greek::Unified Greek - Athenaze 2	ὁ μὲν … ὁ δέ …	the one … the other …			Athenaze-1-2;reading;fragment
-vBPfpSj_iS	Basic	Unified Greek::Unified Greek - Athenaze 2	πρὸς τὸν ἀγρόν	toward the field			Athenaze-1-2;reading;fragment
-e[T3?5(oU^	Cloze	Unified Greek::Unified Greek - Athenaze 2	ὁ Δικαιόπολις {{c1::ἐκβαίνει::pres ind 3sg}} ἐκ τοῦ οἴκου.	Dicaeopolis goes out from the house			
-J=P]GG.d;-	Cloze	Unified Greek::Unified Greek - Athenaze 2	{{c1::ἐκ::prep + gen}} τοῦ οἴκου. (Out)	Athenaze-1-2;reading;cloze;G2G			
-QlC/Pl0PkQ	Cloze	Unified Greek::Unified Greek - Athenaze 2	καλεῖ {{c1::αὐτόν::acc pron}} καὶ λέγει.	Athenaze-1-2;reading;cloze;G2G			fixme
-P9mz^q0.o=	Cloze	Unified Greek::Unified Greek - Athenaze 2	ὁ Ξανθίας δοῦλος {{c1::ἐστίν::copula 3sg}}.	Athenaze-1-2;reading;cloze;G2G			
-j&~T|pw^Kc	Cloze	Unified Greek::Unified Greek - Athenaze 2	ἰσχυρὸς {{c1::μὲν::contrast 1/2}} ἄνθρωπος.	Athenaze-1-2;reading;cloze;G2G			
-Bxv.hgZ@XY	Cloze	Unified Greek::Unified Greek - Athenaze 2	ἀργὸς {{c1::δέ::contrast 2/2}}.	Athenaze-1-2;reading;cloze;G2G			fixme
-s}DR`$hC[7	Cloze	Unified Greek::Unified Greek - Athenaze 2	οὐ {{c1::γὰρ::for}} πονεῖ.	Athenaze-1-2;reading;cloze;G2G			
-Iu-wO)`H|)	Cloze	Unified Greek::Unified Greek - Athenaze 2	οὐ γὰρ {{c1::πονεῖ::pres ind 3sg}}.	Athenaze-1-2;reading;cloze;G2G			
-vo6(a:X;M>	Cloze	Unified Greek::Unified Greek - Athenaze 2	εἰ {{c1::μὴ::unless}} πάρεστιν.	Unless he is present 			
-b?9ieW,7?%	Cloze	Unified Greek::Unified Greek - Athenaze 2	εἰ μὴ {{c1::πάρεστιν::is present 3sg}}.	Athenaze-1-2;reading;cloze;G2G			fixme
-Hh>LM{Mv,>	Cloze	Unified Greek::Unified Greek - Athenaze 2	νῦν {{c1::δὲ::but}} καθεύδει.	But now he sleeps			fixme
-n{$*<C_q}P	Cloze	Unified Greek::Unified Greek - Athenaze 2	{{c1::ἐν::prep + dat}} τῷ οἴκῳ.	Athenaze-1-2;reading;cloze;G2G			
-w145y&UNEQ	Cloze	Unified Greek::Unified Greek - Athenaze 2	ἔλθε {{c1::δεῦρο::come here}}, ὦ Ξανθία.	“Come here, Xanthias.”			
-"rqcS0H.x#%"	Cloze	Unified Greek::Unified Greek - Athenaze 2	{{c1::τί::why/what}} καθεύδεις;	Why do you sleep?			
-DuxPULvmlz	Cloze	Unified Greek::Unified Greek - Athenaze 2	μὴ {{c1::οὕτως::so, thus}} ἀργὸς {{c1::ἴσθι::be! 2sg imp}}.	Don’t be so idle.”/ “Don’t be so lazy.”			
-r2MdZ@E-/R	Cloze	Unified Greek::Unified Greek - Athenaze 2	{{c1::ἀλλὰ::but}} σπεῦδε.	But hurry			
-t$3ju2Vb|G	Cloze	Unified Greek::Unified Greek - Athenaze 2	βραδέως {{c1::ἐκβαίνει::comes out pres 3sg}}.	He goes out slowly			
-"lbQuS#W.P,"	Cloze	Unified Greek::Unified Greek - Athenaze 2	{{c1::ὦ::vocative}} δέσποτα.	O master!			
-"cz#wVSCkus"	Cloze	Unified Greek::Unified Greek - Athenaze 2	οὐ γὰρ ἀργός {{c1::εἰμι::I am}}.	For I am not lazy 			
-H~L{OZ4BBu	Cloze	Unified Greek::Unified Greek - Athenaze 2	ἀλλ᾽ {{c1::ἤδη::already}} σπεύδω.	Athenaze-1-2;reading;cloze;G2G			
-mE@^+NW*$*	Cloze	Unified Greek::Unified Greek - Athenaze 2	ἔλθε δεῦρο καὶ {{c1::συλλάμβανε::help 2sg imp}}.	Athenaze-1-2;reading;cloze;G2G			
-w1Ws5QKvNy	Cloze	Unified Greek::Unified Greek - Athenaze 2	{{c1::αἴρε::lift 2sg imp}} τὸ ἄροτρον.	Athenaze-1-2;reading;cloze;G2G			
-Ct2?)BM+Hn	Cloze	Unified Greek::Unified Greek - Athenaze 2	φέρε αὐτὸ {{c1::πρὸς::to, toward}} τὸν ἀγρόν.	Athenaze-1-2;reading;cloze;G2G			
-qx7p^M%R?2	Cloze	Unified Greek::Unified Greek - Athenaze 2	ἐγὼ γὰρ {{c1::ἐλαύνω::drive 1sg}} τοὺς βοῦς.	Athenaze-1-2;reading;cloze;G2G			
-kWxmpXCI*A	Cloze	Unified Greek::Unified Greek - Athenaze 2	μικρὸς {{c1::γάρ::for}} ἐστιν ὁ πόνος.	Athenaze-1-2;reading;cloze;G2G			
-wo5b?h{Af`	Cloze	Unified Greek::Unified Greek - Athenaze 2	ὁ {{c1::μὲν::the one}} Δικαιόπολις …	Athenaze-1-2;reading;cloze;G2G			
-wDA~B*st=~	Cloze	Unified Greek::Unified Greek - Athenaze 2	ὁ {{c1::δὲ::the other}} δοῦλος …	Athenaze-1-2;reading;cloze;G2G			
-lz0Y20+CLQ	Cloze	Unified Greek::Unified Greek - Athenaze 2	{{c1::ἐλαύνει::drives 3sg}} τὸν βοῦν.	Athenaze-1-2;reading;cloze;G2G			
-es{XOA/4D&	Cloze	Unified Greek::Unified Greek - Athenaze 2	{{c1::φέρει::carries 3sg}} τὸ ἄροτρον.	Athenaze-1-2;reading;cloze;G2G			
-rZmedy0x).	Basic	Unified Greek::Unified Greek - Athenaze 2	ὁ ἰσχυρὸς ἄνθρωπος	the strong man (the strong person)			Exercise-2δ;adj-noun;masc;sg;nom
-tH=nH[a}B<	Basic	Unified Greek::Unified Greek - Athenaze 2	 ὁ μακρὸς χρόνος	the long time			Exercise-2δ;adj-noun;masc;sg;nom
-uX_J[bm99u	Basic	Unified Greek::Unified Greek - Athenaze 2	ὁ ἀργὸς δοῦλος	the lazy slave			Exercise-2δ;adj-noun;masc;sg;nom
-rz<cG56t$:	Basic	Unified Greek::Unified Greek - Athenaze 2	 τὸ μικρὸν ἄροτρον	the small plow			Exercise-2δ;adj-noun;neut;sg;nom
-fS{^3X{45w	Basic	Unified Greek::Unified Greek - Athenaze 2	ὁ χαλεπὸς πόνος	the difficult labor (hard work)			Exercise-2δ;adj-noun;masc;sg;nom
-Mf;Q.LqLvR	Basic	Unified Greek::Unified Greek - Athenaze 2	 ὁ μικρὸς οἶκος	the small house			Exercise-2δ;adj-noun;masc;sg;nom
-"Jb#z]x$Uo^"	Cloze	Unified Greek::Unified Greek - Athenaze 2	ὁ Δικαιόπολις {{c1::ἐκβαίνει}} ἐκ τοῦ οἴκου.				
-h+.~{tV|q=	Cloze	Unified Greek::Unified Greek - Athenaze 2	ὦ Ξανθία, {{c1::σπεῦδε::speed?}} πρὸς τὸν ἀγρόν.				
-qiS%,)iQ&S	Cloze	Unified Greek::Unified Greek - Athenaze 2	ὁ Ξανθίας δοῦλος {{c1::ἐστίν}}.				
-b0,.j3,1?V	Cloze	Unified Greek::Unified Greek - Athenaze 2	ἐγὼ τοὺς βοῦς εἰς τὸν ἀγρὸν {{c1::ἐλαύνω}}.				
-d+BxKMH,gc	Cloze	Unified Greek::Unified Greek - Athenaze 2	μή {{c1::φέρε}} τὸ ἄροτρον, ὦ δεσπότα.				
-prp>Bh=n1Y	Cloze	Unified Greek::Unified Greek - Athenaze 2	ὁ δοῦλος τοὺς λίθους ἐκ τοῦ ἀγροῦ {{c1::φέρει}}.				
-zxG?.SZfLv	Cloze	Unified Greek::Unified Greek - Athenaze 2	μή {{c1::ἔλαυνε}} τοὺς βοῦς.				
-P[q%fAes8r	Cloze	Unified Greek::Unified Greek - Athenaze 2	ὁ αὐτουργὸς ἐν τῷ οἴκῳ οὐ {{c1::πονεῖ:: works}}.				
-J!N8?;gI(|	Basic	Unified Greek::Unified Greek - Athenaze 2	Dat. — ὁ μακρὸς χρόνος → ____	τῷ μακρῷ χρόνῳ			Exercise-2η;masc;sg;dative;2nd-decl;adjective-agreement
-wgW@:u!to^	Basic	Unified Greek::Unified Greek - Athenaze 2	Gen. — ὁ μακρὸς χρόνος → ____	τοῦ μακροῦ χρόνου			Exercise-2η;masc;sg;genitive;2nd-decl;adjective-agreement
-In;I@lv/Ni	Basic	Unified Greek::Unified Greek - Athenaze 2	Acc. — ὁ μακρὸς χρόνος → ____	τὸν μακρὸν χρόνον			Exercise-2η;masc;sg;accusative;2nd-decl;adjective-agreement
-"kX|#0ZT%@$"	Basic	Unified Greek::Unified Greek - Athenaze 2	Voc. — ὁ μακρὸς χρόνος → ____	ὦ μακρὲ χρόνε			Exercise-2η;masc;sg;vocative;2nd-decl;adjective-agreement
-s`5&%3;ygm	Basic	Unified Greek::Unified Greek - Athenaze 2	Acc. — τὸ ἰσχυρὸν δένδρον → ____	τὸ ἰσχυρὸν δένδρον			Exercise-2η;neut;sg;accusative;2nd-decl;neuter-equals-nom
-"coD&w3#$4r"	Basic	Unified Greek::Unified Greek - Athenaze 2	Gen. — τὸ ἰσχυρὸν δένδρον → ____	τοῦ ἰσχυροῦ δένδρου			Exercise-2η;neut;sg;genitive;2nd-decl;adjective-agreement
-O(=s1VR[;W	Basic	Unified Greek::Unified Greek - Athenaze 2	Dat. — τὸ ἰσχυρὸν δένδρον → ____	τῷ ἰσχυρῷ δένδρῳ			Exercise-2η;neut;sg;dative;2nd-decl;adjective-agreement
-n%lRs%Q8AG	Basic	Unified Greek::Unified Greek - Athenaze 2	Voc. — τὸ ἰσχυρὸν δένδρον → ____	ὦ ἰσχυρὸν δένδρον			Exercise-2η;neut;sg;vocative;2nd-decl;neuter-equals-nom
-O/O{5Xv_|G	Basic	Unified Greek::Unified Greek - Athenaze 2	What case &amp; number is this? → τῷ μακρῷ χρόνῳ	Dative singular (masculine)			bonus;identify-case;masc;sg;dative
-d^hg|;)eo!	Basic	Unified Greek::Unified Greek - Athenaze 2	What case &amp; number is this? → τοῦ ἰσχυροῦ δένδρου	Genitive singular (neuter)			bonus;identify-case;neut;sg;genitive
+ἀνήρ, ὁ	man (masc.)			
+man (masc.)	ἀνήρ, ὁ			
+γένος, τό	race, kind (neut.)			
+race, kind (neut.)	γένος, τό			
+γυνή, ἡ	woman (fem.)			
+woman (fem.)	γυνή, ἡ			
+κόρη, ἡ	girl (fem.)			
+girl (fem.)	κόρη, ἡ			
+νεανίας, ὁ	young man (masc.)			
+young man (masc.)	νεανίας, ὁ			
+παῖς, ὁ/ἡ	child (masc./fem.)			
+child (masc./fem.)	παῖς, ὁ/ἡ			
+παιδίον, τό	little child (neut.)			
+little child (neut.)	παιδίον, τό			
+ἀθάνατος, -ον	immortal (m/f), immortal (n)			
+immortal (m/f), immortal (n)	ἀθάνατος, -ον			
+ἀρσενικός, -ή, -όν	male, masculine			
+male, masculine	ἀρσενικός, -ή, -όν			
+θηλυκός, -ή, -όν	female, feminine			
+female, feminine	θηλυκός, -ή, -όν			
+θνητός, -ή, -όν	mortal			
+mortal	θνητός, -ή, -όν			
+κακός, -ή, -όν	bad, evil			
+bad, evil	κακός, -ή, -όν			
+καλός, -ή, -όν	good, beautiful			
+good, beautiful	καλός, -ή, -όν			
+οὐδέτερος, -τέρα, -τερον	neither, neuter			
+neither, neuter	οὐδέτερος, -τέρα, -τερον			
+ὁ	the (masc. sg.)			
+the (masc. sg.)	ὁ			
+ἡ	the (fem. sg.)			
+the (fem. sg.)	ἡ			
+τό	the (neut. sg.)			
+the (neut. sg.)	τό			
+οἱ	the (masc. pl.)			
+the (masc. pl.)	οἱ			
+αἱ	the (fem. pl.)			
+the (fem. pl.)	αἱ			
+τά	the (neut. pl.)			
+the (neut. pl.)	τά			
+δύο	two			
+two	δύο			
+τρεῖς	three			
+three	τρεῖς			
+γάρ	for, since			
+for, since	γάρ			
+ἤ	or			
+or	ἤ			
+οὔτε ... οὔτε	neither ... nor			
+neither ... nor	οὔτε ... οὔτε			
+οὖν	therefore, so			
+therefore, so	οὖν			leech
+Ἀριστοφάνης, ὁ	Aristophanes (masc.)			
+Ἀριστοτέλης, ὁ	Aristotle (masc.)			
+Ἀπολλόδωρος, ὁ	Apollodorus (masc.)			
+Ἐλένη, ἡ	Helen (fem.)			
+Ἠλέκτρα, ἡ	Electra (fem.)			
+Καλλίμαχος, ὁ	Callimachus (masc.)			
+Καλλιρρόη, ἡ	Callirhoe (fem.)			
+Κασσάνδρα, ἡ	Cassandra (fem.)			
+Πάτροκλος, ὁ	Patroclus (masc.)			
+Ὑπατία, ἡ	Hypatia (fem.)			
+Φίλιππος, ὁ	Philip (masc.)			
+γλῶσσα, ἡ	tongue; language (feminine)			vocab;noun;Logos-Γ
+γράμμα, τό	letter (of the alphabet) (neuter)			vocab;noun;Logos-Γ
+δίφθογγος, ἡ	diphthong (feminine)			vocab;noun;Logos-Γ
+κλίσις, ἡ	declension (feminine)			vocab;noun;Logos-Γ
+λέξις, ἡ	word (feminine)			vocab;noun;Logos-Γ
+ὄνομα, τό	name (neuter)			vocab;noun;Logos-Γ
+σύμφωνον, τό	consonant (neuter)			vocab;noun;Logos-Γ
+φωνῆεν, τό	vowel (neuter)			vocab;noun;Logos-Γ
+δεύτερος, -α, -ον	second (adj.)			vocab;adj;Logos-Γ
+τρίτος, -η, -ον	third (adj.)			vocab;adj;Logos-Γ
+πρῶτος, -η, -ον	first (adj.)			vocab;adj;Logos-Γ
+τελευταῖος, -α, -ον	last (adj.)			vocab;adj;Logos-Γ
+κεφαλαῖος, -α, -ον	capital; uppercase (adj.)			vocab;adj;Logos-Γ
+κύριος, -α, -ον	proper; principal (adj.)			vocab;adj;Logos-Γ
+Λατινικός, -ή, -όν	Latin (adj.)			vocab;adj;Logos-Γ
+μέγας, μεγάλη, μέγα	great; large (adj., irregular)			vocab;adj;Logos-Γ
+μικρός, -ά, -όν	small; little (adj.)			vocab;adj;Logos-Γ
+ἀκούω	I hear			vocab;verb;Logos-Γ
+χαῖρε!	hello! (greeting imperative)			vocab;interj;Logos-Γ
+τί;	what? (interrogative)			leech vocab;pron;Logos-Γ
+εἷς (m.), μία (f.), ἕν (n.)	one			vocab;number;Logos-Γ
+ἕξ	six			vocab;number;Logos-Γ
+ἑπτά	seven			vocab;number;Logos-Γ
+ὀκτώ	eight			vocab;number;Logos-Γ
+ἐννέα	nine			vocab;number;Logos-Γ
+δέκα	ten			vocab;number;Logos-Γ
+tongue; language	γλῶσσα, ἡ			reverse;vocab;noun;Logos-Γ
+letter (of the alphabet)	γράμμα, τό			reverse;vocab;noun;Logos-Γ
+diphthong	δίφθογγος, ἡ			reverse;vocab;noun;Logos-Γ
+declension	κλίσις, ἡ			reverse;vocab;noun;Logos-Γ
+word	λέξις, ἡ			reverse;vocab;noun;Logos-Γ
+name	ὄνομα, τό			reverse;vocab;noun;Logos-Γ
+consonant	σύμφωνον, τό			reverse;vocab;noun;Logos-Γ
+vowel	φωνῆεν, τό			reverse;vocab;noun;Logos-Γ
+second (adj.)	δεύτερος, -α, -ον			reverse;vocab;adj;Logos-Γ
+third (adj.)	τρίτος, -η, -ον			reverse;vocab;adj;Logos-Γ
+first (adj.)	πρῶτος, -η, -ον			reverse;vocab;adj;Logos-Γ
+last (adj.)	τελευταῖος, -α, -ον			reverse;vocab;adj;Logos-Γ
+capital; uppercase (adj.)	κεφαλαῖος, -α, -ον			reverse;vocab;adj;Logos-Γ
+proper; principal (adj.)	κύριος, -α, -ον			leech reverse;vocab;adj;Logos-Γ
+Latin (adj.)	Λατινικός, -ή, -όν			reverse;vocab;adj;Logos-Γ
+Greek (adj.)	Ἑλληνικός, -ή, -όν			reverse;vocab;adj;Logos-Γ
+great; large (adj.)	μέγας, μεγάλη, μέγα			reverse;vocab;adj;Logos-Γ
+small; little (adj.)	μικρός, -ά, -όν			reverse;vocab;adj;Logos-Γ
+I hear	ἀκούω			reverse;vocab;verb;Logos-Γ
+hello!	χαῖρε!			reverse;vocab;interj;Logos-Γ
+what?	τί;			reverse;vocab;pron;Logos-Γ
+one	εἷς (m.), μία (f.), ἕν (n.)			reverse;vocab;number;Logos-Γ
+six	ἕξ			reverse;vocab;number;Logos-Γ
+seven	ἑπτά			reverse;vocab;number;Logos-Γ
+eight	ὀκτώ			reverse;vocab;number;Logos-Γ
+nine	ἐννέα			reverse;vocab;number;Logos-Γ
+ten	δέκα			reverse;vocab;number;Logos-Γ
+Nom. plural of ἡ γλῶσσα	γλῶσσαι			forms;noun;Logos-Γ
+Nom. plural of ἡ λέξις	λέξεις			forms;noun;Logos-Γ
+Nom. plural of ἡ κλίσις	κλίσεις			forms;noun;Logos-Γ
+Nom. plural of ἡ δίφθογγος	δίφθογγοι			forms;noun;Logos-Γ
+Nom. plural of τὸ γράμμα	γράμματα			forms;noun;Logos-Γ
+Nom. plural of τὸ ὄνομα	ὀνόματα			forms;noun;Logos-Γ
+Nom. plural of τὸ σύμφωνον	σύμφωνα			forms;noun;Logos-Γ
+Nom. plural of τὸ φωνῆεν	φωνήεντα			forms;noun;Logos-Γ
+Correct article for δίφθογγος (sg nom.) → ___ δίφθογγος	ἡ			forms;article;Logos-Γ
+Correct article for γράμμα (sg nom.) → ___ γράμμα	τὸ			forms;article;Logos-Γ
+Correct article for λέξεις (pl nom.) → ___ λέξεις	αἱ			forms;article;Logos-Γ
+Correct article for ὀνόματα (pl nom.) → ___ ὀνόματα	τὰ			forms;article;Logos-Γ
+Fem. nom. sg of Ἑλληνικός	Ἑλληνική			forms;adj;Logos-Γ
+Neut. nom. pl of Ἑλληνικός	Ἑλληνικά			forms;adj;Logos-Γ
+Neut. nom. sg of μικρός	μικρόν			forms;adj;Logos-Γ
+Fem. nom. pl of μικρός	μικραί			forms;adj;Logos-Γ
+Masc. nom. sg of μέγας (irregular)	μέγας			forms;adj;Logos-Γ
+Fem. nom. sg of μέγας (irregular)	μεγάλη			forms;adj;Logos-Γ
+Neut. nom. sg of μέγας (irregular)	μέγα			forms;adj;Logos-Γ
+Neut. nom. sg of κεφαλαῖος	κεφαλαῖον			forms;adj;Logos-Γ
+Fem. nom. pl of Λατινικός	Λατινικαί			forms;adj;Logos-Γ
+{{c1::πρῶτον}} γράμμα ἐστίν Α, {{c2::δεύτερον}} Β, {{c3::τρίτον}} Γ.	ordinals;Logos-Γ			
+<div><div><div><div><div><div><div><strong>λέγει πολλὰ, τελευταῖον δὲ σιγᾷ.</strong>&nbsp;</div></div></div></div></div><div></div><div><div></div></div></div></div><div></div>	He talks a lot, but finally he falls silent.			
+C γράμμα {{c1::Λατινικόν}} ἐστίν, Γ γράμμα {{c2::Ἑλληνικόν}} ἐστίν.	greek_latin;agreement;Logos-Γ			
+{{c1::χαῖρε}}! {{c2::τί;}} ἀκούεις;	verb;greeting;Logos-Γ			fixme
+λέων, -οντος, ὁ	<img src='leon.png'>			animal_vocab
+κύων, ὁ	"<img src=""kyon.png"">"			animal_vocab
+ἀλώπηξ, -εκος, ἡ	<img src='alopex.png'>			animal_vocab
+ἀράχνη, -ης, ἡ	<img src='arachne.png'>			animal_vocab
+ἅρπυια, -ας, ἡ	<img src='arpyia.png'>			animal_vocab
+βάτραχος, -ου, ὁ	<img src='batrachos.png'>			animal_vocab
+δελφίς, -ῖνος, ὁ	<img src='delphis.png'>			animal_vocab
+δράκαινα, -ης, ἡ	<img src='drakaina.png'>			animal_vocab
+ἔλαφος, -ου, ὁ	<img src='elaphos.png'>			animal_vocab
+ἐλέφας, -αντος, ὁ	<img src='elephas.png'>			animal_vocab
+ἱπποπόταμος, -ου, ὁ	<img src='ippopotamos.png'>			animal_vocab
+ἰχθύς, -ύος, ὁ	<img src='ichthys.png'>			animal_vocab
+καρχαρίας, -ου, ὁ	<img src='karcharias.png'>			animal_vocab
+κένταυρος, -ου, ὁ	<img src='kentayros.png'>			animal_vocab
+κροκόδειλος, -ου, ὁ	<img src='krokodeilos.png'>			animal_vocab
+κύκλωψ, -ωπος, ὁ	<img src='kyklops.png'>			animal_vocab
+κύκνος, -ου, ὁ	<img src='kyknos.png'>			animal_vocab
+κύων, -νος, ὁ	"<img src=""kyon.png"">"			animal_vocab
+λύκος, -ου, ὁ	<img src='lykos.png'>			animal_vocab
+μέλισσα, -ης, ἡ	<img src='melissa.png'>			animal_vocab
+ὄνος, -ου, ὁ	<img src='onos.png'>			animal_vocab
+ὄρνις, -ιθος, ἡ	<img src='ornis.png'>			animal_vocab
+σαῦρος, -ου, ὁ	<img src='sayros.png'>			animal_vocab
+σειρήν, -ῆνος, ἡ	<img src='seiren.png'>			animal_vocab
+ταῦρος, -ου, ὁ	<img src='tayros.png'>			animal_vocab
+τίγρις, -εως/ -ιος, ὁ	"<img src=""tigris.png"">"			animal_vocab
+φάλαινα, -ης, ἡ	<img src='phalaina.png'>			animal_vocab
+χελώνη, -ης, ἡ	"<img src=""chelone.png"">"			animal_vocab leech
+ἵππος, -ου, ὁ/ἡ	<img src='ippos.png'>			animal_vocab
+βοῦς, βοός, ὁ/ἡ	<img src='boys.png'>			animal_vocab
+αἴξ, αἰγός, ὁ/ἡ	<img src='aix.png'><br>Memory hook: **αἰγίς** “goatskin (shield)” comes from this word.			animal_vocab
+πρόβατον, -ου, τό	<img src='probaton.png'>			animal_vocab
+ὗς/σῦς ὁ/ἡ / χοῖρος	<img src='sys.png'>			animal_vocab
+κριός, -οῦ, ὁ	<img src='krios.png'><br>Ram			animal_vocab
+πέρδιξ, -ικος, ἡ	<img src='perdix.png'>			animal_vocab
+μῦς, -ῦος, ὁ	<img src='mys.png'>			animal_vocab
+ἀετός, -οῦ, ὁ	<img src='aetos.png'>			animal_vocab
+ὄφις, -εως, ὁ	<img src='ophis.png'>			animal_vocab
+γάλαξ, -ακος, ὁ	<img src='galax.png'>			animal_vocab
+κάμηλος, -ου, ἡ	<img src='kamelos.png'>			animal_vocab
+τράγος, -ου, ὁ	<img src='tragos.png'><br>(Male goat)<br>Memory hook<br>“tragedy” = “goat-song” (τράγος + ᾠδή).<br><br>			animal_vocab
+κόραξ, -ακος, ὁ	<img src='korax.png'>			animal_vocab
+λαγώς, -ῷ, ὁ	<img src='lagos.png'>			animal_vocab
+στρουθός, -οῦ, ὁ	<img src='stroythos.png'>			animal_vocab
+ἀλεκτρυών, -όνος, ὁ	<img src='alektryon.png'>			animal_vocab
+αἷμα	αἷμα, -ατος, τό — blood			
+βίος	βίος, -ου, ὁ — life			
+ζῷον	ζῷον, -ου, τό — living being, animal (generic)			
+θάλασσα	θάλασσα, -ης, ἡ — sea			
+κατηγορούμενον	κατηγορούμενον, -ου, τό — predicate (grammar)			fixme
+λίμνη	λίμνη, -ης, ἡ — lake			
+μῦθος	μῦθος, -ου, ὁ — myth			
+ὅρις	ὅρις, -εως, ὁ — boundary, definition			
+παράδειγμα	παράδειγμα, -ατος, τό — example			
+πόλις	πόλις, -εως, ἡ — city			
+ποταμός	ποταμός, -οῦ, ὁ — river			
+πτῶσις	πτῶσις, -εως, ἡ — grammatical case, fall			
+ῥῆμα	ῥῆμα, -ατος, τό — verb, word/saying			
+ὑποκείμενον	"ὑποκείμενον, -ου, τό — subject (grammar)<br><br>literally means ""underlying thing,"" or ""that which lies beneath""."			
+ἄγριος, -α, -ον	wild (adj.)			
+ἀμφίβιος, -ον	amphibious (adj.)			
+ἄναιμος, -ον	bloodless (adj.)			
+ἀνθρωπόμορφος, -ον	anthropomorphic (adj.)			
+ἄπους, -ουν	footless (adj.)			
+δίπους, -ουν	two‑footed, biped (adj.)			
+ἔναιμος, -ον	bloody; having blood (adj.)			
+ἔνυδρος, -ον	aquatic; living in water (adj.)			
+ἑρπυστικός, -ή, -όν<br><br>(ὁ ὄφις ζῷόν ἐστιν ἑρπυστικόν )	crawling; creeping (adj.)<br>(The serpent is a creeping animal.)			
+ἥμερος, -α, -ον	tame (adj.)			leech
+ἥμισυς, ἡμίσεια, ἥμισυ	half (adj.)			
+θάλασσιος, -α, -ον	of the sea; marine (adj.)			
+λιμναῖος, -α, -ον	of a lake (adj.)			
+μυθικός, -ή, -όν	mythical (adj.)			
+ὀλίγος, -ή, -όν	few; little (adj.)			
+ὀνομαστικός, -ή, -όν	nominative; of naming (adj.)			
+πεζός, -ή, -όν	on foot; pedestrian (adj.)			
+πολιτικός, -ή, -όν	political; civic (adj.)			
+πολύπους, -ουν	many‑footed (adj.)			
+πολύς, πολλή, πολύ	much; many (adj.)			
+ποτάμιος, -α, -ον	of a river (adj.)			
+πτηνός, -ή, -όν	winged; bird‑like (adj.)			
+τετράπους, -ουν	four‑footed (adj.)			
+χερσαῖος, -α, -ον	of the land; terrestrial (adj.)			
+βαδίζω	walk			
+ἕρπω	crawl			
+κολυμβάω	swim			
+λέγω	say; speak			
+πέτομαι	fly			
+πηδάω	leap; jump			leech
+ποιέω	make; do			
+τρέχω	run			
+ἔτι (ὁ παῖς ἔτι μικρός ἐστιν.)	still; yet			leech
+μόνον	only			
+Ἀριστοτέλης, ὁ	Aristotle (proper name)			
+Παρθενόπη, ἡ	Parthenope (proper name)			
+Σφίγξ, ἡ	Sphinx (proper name)			
+εἴτε… εἴτε	either… or			
+ὥσπερ	just as; like			
+ἀδελφή, ἡ	sister — gen. ἀδελφῆς (1st decl. fem.)			Logos::Ch5;Genitive;Vocab
+ἀδελφός, ὁ	brother — gen. ἀδελφοῦ (2nd decl. masc.)			Logos::Ch5;Genitive;Vocab
+γονεῖς, οἱ	parents (pl.) — gen. γονέων (3rd decl. pl.)			Logos::Ch5;Genitive;Vocab
+δεσπότης, ὁ	master — gen. δεσπότου (1st decl. masc. -της)			Logos::Ch5;Genitive;Vocab
+δοῦλος, ὁ	slave — gen. δούλου (2nd decl. masc.)			Logos::Ch5;Genitive;Vocab
+δούλη, ἡ	(female) slave — gen. δούλης (1st decl. fem.)			Logos::Ch5;Genitive;Vocab
+πατήρ, ὁ	father — gen. πατρός (3rd decl. irregular)			Logos::Ch5;Genitive;Vocab
+μήτηρ, ἡ	mother — gen. μητρός (3rd decl. irregular)			Logos::Ch5;Genitive;Vocab
+υἱός, ὁ	son — gen. υἱοῦ (2nd decl. masc.)			Logos::Ch5;Genitive;Vocab
+θυγάτηρ, ἡ	daughter — gen. θυγατρός (3rd decl. irregular)			Logos::Ch5;Genitive;Vocab
+τέκνον, τό	child — gen. τέκνου (2nd decl. neut.)			Logos::Ch5;Genitive;Vocab
+ἔγγονος, ὁ/ἡ	grandchild; descendant — gen. ἐγγόνου (2nd decl.)			Logos::Ch5;Genitive;Vocab
+πρόγονος, ὁ/ἡ	ancestor — gen. προγόνου (2nd decl.)			Logos::Ch5;Genitive;Vocab
+οἶκος, ὁ	house; household — gen. οἴκου (2nd decl. masc.)			Logos::Ch5;Genitive;Vocab
+φίλος, -η, -ον	dear, friendly; as a noun: (male) friend — gen. φίλου (masc. sg.)			Logos::Ch5;Genitive;Vocab;Adj
+Αἴσωπος, ὁ	Aesop — gen. Αἰσώπου			Logos::Ch5;Genitive;Vocab;ProperName
+Ἱππόλυτος, ὁ	Hippolytus — gen. Ἱππολύτου			Logos::Ch5;Genitive;Vocab;ProperName
+Θάλεια, ἡ	Thaleia — gen. Θάλειας			Logos::Ch5;Genitive;Vocab;ProperName
+Πανδώρα, ἡ	Pandora — gen. Πανδώρας			Logos::Ch5;Genitive;Vocab;ProperName
+τούτ’ ἐστιν	this is			Logos::Ch5;Phrase
+ἰδού	behold! look!			Logos::Ch5;Particle
+ὁ οἶκος {{c1::τοῦ πατρός ::gen. of πατήρ}} ἐστίν.	The house is the father’s.			Logos::Ch5;Genitive;Cloze;Possession
+ὁ οἶκος {{c1::τῆς μητρός::gen. of μήτηρ}} ἐστίν.	The house is the mother’s.			Logos::Ch5;Genitive;Cloze;Possession
+τὸ βιβλίον λαμβάνει τὸ τέκνον {{c1::τοῦ ἀδελφοῦ::whose? ἀδελφός}}.	The child takes the brother’s book.			fixme Logos::Ch5;Genitive;Cloze;Possession
+τοῦτ᾽ ἐστὶ τὸ βιβλίον {{c1::τοῦ δεσπότου::whose? δεσπότης}}.	This is the master’s book.			Logos::Ch5;Genitive;Cloze;Possession
+ἡ οἰκία {{c1::τῶν φίλων::whose? φίλοι (pl.)}} μεγάλη ἐστίν.	The friends’ house is big.			Logos::Ch5;Genitive;Cloze;Possession
+ὁ υἱὸς {{c1::τῆς Πανδώρας::Pandora}} μικρός ἐστιν.	Pandora’s son is small.			Logos::Ch5;Genitive;Cloze;Kinship;ProperName
+ἡ θυγάτηρ {{c1::τοῦ Αἰσώπου::Aesop}} σοφή ἐστιν.	Aesop’s daughter is wise.			fixme Logos::Ch5;Genitive;Cloze;Kinship;ProperName
+ἡ ἀδελφὴ {{c1::τοῦ Ἱππολύτου::Hippolytus}} νεᾶνις ἐστίν.	Hippolytus’ sister is a young woman.			fixme Logos::Ch5;Genitive;Cloze;Kinship;ProperName
+ὁ ἔγγονος {{c1::τῆς Θάλειας::Thaleia}} καλός ἐστιν.	Thaleia’s grandchild is handsome.			fixme Logos::Ch5;Genitive;Cloze;Kinship;ProperName
+τοῦτ᾽ ἐστὶν ἡ ἀδελφὴ {{c1::τοῦ πατρὸς::whose? πατήρ}}.	This is the father’s sister (aunt).			Logos::Ch5;Genitive;Cloze;Kinship
+ὁ πατήρ ἵσταται ἔμπροσθεν {{c1::τοῦ οἴκου::gen. after ἔμπροσθεν}}.	The father stands in front of the house.			Logos::Ch5;Genitive;Cloze;Adposition
+τὸ τέκνον μένει ἐγγὺς {{c1::τῆς μητρός::gen. after ἐγγύς}}.	The child stays near the mother.			leech Logos::Ch5;Genitive;Cloze;Adposition
+οἱ φίλοι καθίζουσι πλησίον {{c1::τοῦ ἀδελφοῦ::who?}}.	The friends sit near the brother.			Logos::Ch5;Genitive;Cloze;Adposition
+ἡ ἀγάπη {{c1::τοῦ πατρός::g:of the father}} μεγάλη ἐστίν.	The father’s love is great (love felt by the father).			Logos::Ch5;Genitive;Cloze;Abstract
+ἡ τιμὴ {{c1::τῆς μητρός::objective}} μεγάλη ἐστίν.	The honor for the mother is great (honor of the mother).			fixme Logos::Ch5;Genitive;Cloze;Abstract
+τὰ τέκνα {{c1::τῶν γονέων::gen. pl. of γονεῖς}} ἐν τῷ οἴκῳ εἰσί(ν).	The parents’ children are in the house.			Logos::Ch5;Genitive;Cloze;Plural
+οἱ δοῦλοι ἀκούουσι τῆς φωνῆς {{c1::τῶν δεσποτῶν::gen. pl. of δεσπότης}}.	The slaves listen to the masters’ voice.			Logos::Ch5;Genitive;Cloze;Plural
+οἱ δοῦλοι {{c1::τοῦ δεσπότου::whose? δεσπότης}} ἐργάζονται.	The slaves work for the master.			Logos::Ch5;Genitive;Cloze;Possession
+οὐ τῆς δούλης, ἀλλ᾽ {{c1::τοῦ δεσπότου::choose the right owner}}.	Not the slave-woman’s, but the master’s.			Logos::Ch5;Genitive;Cloze;Contrast
+τοῦτ᾽ ἐστὶ τὸ τέκνον {{c1::τῆς ἀδελφῆς::whose? Sister}}.	This is the sister’s child.			Logos::Ch5;Genitive;Cloze;Frame
+τοῦτ᾽ ἐστὶ τὸ τέκνον {{c1::τοῦ ἀδελφοῦ::whose? ἀδελφός}}.	This is the brother’s child.			Logos::Ch5;Genitive;Cloze;Frame
+ὁ οἶκος {{c1::τοῦ Αἰσώπου::masc. proper name}} μικρός οὐκ ἔστιν.	Aesop’s house is not small.			fixme Logos::Ch5;Genitive;Cloze;ProperName
+ἡ κλίνη ἐστὶν {{c1::τῆς Θάλειας::fem. proper name}}.	It is Thaleia’s bed.			fixme Logos::Ch5;Genitive;Cloze;ProperName
+ἔμπροσθεν {{c1::τοῦ οἴκου::of what?}} ἵσταται ἡ μήτηρ.	The mother stands in front of the house.			fixme Logos::Ch5;Genitive;Cloze;Adposition
+μακρὰν {{c1::τῶν φίλων::distance from friends}} μένει ὁ υἱός.	The son lives far from the friends.			Logos::Ch5;Genitive;Cloze;Adposition
+sister	ἀδελφή, ἡ — gen. ἀδελφῆς			Logos::Ch5;Genitive;Vocab;EN2GR
+brother	ἀδελφός, ὁ — gen. ἀδελφοῦ			Logos::Ch5;Genitive;Vocab;EN2GR
+parents (pl.)	γονεῖς, οἱ — gen. γονέων			Logos::Ch5;Genitive;Vocab;EN2GR
+master	δεσπότης, ὁ — gen. δεσπότου			Logos::Ch5;Genitive;Vocab;EN2GR
+slave (male)	δοῦλος, ὁ — gen. δούλου			Logos::Ch5;Genitive;Vocab;EN2GR
+slave (female)	δούλη, ἡ — gen. δούλης			Logos::Ch5;Genitive;Vocab;EN2GR
+father	πατήρ, ὁ — gen. πατρός			Logos::Ch5;Genitive;Vocab;EN2GR
+mother	μήτηρ, ἡ — gen. μητρός			Logos::Ch5;Genitive;Vocab;EN2GR
+son	υἱός, ὁ — gen. υἱοῦ			Logos::Ch5;Genitive;Vocab;EN2GR
+daughter	θυγάτηρ, ἡ — gen. θυγατρός			Logos::Ch5;Genitive;Vocab;EN2GR
+child (of the parents)	τέκνον, τό — gen. τέκνου			Logos::Ch5;Genitive;Vocab;EN2GR
+grandchild; descendant	ἔγγονος, ὁ/ἡ — gen. ἐγγόνου			Logos::Ch5;Genitive;Vocab;EN2GR
+ancestor	πρόγονος, ὁ/ἡ — gen. προγόνου			Logos::Ch5;Genitive;Vocab;EN2GR
+house; household	οἶκος, ὁ — gen. οἴκου			Logos::Ch5;Genitive;Vocab;EN2GR
+dear, friendly; friend (m.)	φίλος, -η, -ον; as noun φίλος, ὁ — gen. φίλου			Logos::Ch5;Genitive;Vocab;EN2GR;Adj
+Aesop (proper name)	Αἴσωπος, ὁ — gen. Αἰσώπου			Logos::Ch5;Genitive;Vocab;EN2GR;ProperName
+Hippolytus (proper name)	Ἱππόλυτος, ὁ — gen. Ἱππολύτου			Logos::Ch5;Genitive;Vocab;EN2GR;ProperName
+Thaleia (proper name)	Θάλεια, ἡ — gen. Θάλειας			Logos::Ch5;Genitive;Vocab;EN2GR;ProperName
+Pandora (proper name)	Πανδώρα, ἡ — gen. Πανδώρας			Logos::Ch5;Genitive;Vocab;EN2GR;ProperName
+this is	τούτ’ ἐστιν			Logos::Ch5;Phrase;EN2GR
+look! behold!	ἰδού			Logos::Ch5;Particle;EN2GR
+Ὁ οὐρανὸς μέγας ἐστίν. Ἐν ___ κεῖνται τὰ ἄστρα καὶ οἱ πλανῆται.	**ἐν τῷ οὐρανῷ** — dative singular masculine of ὁ οὐρανός (“in the sky”)			
+Ἡ γῆ μεγάλη ἐστίν. Ἐν ___ οἰκοῦσιν οἱ ἄνθρωποι.	**ἐν τῇ γῇ** — dative singular feminine of ἡ γῆ (“on the earth”)			
+Ἡ νῆσος μικρά ἐστίν. Ἐν ___ πολλοὶ ὄρνιθες οἰκοῦσιν.	**ἐν τῇ νήσῳ** — dative singular feminine of ἡ νῆσος (“on the island”)			fixme
+Τὸ ἄντρον μικρόν ἐστιν. Ἐν ___ οἰκεῖ ὁ κύκλωψ.	**ἐν τῷ ἄντρῳ** — dative singular neuter of τὸ ἄντρον (“in the cave”)			
+Ἡ Ἀσία ἤπειρός ἐστιν. Ἐν ___ πολλοὶ ποταμοί εἰσιν.	**ἐν τῇ Ἀσίᾳ** — dative singular feminine of ἡ Ἀσία (“in Asia”)			
+Ἐν ___ κεῖνται τὰ ἄστρα· ὁ τόπος τοῦ Διός.	**ἐν τῷ οὐρανῷ** — dative singular masculine (“in the sky, the place of Zeus”)			
+Ἐν ___ ζῶσι πολλοὶ ἄνθρωποι καὶ ζῷα.	**ἐν τῇ γῇ** — dative singular feminine (“on the earth live many humans and animals”)			
+Οἱ ὄρνιθες οἰκοῦσιν ___ μικρᾷ.	**ἐν τῇ νήσῳ** — dative feminine (“on the small island”)			
+Ὁ κύκλωψ κεῖται ___ σκοτεινῷ.	**ἐν τῷ ἄντρῳ** — dative neuter (“in the dark cave”)			
+Ποταμοὶ ῥέουσιν ___ μεγάλῃ.	**ἐν τῇ Ἀσίᾳ** — dative feminine (“in the great Asia”)			fixme
+What are the three accents used in Ancient Greek?	Acute (´), Grave (`), and Circumflex (ˆ)			
+What does the acute accent (´) indicate?	A rising or high pitch on the accented syllable (ὀξεῖα, &quot;sharp&quot;)			
+What does the grave accent (`) indicate?	A lowered or neutral pitch — replaces the acute on the last syllable when another word follows			
+What does the circumflex accent (ˆ) indicate?	A rise and fall in pitch on a single long syllable (περισπωμένη, &quot;bent around&quot;)			
+Where can the accent fall in a Greek word?	Only on one of the last three syllables: ultima, penult, or antepenult			
+Which accent can appear only on long vowels or diphthongs?	Circumflex (ˆ)			
+When does the grave accent replace the acute?	When a word ending in an acute is followed immediately by another word (e.g.  ἀγαθός ἐστιν → ἀγαθὸς ἐστιν)			
+Why can’t the circumflex appear on a short syllable?	Because it requires a long vowel or diphthong to allow both rise and fall of pitch			
+Give an example of a circumflex accent	δῶρον — rise–fall tone on dô			
+What does the accent system in Ancient Greek indicate: pitch or stress?	Pitch — the syllable is pronounced with a change in musical tone, not louder stress			
+How do modern pronunciations treat accents?	As stress marks — simply place vocal emphasis on the accented syllable			
+Mnemonic for remembering accent functions	“Acute rises, Circumflex bends, Grave falls.”			
+Why do accent patterns matter in inflected forms?	They preserve word identity and help distinguish otherwise similar endings.			
+What is the meaning of a macron (¯) in Ancient Greek?	It marks a long vowel sound (ā, ē, ī, ō, ū) — the vowel is held roughly twice as long as a short one.			
+Which vowels can be either short or long in Ancient Greek?	α (alpha), ι (iota), and υ (upsilon)			
+Which vowels are always short?	ε (epsilon) and ο (omicron)			
+Which vowels are always long?	η (eta) and ω (omega)			
+Which diacritic indicates shortness?	The breve (˘), e.g. ᾰ, ῐ, ῠ			
+ἀγρός, -οῦ, ὁ 	"<img src=""agros.png"">"			
+ἄντρον, -ου, τό 	<img src='antron.png'>			
+ἥλιος, -ου, ὁ 	<img src='elios.png'>			
+ἤπειρος, -ου, ἡ 	<img src='epeiros.png'>			
+νῆσος, -ου, ἡ 	<img src='nesos.png'>			
+οἰκία, -ας, ἡ 	<img src='oikia.png'>			
+οὐρανός, -οῦ, ὁ 	<img src='oyranos.png'>			
+σελήνη, -ης, ἡ 	<img src='selene.jpg'>			
+σφαῖρα, -ας, ἡ 	<img src='sphaira.png'>			
+ὕλη, -ης, ἡ 	<img src='yle.png'>			
+βυθός, -οῦ, ὁ 	<img src='bythos.png'>			
+ἄστρον, -ου, τό 	<img src='astron.png'>			
+Ὄλυμπος, -ου, ὁ 	<img src='olympos.png'>			
+Τάρταρος, -ου, ὁ 	<img src='tartaros.png'>			
+Ὠκεανός, -οῦ, ὁ 	<img src='okeanos.png'>			
+Ποσειδῶν, -ῶνος, ὁ 	"<img src=""poseidon.png"">"			
+Χάρων, -οντος,	<img src='charon.png'>			
+Ἅιδης, -ου, 	<img src='aides.png'>			
+Ἀμφιτρίτη, -ης,	<img src='amphitrite.png'>			
+Ἀπόλλων, -ωνος,	<img src='apollon.png'>			
+Ἀσία, -ας,	<img src='asia.png'>			
+Γῆ, γῆς, ἡ	<img src='ge.png'>			
+Εὐρώπη, -ης, ἡ	<img src='eyrope.png'>			
+Θεσσαλία, -ας, ἡ	<img src='thessalia.png'>			
+Νηρηΐδες, -ων, αἱ	<img src='nereides.png'>			
+Πλειάδες, -ων, αἱ	<img src='pleiades.png'>			
+Ἑκατόγχειρες, -ων,	<img src='ekatogcheires.png'>			
+λαβύρινθος, -ου, ὁ 	<img src='labyrinthos.png'>			
+τέρας, -ατος, τό 	<img src='teras.png'>			
+γράφω	I write			
+κεῖμαι	I lie, am situated			
+ἄλλος, -η, -ον<br><br>Ἄλλη γυνὴ λέγει.	other, another<br><br>Another woman is speaking.			
+πόσοι, πόσαι, πόσα	how many? (plural)			
+τίνες	who? (plural)			
+βαρύς, -εῖα, -ύ	heavy			
+δοτικός, -ή, -όν	giving, apt to give			
+μέσος, -η, -ον	middle			
+Ὀλύμπιος, -α, -ον	Olympian			
+ὁρατικός, -ή, -όν	visible/optic			
+περιστρεφόμενος, -η, -ον	revolving			
+Ἐκεῖ οἰκεῖ ὁ Σωκράτης	Socrates lives there			
+ἔξω	outside			
+ἔσω	inside			
+κάτω	below, down			
+ποῦ	where?			
+τε	and (enclitic)			
+ἐν (+ δοτ.)	in, on (+ dat.)			
+δώδεκα	twelve			
+μεσόγειος, -ον	inland			
+ὁρατός, -ή, -όν	visible			
+ἔγκλισις, -εως, ἡ	inclination / grammatical mood			
+νεκρός, -οῦ, ὁ	corpse			
+Νηρεΐς, -ίδος, ἡ	Nereid (singular)			
+οἰκουμένη, -ης, ἡ	the inhabited world			
+πλανήτης, -ου, ὁ	planet			
+προφήτης, -ου, ὁ	prophet			
+Σείριος, -ου, ὁ	Sirius (the Dog Star)			
+Αἰθήρ, ὁ	"<img src=""aither.png"">"	Aether; upper air; sky; heaven		mythology_proper_nouns
+Ἀλκμήνη, ἡ	<img src='alkmene.png'>	Alcmene, mother of hercules		mythology_proper_nouns
+Ἄτλας, ὁ	<img src='atlas.png'>	Atlas		mythology_proper_nouns
+Γαῖα, ἡ	<img src='gaia.png'>	Earth		mythology_proper_nouns
+Δευκαλίων, ὁ	<img src='deykalion.png'>	Deucalion, son of Prometheus		mythology_proper_nouns
+Διώνη, ἡ	<img src='dione.png'>	Dione, mother of Aphrodite by Zeus		mythology_proper_nouns
+Ἐπιμηθεύς, ὁ	<img src='epimetheys.png'>	Epimetheus; Afterthought; brother of Prometheus; Forethought (opened		mythology_proper_nouns
+Ἐρατώ, ἡ	<img src='erato.png'>	Erato; the lovely; Muse of Lyric choral poetry		mythology_proper_nouns
+Ἔρεβος, τό	<img src='erebos.png'>	Erebos, the personification of darkness		mythology_proper_nouns
+Ἥρη, ἡ	<img src='ere.png'>	Hera, the goddess of marriage, women, and family, and the protector of women during childbirth		mythology_proper_nouns
+Ἑστία, ἡ	<img src='estia.png'>	Hestia,The virgin goddess of the hearth, and the household		mythology_proper_nouns
+Εὐτέρπη, ἡ	<img src='eyterpe.png'>	Euterpe, Muse residing over music<br><br>(τέρπω (please, I delight, I satisfy).)		mythology_proper_nouns
+Ἡμέρα, ἡ	<img src='emera.png'>	Hemera, the personification of day.		mythology_proper_nouns
+Ἡρακλῆς, ὁ	<img src='erakles.png'>	Herakles		mythology_proper_nouns
+Ἡσίοδος, ὁ	<img src='esiodos.png'>	Hesiod		mythology_proper_nouns
+Ἰαπετός, ὁ	<img src='iapetos.png'>	Iapetus,Titan father of Atlas, Prometheus...		mythology_proper_nouns
+Καλλιόπη, ἡ	<img src='kalliope.png'>	Calliope; name of the Muse of Epic Poetry		mythology_proper_nouns
+Κλειώ, ἡ	<img src='kleio.png'>	Clio, muse of history		mythology_proper_nouns
+Κλυμένη, ἡ	<img src='klymene.png'>	Clymene, the mother of Atlas, Epimetheus, Prometheus, and Menoetius		mythology_proper_nouns
+Λητώ, ἡ	<img src='leto.png'>	Leto, mother of Apollo and Artemis		mythology_proper_nouns
+Μαῖα, ἡ	<img src='maia.png'>	Maia, mother of Hermes		mythology_proper_nouns
+Μελπομένη, ἡ	<img src='melpomene.png'>	Melpomene, muse of Tragedy and Chorus		mythology_proper_nouns
+Μενότιος, ὁ	<img src='menotios.png'>	Menoetius, Titan		mythology_proper_nouns
+Μίνως, ὁ	<img src='minos.png'>	Minos,  king of Crete, son of Zeus and Europ		mythology_proper_nouns
+Μνημοσύνη, ἡ	<img src='mnemosyne.jpg'>	Mnemosyne,  goddess of memory and the mother of the nine Muses		mythology_proper_nouns
+Νύξ, ἡ	<img src='nyx.png'>	Night, darkness; night personified		mythology_proper_nouns
+Ὅμηρος, ὁ	<img src='omeros.png'>	Homer		mythology_proper_nouns
+Οὐρανία, ἡ	<img src='oyrania.png'>	Urania; the heavenly one  muse of astronomy and astrology		mythology_proper_nouns
+Οὐρανός, ὁ	<img src='oyranos.png'>	Heaven		mythology_proper_nouns
+Πολύμνηια, ἡ	<img src='polymneia.png'>	Polyhymnia, Muse of sacred poetry, sacred hymn, dance and eloquence		mythology_proper_nouns
+Πόντος, ὁ	<img src='pontos.png'>	Pontus, pre-Olympian sea-god		mythology_proper_nouns
+Προμηθεύς, ὁ	<img src='prometheys.png'>	Prometheus		mythology_proper_nouns
+Πῦρ, τό	<img src='pyr.png'>	Fire		mythology_proper_nouns
+Πανδώρα, ἡ	<img src='pandora.png'>	Pandora		mythology_proper_nouns
+Ῥέα, ἡ	<img src='rea.png'>	Rhea		mythology_proper_nouns
+Ῥαδάμανθυς, ὁ	<img src='radamanthys.png'>	Rhadamanthys, a wise king of Crete. As the son of Zeus and Europa. Judge of the dead		mythology_proper_nouns
+Σαπφώ, ἡ	<img src='sappho.jpg'>	Sapphο		mythology_proper_nouns
+Σεμέλη, ἡ	<img src='semele.png'>	Semele, mother of Dionysus		mythology_proper_nouns
+Στύξ, ἡ	<img src='styx.png'>	Styx		mythology_proper_nouns
+Τηθύς, ἡ	<img src='tethys.png'>	Tethys, wife of Oceanus		mythology_proper_nouns
+Τιτᾶνες, οἱ	<img src='titanes.png'>	Titans		mythology_proper_nouns
+Χάος, τό	<img src='chaos.png'>	Chaos		mythology_proper_nouns
+Ὠκεανίδες, αἱ	<img src='okeanides.jpg'>	Oceanids, Ocean nymphs		mythology_proper_nouns
+γίγνομαι	I become / I am born / I happen			
+αὐτός, αὕτη, τοῦτο	he, she, it / self, same			
+ἄγγελος, ὁ	messenger / angel			
+ἀστρονομία	 astronomy			
+ἄμπελος, ἡ	vine			
+ἀπορία, ἡ	difficulty / perplexity			
+γέρας, τό	gift of honor / privilege			
+γάμος	 wedding / wedding feast / marriage			
+γῆρας	 old age			
+ἐπιστήμη, ἡ	knowledge / understanding			
+ἔρως, ὁ	love / desire			
+ἑστία, ἡ	hearth / home			
+εὑρετής, ὁ	inventor / discoverer			leech
+ἡμίθεος, ὁ	demigod			
+ἥρως, ὁ	hero			
+θήρα, ἡ	hunt / hunting			
+ἱστορία, ἡ	inquiry / story / history			
+κωμῳδία, ἡ	comedy			
+μαντεία, ἡ	prophecy / oracle			
+μοῦσα, ἡ	Muse / art / poetry			
+μουσική, ἡ	music / art of the Muses			
+νύμφη, ἡ	nymph / bride / young woman			
+οἶνος, ὁ	wine			
+ποιητής, ὁ	poet			
+ποίησις	 poetry / poem  / a creation, fabrication, production			
+πολεμος	 war / battle			
+πυρ	 a fire			
+σοφία	 skill or cleverness in carpentry- music- or other crafts:sound judgment: learning- wisdom			
+φωνή	 sound			
+χορός	 chorus			
+ἐνεργητικός	 -ή, -όν<br><br>able to act upon, acting upon. (Grammar an active verb)			
+επικος	 epic			
+ἔμπειρος, -ον	experienced / skilled			
+λυρικός, -ή, -όν	lyric / poetic			
+μέλας, μέλαινα, μέλαν	black / dark			
+πρωτόγονος, -ον	first-born / primeval			
+ἔπειτα (ἔπειτα βαδίζει)	then / afterwards (“Then he/she walks)			leech
+πῶς	how?			
+ὅτι <br>(λέγει ὅτι πονεῖ)	that / because <br>(“he/she says that he/she is working”)			leech
+ἐκ / ἐξ	 out of / from			
+ἐν τῇ Εὐρώπῃ	in Europe			
+ἐν τῇ Ἀσίᾳ	in Asia			
+ἐν τῇ Λιβύῃ	in Libya			
+ἐν τῇ Αἰγύπτῳ	in Egypt			
+ἐν τῇ Ἰβηρίᾳ	in Iberia			
+ἐν τῇ Ῥώμῃ	in Rome			
+ἐν τῇ Ἰταλίᾳ	in Italy			
+ἐν τῇ Συρίᾳ	in Syria			
+ἐν τῇ Γαλατίᾳ	in Gaul			
+ἐν τῇ Σικελίᾳ	in Sicily			
+ἐν τῷ Εὐξείνῳ Πόντῳ	in the Black Sea			
+ἐν τῇ πόλει	in the city			
+Ἡ Εὐρώπη οὐ μικρά	Europe is not small			
+ἀλλὰ μεγάλη ἐστίν	but it is large			
+πολλαὶ γὰρ εἰσιν	for there are many			
+αἱ χώραι ἐν τῇ Εὐρώπῃ	the countries in Europe			
+ὁ Νεῖλος ποταμός	the Nile (a river)			
+μέγας ποταμὸς ἐστίν	it is a great river			
+δύο μεγάλοι ποταμοί	two great rivers			
+τρεῖς μεγάλοι ποταμοί	three great rivers			
+ὁ Ῥῆνος ποταμός	the Rhine (a river)			
+ὁ Ἴστρος ποταμός	the Danube (a river)			
+ἡ Τύρος πόλις	Tyre is a city			
+ἡ Ἀλεξάνδρεια μεγάλη	Alexandria is big			
+νῆσος Ῥωμαϊκὴ ἐστίν	it is a Roman island			
+ἡ Κρήτη Ἑλληνική	Crete is Greek			
+Μεγάλαι Ἑλληνικαὶ νῆσοι	big Greek islands			
+μικραὶ Ἑλληνικαὶ νῆσοι	small Greek islands			
+ἡ Μελίτη νῆσος	Melite is an island			
+Ἑλληνικὴ ἀποικία ἐν τῇ Ἰβηρίᾳ	a Greek colony in Iberia			
+δύο μικραὶ ἀποικίαι	two small colonies			
+οὔτε ἐν τῇ Εὐρώπῃ οὔτε ἐν τῇ Ἀσίᾳ	neither in Europe nor in Asia			
+ἡ Ῥώμη καὶ ἡ Πομπηΐα πόλεις εἰσί	Rome and Pompeii are cities			
+ὁ Νεῖλος καὶ ὁ Ῥῆνος δύο μεγάλοι ποταμοί	the Nile and the Rhine are two great rivers			
+ἐν μὲν τῇ Εὐρώπῃ πολλοὶ ποταμοί	in Europe, many rivers			
+ἐν δὲ τῇ Ἀσίᾳ ὀλίγοι	but in Asia, few			
+τὸ Ἐμπόριον ἀποικία ἐν τῇ Ἰβηρίᾳ	Emporion is a colony in Iberia			
+αὕτη ἐν τῇ Ἀσίᾳ	she/it is in Asia			
+αὕτη πόλις ἐστίν	she/it is a city			
+οὗτος μέγας ποταμός	this is a great river			
+οὐκ ἐν τῇ πόλει	not in the city			
+ἀλλ’ ἐν τῇ χώρᾳ	but in the countryside			
+οὔτε ἐν τῇ νήσῳ οὔτε ἐν τῇ πόλει	neither on the island nor in the city			
+ἐν τῇ Ἑλλάδι	in Greece			
+ἡ Ἑλλὰς χώρα ἐστίν	Greece is a land			
+οὐ μεγάλη, ἀλλὰ μικρά	not big, but small			
+πολλαὶ χῶραι εἰσίν	there are many regions			
+πολλαὶ πόλεις εἰσίν	there are many cities			
+πολλαὶ νῆσοι εἰσίν	many islands exist			
+οὐκ ὀλίγα, ἀλλὰ πολλὰ	not a few, but many			
+τὰ Ἑλληνικὰ ὄρη	the Greek mountains			
+οἱ ποταμοὶ ὀλίγοι εἰσίν	the rivers are few			
+ἡ Ἀττικὴ χώρα καλή	the Attic land is good			
+ἐν τῇ Ἀττικῇ	in Attica			
+ἐν τῇ Θεσσαλίᾳ	in Thessaly			
+ἐν τῇ Βοιωτίᾳ	in Boeotia			
+ἐν τῇ Μακεδονίᾳ	in Macedonia			
+ἐν τῇ Θρᾴκῃ	in Thrace			
+ἐν τῇ Ἰωνίᾳ	in Ionia			
+ἐν τῇ Αἰολίδι	in Aeolis			
+ἐν τῇ Φωκίδι	in Phocis			
+ἐν τῇ Πελοποννήσῳ	in the Peloponnese			
+ἐν τῇ Κρήτῃ	in Crete			
+Ἑλληνικαὶ πόλεις εἰσίν	Greek cities exist			
+αἱ Ἀθῆναι ἐν Ἀττικῇ	Athens in Attica			
+Κόρινθος ἐν Πελοποννήσῳ	Corinth in the Peloponnese			
+Δελφοί ἐν Φωκίδι	Delphi in Phocis			
+Μυτιλήνη ἐν Αἰολίδι	Mytilene in Aeolis			
+ὁ Ὄλυμπος κεῖται	Mount Olympus lies			
+ἐν τῇ Θεσσαλίᾳ κεῖται	it lies in Thessaly			
+Θερμοπύλαι στενόν ἐστιν	Thermopylae is a narrow 			
+οὔτε πόλις ἐστίν	it is not a city			
+οὔτε χώρα, ἀλλὰ στενόν	nor a land, but a strait/narrow 			
+αἱ μὲν μικραὶ νῆσοι	some islands are small			
+αἱ δὲ μεγάλαι	others are large			
+ἡ Κύπρος καὶ ἡ Κρήτη	Cyprus and Crete			
+ἡ Ῥόδος καὶ ἡ Εὔβοια	Rhodes and Euboea			
+τὸ Ἰόνιον πέλαγος	the Ionian Sea			
+τὸ Αἰγαῖον πέλαγος	the Aegean Sea			
+ἐν τῇ Μεσογείῳ θαλάσσῃ	in the Mediterranean sea			
+πέλαγος μικρὰ θάλασσα	a sea, a small sea			
+ἐν τῷ Ἰονίῳ πελάγει	in the Ionian Sea			
+ἐν τῷ Αἰγαίῳ πελάγει	in the Aegean Sea			
+ἡ Σικελία νῆσός ἐστιν	Sicily is an island			
+οὐχ Ἑλληνική, ἀλλὰ Ῥωμαϊκή	not Greek, but Roman			
+ὁ Παρνασὸς ἐν Βοιωτίᾳ	Parnassus in Boeotia			
+ἡ Ἴδη ἐν Κρήτῃ	Ida in Crete			
+ὁ Ὑμηττὸς ἐν Ἀττικῇ	Hymettus in Attica			
+ἡ Πάρνης καὶ ἡ Πεντέλη	Parnes and Penteli			
+ὁ Ἄξιος ποταμός	the Axios river			
+ὁ Ἄξιος μέγας ἐστίν	the Axios is great			
+ὁ Νέστος μικρὸς ἐστίν	the Nestos is small			
+ὁ Ἀλφειὸς μικρὸς ἐστίν	the Alpheios is small			
+ὁ Ἰλισὸς ἐν Ἀττικῇ	the Ilissos in Attica			
+ὁ Ἡριδανὸς ἐν Ἀττικῇ	the Eridanos in Attica			
+ἐν τῷ πελάγει	in the sea			
+αἱ πόλεις εἰσίν	the cities are			
+ἡ Φωκίς ἐστίν	Phocis is			
+ἡ Αἰολίς ἐστίν	Aeolis is			
+τὸ πέλαγος ἐστίν	the open sea is			
+Ποῦ ἐστὶν ἡ Περσίς;	ἐν τῇ Ἀσίᾳ			
+Ποῦ ἐστὶν ἡ Αἴγυπτος;	ἐν τῇ Λιβύῃ			
+Ποῦ ἐστὶν ὁ Νεῖλος;	ἐν τῇ Αἰγύπτῳ			
+Ποῦ ἐστὶν ὁ Ῥῆνος;	ἐν τῇ Εὐρώπῃ			
+Ποῦ ἐστὶν ὁ Ἴστρος;	ἐν τῇ Εὐρώπῃ			
+Ποῦ εἰσὶν ὁ Τίγρις καὶ ὁ Εὐφράτης;	ἐν τῇ Ἀσίᾳ			
+Τί ἐστίν ἡ Ῥώμη;	πόλις ἐστὶν ἐν τῇ Ἰταλίᾳ			
+Τί ἐστίν ἡ Πομπηΐα;	πόλις ἐστὶν ἐν τῇ Ἰταλίᾳ			
+Τί ἐστὶν ἡ Τύρος;	πόλις ἐστὶν ἐν τῇ Συρίᾳ			
+Ποῦ ἐστὶν ἡ Ἀλεξάνδρεια;	ἐν τῇ Αἰγύπτῳ			
+Ποῦ ἐστὶ τὸ Βυζάντιον	ἐν τῷ Εὐξείνῳ Πόντῳ			
+Ἡ Σικελία τί ἐστίν;	μεγάλη νῆσος ἐστίν			
+Ἡ Κρήτη τί ἐστίν;	μεγάλη νῆσος ἐστίν			
+Ἡ Μελίτη τί ἐστίν; (greek answer to Q)	μικρὰ νῆσος ἐστίν			
+Ποῦ ἐστὶ τὸ Ἐμπόριον	ἐν τῇ Ἰβηρίᾳ			
+Ποῦ ἐστὶν ἡ Ῥόδη	ἐν τῇ Ἰβηρίᾳ			
+Ποῦ ἐστὶν ἡ Μασσαλία	ἐν τῇ Γαλατίᾳ			fixme
+Ποῦ εἰσὶν αἱ Πιτυοῦσσαι	ἐν τῇ Ἰβηρίᾳ			
+Ἡ Ῥώμη μεγάλη ἢ μικρά ἐστίν;	μεγάλη ἐστίν			
+Ἡ Πομπηΐα μεγάλη ἢ μικρά ἐστίν	μικρά ἐστίν			
+Ὁ Νεῖλος ποταμὸς μέγας ἐστίν;	ναί, μέγας ἐστίν			
+ ὁ παῖς μέγας ἢ μικρὸς ἐστιν;	μικρὸς ἐστίν			
+Ποῦ ἐστὶν ὁ Θύμβρις;	ἐν τῇ Ῥώμῃ			
+Ἡ Περσίς ἐν τίνι ἠπείρῳ ἐστίν;	ἐν τῇ Ἀσίᾳ			
+Ἡ Αἴγυπτος ἐν τίνι ἠπείρῳ ἐστίν;	ἐν τῇ Λιβύῃ			
+Τί εἰσιν ἡ Ἀλεξάνδρεια καὶ ἡ Τύρος;	πόλεις εἰσίν			
+Πόσαι ἀποικίαι εἰσὶν ἐν τῇ Ἰβηρίᾳ;	δύο μικραὶ Ἑλληνικαί			
+ποῦ κεῖται ὁ Ὄλυμπος;	ἐν τῇ Θεσσαλίᾳ κεῖται			
+ποῦ κεῖται ὁ Παρνασός;	ἐν τῇ Βοιωτίᾳ κεῖται			
+ποῦ κεῖται ὁ Ὑμηττός;	ἐν τῇ Ἀττικῇ κεῖται			
+ποῦ κεῖται ἡ Ἴδη;	ἐν τῇ Κρήτῃ κεῖται			
+ποῦ κεῖνται αἱ Θερμοπύλαι;	ἐν τῇ Θεσσαλίᾳ κεῖνται			
+τί ἐστιν αἱ Θερμοπύλαι; (what is it not)	οὔτε πόλις οὔτε χώρα, ἀλλὰ στενόν			
+τί ἐστι πέλαγος;	πέλαγος μικρὰ θάλασσα ἐστίν			
+ποῦ κεῖνται αἱ Ἰόνιοι νῆσοι;	ἐν τῷ Ἰονίῳ πελάγει			
+ποῦ κεῖται ἡ Σμύρνη;	ἐν τῇ Ἰωνίᾳ κεῖται			
+ποῦ κεῖται ἡ Μυτιλήνη;	ἐν τῇ Αἰολίδι κεῖται			
+ποῦ κεῖται ὁ Κόρινθος;	ἐν τῇ Πελοποννήσῳ κεῖται			
+ἡ Σικελία Ἑλληνική ἐστίν;	οὔ· Ῥωμαϊκὴ νῆσός ἐστιν			
+ποῦ κεῖται ὁ Ἄξιος;	ἐν τῇ Μακεδονίᾳ κεῖται			
+ποῦ κεῖται ὁ Νέστος;	ἐν τῇ Θρᾴκῃ κεῖται			
+ποῦ κεῖται ὁ Ἀλφειός;	ἐν τῇ Πελοποννήσῳ κεῖται			
+Ποῦ ἐστὶν ἡ Περσίς;{{c1::ἐν τῇ Ἀσίᾳ}}	ἐν + δοτική			fixme
+Ἡ Αἴγυπτος οὔτε ἐν τῇ Εὐρώπῃ οὔτε ἐν τῇ Ἀσίᾳ, ἀλλ’ {{c1::ἐν τῇ Λιβύῃ}}	ἀλλὰ + ἐν dative			
+ὁ Νεῖλος ποταμὸς ἐστίν {{c1::ἐν τῇ Αἰγύπτῳ}}	ποταμός + τόπος			fixme
+ὁ Ῥῆνος καὶ ὁ Ἴστρος εἰσὶ {{c1::ἐν τῇ Εὐρώπῃ}} (where?)	δύο ὀνόματα + ἐν			
+ὁ Τίγρις καὶ ὁ Εὐφράτης εἰσὶ {{c1::ἐν τῇ Ἀσίᾳ}}	γεωγραφία			
+ἡ Ῥώμη καὶ ἡ Πομπηΐα δύο {{c1::πόλεις}} ἐν τῇ Ἰταλίᾳ εἰσί	πόλις (γ΄ κλίσις)			
+Τί ἐστίν ἡ Ῥώμη;{{c1::πόλις}} ἐστὶν ἐν τῇ Ἰταλίᾳ	πόλις (nom. sg.)			
+ἡ Τύρος {{c1::πόλις}} ἐστὶν ἐν τῇ Συρίᾳ	πόλις (γ΄ κλίσις)			
+ἡ Ἀλεξάνδρεια ἐστίν {{c1::ἐν τῇ Αἰγύπτῳ}}	τόπος			
+ἡ Κρήτη {{c1::Ἑλληνική}} ἐστίν;ἐθνικόν ἐπίθετον				
+Μεγάλαι {{c1::Ἑλληνικαὶ}} νῆσοι εἰσίν;συμφωνία ἐπιθέτου				
+{{c1::μικραὶ}} Ἑλληνικαὶ νῆσοι εἰσίν;ἀντίθεσις μεγάλαι/μικραί				
+τὸ Ἐμπόριον ἀποικία ἐστὶν {{c1::ἐν τῇ Ἰβηρίᾳ}}	ἀποικία + ἐν dative			
+τὸ {{c1::Βυζάντιον}} ἐν τῷ Εὐξείνῳ Πόντῳ ἐστίν	κύρια ὀνόματα			
+ὁ {{c1::Θύμβρις}} μικρὸς ποταμὸς ἐστίν (river in Rome)	λεξιλόγιον ποταμῶν			
+Ἡ Σικελία {{c1::μεγάλη νῆσος::large island}} ἐστίν	συμφωνία ἐπιθέτου-ὀνόματος			fixme
+{{c1::οὔτε:: neither}} ἐν τῇ πόλει {{c1::οὔτε::nor}} ἐν τῇ νήσῳ	ζεῦγος οὔτε…οὔτε			
+{{c1::ἐν τῷ Εὐξείνῳ Πόντῳ}}	δοτικὴ τοῦ τόπου (2η κλίσις)			
+ἀνδρωνῖτις	"<img src=""andronitis.png"">"	men's quarters		animal_vocab
+ἀποθήκη	<img src='apotheke.png'>	storeroom		animal_vocab
+αὐλή	<img src='ayle.png'>	courtyard		animal_vocab
+αὐλόν	<img src='aylon.png'>	aulos		animal_vocab
+βιβλιοθήκη	<img src='bibliotheke.png'>	book chest		animal_vocab
+βιβλίον	<img src='biblion.png'>	scroll		animal_vocab
+βωμός	<img src='bomos.png'>	altar		animal_vocab
+γυναικωνῖτις	<img src='gynaikonitis.jpg'>	women's quarters		animal_vocab
+δεῖπνον	<img src='deipnon.png'>	dinner		animal_vocab
+δωμάτιον	<img src='domation.png'>	room		animal_vocab
+ἐπιστολή	<img src='epistole.png'>	letter		animal_vocab
+ἑσπέρα	<img src='espera.jpg'>	evening		animal_vocab
+ἡμέρα	<img src='emera.png'>	day		animal_vocab
+θάλαμος	<img src='thalamos.png'>	bedchamber		animal_vocab
+θρόνος	<img src='thronos.jpeg'>	throne		animal_vocab
+θύρα	<img src='thyra.png'>	door		animal_vocab
+θυρίς	<img src='thyris.png'>	window		animal_vocab
+καθέδρα	<img src='kathedra.png'>	chair		animal_vocab
+κάλαμος	<img src='kalamos.png'>	reed pen		animal_vocab
+κῆπος	<img src='kepos.png'>	garden		animal_vocab fixme marked
+κιβώτιον	<img src='kibotion.png'>	chest		animal_vocab
+κιθάρα	<img src='kithara.png'>	kithara		animal_vocab
+κλῖμαξ	<img src='klimax.png'>	ladder		animal_vocab
+κλίνη	<img src='kline.png'>	couch		animal_vocab
+κόμη	<img src='kome.png'>	hair		animal_vocab
+λουτρόν	<img src='loytron.png'>	bath basin		animal_vocab
+μαγειρεῖον	<img src='mageireion.png'>	kitchen		animal_vocab fixme
+μῆλον	<img src='melon.png'>	apple		animal_vocab
+νύξ	<img src='nyx.png'>	night		animal_vocab
+ξύλον	<img src='xylon.png'>	wood		animal_vocab
+πάπυρος	<img src='papyros.png'>	papyrus		animal_vocab
+πέπλος	<img src='peplos.png'>	peplos		animal_vocab
+περιστύλιον	<img src='peristylion.png'>	peristyle		animal_vocab
+στῦλος	<img src='stylos.png'>	column		animal_vocab
+συμπόσιον	<img src='symposion.jpg'>	symposium		animal_vocab
+τράπεζα	<img src='trapeza.png'>	table		animal_vocab
+τροφὴ	<img src='trophe.png'>	food		animal_vocab
+τὸν κάλαμον λαμβάνει	he takes the reed			
+βιβλίον ἀναγιγνώσκει	he reads a book			
+τὴν Ὀδύσσειαν ἀναγιγνώσκει	he reads the Odyssey			
+μικρὰν ἐπιστολὴν γράφει	he writes a small letter			
+τὸν κάλαμον λείπει	he leaves the reed			
+τὴν ἐπιστολὴν λείπει	he leaves the letter			
+τὸν δοῦλον καλεῖ	he calls the slave			
+τὸν ἵππον τρέφει	he feeds the horse			
+τὴν τροφὴν λείπει	he leaves the food			
+τὸν ὕμνον ἀκούει	he hears the hymn			
+καλὸν κιβώτιον ἔχει	he has a fine chest			
+τὰ ἄστρα ὁρᾷ	he sees the stars			
+τὸ παιδίον θεραπεύει	she cares for the child			
+τὸ δεῖπνον παρασκευάζει	she prepares the dinner			
+πέπλον ῥάπτει	she sews a robe			
+μῆλον λαμβάνει	she takes an apple			
+καλὸν πέπλον λαμβάνει	she takes a fine robe			
+τὸν Πήγασον ἔχει	she has Pegasus			
+τὴν κόμην κτενίζει	she combs the hair			
+τὰ κατ’ οἶκον ἔργα	the household tasks			
+ἐν τῇ οἰκίᾳ	in the house			
+ἐν τῇ βιβλιοθήκῃ	in the library			
+ἐν τῇ ἀποθήκῃ	in the storeroom			
+ἐν τῷ λουτρῷ	in the bath			
+ἐν τῷ μαγειρείῳ	in the kitchen			
+ἐν τῷ αὐλίῳ	in the courtyard			
+ἐπὶ τῇ τραπέζῃ	on the table			
+ἐν μικρῷ δωματίῳ	in a small room			
+ἐν τῷ θαλάμῳ	in the bedroom			
+περίστυλος αὐλή ἐστι	there is a peristyle court			
+ἡ κλίνη καλή ἐστι	the bed is fine			
+καλὸς ξύλινος θρόνος	a fine wooden chair			
+ποῦ ἐστὶν ὁ δοῦλος;	where is the slave?			
+ποῦ εἶ, ὦ Καλλίμαχε;	where are you, Callimachus?			
+ἔπειτα τὸν Φίλιππον καλεῖ	then he calls Philip			
+ἰδοὺ τὸ παιδίον	look, the child			
+κάλαμον λαμβάνει, ἐπιστολὴν γράφει	he takes a reed, writes a letter			
+ἵππον τρέφει, τροφὴν λείπει	he feeds a horse, leaves the food			
+ὕμνον ἀκούει, ἄστρα ὁρᾷ	he hears a hymn, sees the stars			
+μῆλον λαμβάνει, πέπλον ῥάπτει	she takes an apple, sews a robe			
+αὐτὸν καλεῖ	he calls him			
+αὐτὴ τρέφει αὐτόν	she feeds him			
+αὐτὸ λείπει	he leaves it			
+ἐπιστολὴν γράφει αὕτη	she writes a letter			
+πέπλον ῥάπτει αὕτη	she sews a robe			
+ὁρᾷ αὐτά	he sees them			
+ἡ τοῦ Ἀπολλωνίου οἰκία	the house of Apollonius			
+οἱ φίλοι αὐτοῦ	his friends			
+τὴν τοῦ Ὁμήρου Ὀδύσσειαν	Homer’s Odyssey			
+βωμὸς κεῖται Διός	an altar of Zeus stands			
+ἡμέρας μὲν ἀναπαύεται	by day it rests			
+νυκτὸς δὲ καθεύδει	by night it sleeps			
+ἐν τῷ τῆς τίθης δωματίῳ	in the nurse’s room			
+ἐν τῷ τοῦ δεσπότου θρόνῳ	on the master’s chair			
+ἐπὶ μικρᾷ παπύρᾳ	on a small papyrus			
+ἐκεῖ ἐν τῇ αὐλῇ	there in the courtyard			
+ἡ οἰκία ἐστὶ μεγάλη	the house is big			
+διπλὴ ἐστὶ γάρ	for it is double			
+καλὸν ξύλινον κιβώτιον	a fine wooden chest			
+ὀλίγαι θύραι εἰσίν	there are few doors			
+τί ἐστιν ἡ ἀνδρωνῖτις;	what is the men’s quarter?			
+τοῦτ’ ἐστίν…	this/that is…			
+ποῦ δὲ καθεύδουσιν;	where then do they sleep?			
+ποῦ εἶ, ὦ Ἠλέκτρα;	where are you, Electra?			
+ὁ πατὴρ οἰκεῖ	the father lives			
+ὁ ἥλιος δύει	the sun sets			
+Ἀπολλώνιος ὁ δεσπότης	Apollonius the master			
+ἀναπαύεται ὁ οἶκος	the house rests			
+λούονται πάντες ἅμα	they all bathe together			
+ἐκεῖ γράφει ὁ δεσπότης	there the master writes			
+ἐκεῖ γίγνεται τὰ συμπόσια	there the banquets happen			
+ὁ Καλλίμαχος ἄπεστι	Callimachus is away			
+οὐ πάρεστι ὁ δοῦλος	the slave is not present			
+καλῶς ᾄδει Πάτροκλος	Patroklos sings well			
+τῆς μουσικῆς ἀκούει	he listens to the music			
+ἐν ὕπνῳ ὄναρ ὁρᾷ	in sleep he sees a dream			
+ἰδοὺ ὕπνος λαμβάνει	look—sleep seizes (him)			
+ὁ Δικαιόπολις ἐκβαίνει	Dicaeopolis goes out			Athenaze-1-2;reading;fragment
+ἐκ τοῦ οἴκου	out of the house			Athenaze-1-2;reading;fragment
+καλεῖ τὸν Ξανθίαν	he calls Xanthias			Athenaze-1-2;reading;fragment
+ὁ Ξανθίας δοῦλός ἐστιν	Xanthias is a slave			Athenaze-1-2;reading;fragment
+ἰσχυρὸς μὲν ἄνθρωπος	a strong man, on the one hand			Athenaze-1-2;reading;fragment
+ἀργὸς δέ	but lazy			Athenaze-1-2;reading;fragment
+οὐ γὰρ πονεῖ	for he does not work			Athenaze-1-2;reading;fragment
+εἰ μὴ πάρεστιν	unless he is present			Athenaze-1-2;reading;fragment
+νῦν δὲ καθεύδει	but now he sleeps			Athenaze-1-2;reading;fragment
+ἐν τῷ οἴκῳ	in the house			Athenaze-1-2;reading;fragment
+καλεῖ αὐτὸν καὶ λέγει	he calls him and says			Athenaze-1-2;reading;fragment
+ἔλθε δεῦρο, ὦ Ξανθία	come here, O Xanthias			Athenaze-1-2;reading;fragment
+τί καθεύδεις;	why are you sleeping?			Athenaze-1-2;reading;fragment
+μὴ οὕτως ἀργὸς ἴσθι	do not be so lazy			Athenaze-1-2;reading;fragment
+ἀλλὰ σπεῦδε	but hurry!			Athenaze-1-2;reading;fragment
+ὁ δὲ Ξανθίας βραδέως ἐκβαίνει	and Xanthias comes out slowly			Athenaze-1-2;reading;fragment
+τί ἐστι, ὦ δέσποτα;	what is it, master?			Athenaze-1-2;reading;fragment
+οὐ γὰρ ἀργός εἰμι	for I am not lazy			Athenaze-1-2;reading;fragment
+ἀλλ᾽ ἤδη σπεύδω	but I am already hurrying			Athenaze-1-2;reading;fragment
+ἔλθε δεῦρο καὶ συλλάμβανε	come here and help			Athenaze-1-2;reading;fragment
+αἴρε τὸ ἄροτρον	lift the plough			Athenaze-1-2;reading;fragment
+φέρε αὐτὸ πρὸς τὸν ἀγρόν	carry it to the field			Athenaze-1-2;reading;fragment
+ἐγὼ γὰρ ἐλαύνω τοὺς βοῦς	for I drive the oxen			Athenaze-1-2;reading;fragment
+ἀλλὰ σπεῦδε· μικρὸς γάρ ἐστιν ὁ πόνος	but hurry; the toil is small			Athenaze-1-2;reading;fragment
+ὁ μὲν Δικαιόπολις ἐλαύνει τὸν βοῦν	on the one hand Dicaeopolis drives the ox			Athenaze-1-2;reading;fragment
+ὁ δὲ δοῦλος φέρει τὸ ἄροτρον	but the slave carries the plough			Athenaze-1-2;reading;fragment
+ὁ μὲν … ὁ δέ …	the one … the other …			Athenaze-1-2;reading;fragment
+πρὸς τὸν ἀγρόν	toward the field			Athenaze-1-2;reading;fragment
+ὁ Δικαιόπολις {{c1::ἐκβαίνει::goes out}} ἐκ τοῦ οἴκου.	Dicaeopolis goes out from the house			
+{{c1::ἐκ::prep + gen}} τοῦ οἴκου. (Out)	Athenaze-1-2;reading;cloze;G2G			
+καλεῖ {{c1::αὐτόν::acc pron}} καὶ λέγει.	Athenaze-1-2;reading;cloze;G2G			fixme
+ὁ Ξανθίας δοῦλος {{c1::ἐστίν::copula 3sg}}.	Athenaze-1-2;reading;cloze;G2G			
+ἰσχυρὸς {{c1::μὲν::contrast 1/2}} ἄνθρωπος.	Athenaze-1-2;reading;cloze;G2G			
+ἀργὸς {{c1::δέ::contrast 2/2}}.	Athenaze-1-2;reading;cloze;G2G			fixme
+οὐ {{c1::γὰρ::for}} πονεῖ.	Athenaze-1-2;reading;cloze;G2G			
+οὐ γὰρ {{c1::πονεῖ::pres ind 3sg}}.	Athenaze-1-2;reading;cloze;G2G			
+εἰ {{c1::μὴ::unless}} πάρεστιν.	Unless he is present 			
+εἰ μὴ {{c1::πάρεστιν::is present 3sg}}.	Athenaze-1-2;reading;cloze;G2G			fixme
+νῦν {{c1::δὲ::but}} καθεύδει.	But now he sleeps			fixme
+{{c1::ἐν::prep + dat}} τῷ οἴκῳ.	Athenaze-1-2;reading;cloze;G2G			
+ἔλθε {{c1::δεῦρο::come here}}, ὦ Ξανθία.	“Come here, Xanthias.”			
+{{c1::τί::why/what}} καθεύδεις;	Why do you sleep?			
+μὴ {{c1::οὕτως::so, thus}} ἀργὸς {{c1::ἴσθι::be! 2sg imp}}.	Don’t be so idle.”/ “Don’t be so lazy.”			
+{{c1::ἀλλὰ::but}} σπεῦδε.	But hurry			
+βραδέως {{c1::ἐκβαίνει::comes out pres 3sg}}.	He goes out slowly			
+{{c1::ὦ::vocative}} δέσποτα.	O master!			
+οὐ γὰρ ἀργός {{c1::εἰμι::I am}}.	For I am not lazy 			
+ἀλλ᾽ {{c1::ἤδη::already}} σπεύδω.	Athenaze-1-2;reading;cloze;G2G			
+ἔλθε δεῦρο καὶ {{c1::συλλάμβανε::help 2sg imp}}.	Athenaze-1-2;reading;cloze;G2G			
+{{c1::αἴρε::lift 2sg imp}} τὸ ἄροτρον.	Athenaze-1-2;reading;cloze;G2G			
+φέρε αὐτὸ {{c1::πρὸς::to, toward}} τὸν ἀγρόν.	Athenaze-1-2;reading;cloze;G2G			
+ἐγὼ γὰρ {{c1::ἐλαύνω::drive 1sg}} τοὺς βοῦς.	Athenaze-1-2;reading;cloze;G2G			
+μικρὸς {{c1::γάρ::for}} ἐστιν ὁ πόνος.	Athenaze-1-2;reading;cloze;G2G			
+ὁ {{c1::μὲν::the one}} Δικαιόπολις …	Athenaze-1-2;reading;cloze;G2G			
+ὁ {{c1::δὲ::the other}} δοῦλος …	Athenaze-1-2;reading;cloze;G2G			
+{{c1::ἐλαύνει::drives 3sg}} τὸν βοῦν.	Athenaze-1-2;reading;cloze;G2G			
+{{c1::φέρει::carries 3sg}} τὸ ἄροτρον.	Athenaze-1-2;reading;cloze;G2G			
+ὁ ἰσχυρὸς ἄνθρωπος	the strong man (the strong person)			Exercise-2δ;adj-noun;masc;sg;nom
+ ὁ μακρὸς χρόνος	the long time			Exercise-2δ;adj-noun;masc;sg;nom
+ὁ ἀργὸς δοῦλος	the lazy slave			Exercise-2δ;adj-noun;masc;sg;nom
+ τὸ μικρὸν ἄροτρον	the small plow			Exercise-2δ;adj-noun;neut;sg;nom
+ὁ χαλεπὸς πόνος	the difficult labor (hard work)			Exercise-2δ;adj-noun;masc;sg;nom
+ ὁ μικρὸς οἶκος	the small house			Exercise-2δ;adj-noun;masc;sg;nom
+ὁ Δικαιόπολις {{c1::ἐκβαίνει}} ἐκ τοῦ οἴκου.				
+ὦ Ξανθία, {{c1::σπεῦδε::speed?}} πρὸς τὸν ἀγρόν.				
+ὁ Ξανθίας δοῦλος {{c1::ἐστίν}}.				
+ἐγὼ τοὺς βοῦς εἰς τὸν ἀγρὸν {{c1::ἐλαύνω}}.				
+μή {{c1::φέρε}} τὸ ἄροτρον, ὦ δεσπότα.				
+ὁ δοῦλος τοὺς λίθους ἐκ τοῦ ἀγροῦ {{c1::φέρει}}.				
+μή {{c1::ἔλαυνε}} τοὺς βοῦς.				
+ὁ αὐτουργὸς ἐν τῷ οἴκῳ οὐ {{c1::πονεῖ:: works}}.				
+Dat. — ὁ μακρὸς χρόνος → ____	τῷ μακρῷ χρόνῳ			Exercise-2η;masc;sg;dative;2nd-decl;adjective-agreement
+Gen. — ὁ μακρὸς χρόνος → ____	τοῦ μακροῦ χρόνου			Exercise-2η;masc;sg;genitive;2nd-decl;adjective-agreement
+Acc. — ὁ μακρὸς χρόνος → ____	τὸν μακρὸν χρόνον			Exercise-2η;masc;sg;accusative;2nd-decl;adjective-agreement
+Voc. — ὁ μακρὸς χρόνος → ____	ὦ μακρὲ χρόνε			Exercise-2η;masc;sg;vocative;2nd-decl;adjective-agreement
+Acc. — τὸ ἰσχυρὸν δένδρον → ____	τὸ ἰσχυρὸν δένδρον			Exercise-2η;neut;sg;accusative;2nd-decl;neuter-equals-nom
+Gen. — τὸ ἰσχυρὸν δένδρον → ____	τοῦ ἰσχυροῦ δένδρου			Exercise-2η;neut;sg;genitive;2nd-decl;adjective-agreement
+Dat. — τὸ ἰσχυρὸν δένδρον → ____	τῷ ἰσχυρῷ δένδρῳ			Exercise-2η;neut;sg;dative;2nd-decl;adjective-agreement
+Voc. — τὸ ἰσχυρὸν δένδρον → ____	ὦ ἰσχυρὸν δένδρον			Exercise-2η;neut;sg;vocative;2nd-decl;neuter-equals-nom
+What case &amp; number is this? → τῷ μακρῷ χρόνῳ	Dative singular (masculine)			bonus;identify-case;masc;sg;dative
+What case &amp; number is this? → τοῦ ἰσχυροῦ δένδρου	Genitive singular (neuter)			bonus;identify-case;neut;sg;genitive
+Front	Back			
+σπεῦδε, ὦ Ξανθία	Hurry, Xanthias!			
+φέρε μοι τὸ ἄροτρον	Bring me the plow.			
+μὴ κάθευδε	"Don&#x27;t sleep!"			
+ἐλθὲ δεῦρο	Come here!			
+ἀλλὰ σύλλαμβανε	...but help!			
+σπεύδετε, ὦ βόες	Hurry, oxen!			
+ἕλκετε τὸ ἄροτρον	Drag the plow!			
+ἀροῦτε τὸν ἀγρόν	Plow the field!			
+ἵλεως ἴσθι	Be gracious!			
+πλήθυνε τὸ σπέρμα	Multiply the seed!			
+εἰσάγει τοὺς βοῦς	He leads the oxen in...			
+εἰς τὸν ἀγρὸν	...into the field			
+ὑπὸ τὸ ζυγὸν	...under the yoke			
+ὑπὸ τῷ δένδρῳ	...under the tree			
+βλέπει πρὸς τὸν δοῦλον	He looks toward the slave			
+ὄπισθεν βαδίζει	He walks behind			
+καὶ ἀκολουθεῖ	...and he follows			
+βραδέως γὰρ βαίνει	...for he walks slowly			
+"ἀλλ&#x27; ἤδη σπεύδω"	...but I am already hurrying			
+ἔπειτα δὲ βλέπει	And then he looks			
+τί οὕτω χαλεπὸς εἶ;	Why are you so difficult?			
+ὁ μὲν οὖν Δικαιόπολις	Dikaiopolis, on the one hand...			
+ὁ δὲ δεσπότης	...and the master			
+ἐλαύνει τοὺς βοῦς	...drives the oxen			
+λαμβάνει τὸ κέντρον	He takes the goad			
+φέρε γὰρ τὸ σπέρμα	For bring the seed			
+{{c1::σπεῦδε::Hurry - Singular}}, ὦ Ξανθία, καὶ φέρε μοι τὸ ἄροτρον.	Singular imperative (-ε) addressing one person (Xanthias).			
+{{c1::σπεύδετε::Hurry - Plural}}, ὦ βόες· ἕλκετε τὸ ἄροτρον.	Plural imperative (-ετε) addressing multiple subjects (oxen).			
+σπεύδετε, ὦ βόες· {{c1::ἕλκετε::Drag - Plural}} τὸ ἄροτρον.	"Plural imperative (-ετε) matching the subject &#x27;oxen&#x27;."			
+"ἐλθὲ δεῦρο... μὴ {{c1::κάθευδε::Don&#x27;t sleep - Singular}}."	Negative command with μή + singular imperative (-ε).			
+ὁ Δικαιόπολις εἰσάγει τοὺς βοῦς {{c1::εἰς τὸν ἀγρὸν::into the field}}.	εἰς + Accusative indicating motion *into*.			
+ὁ Ξανθίας καθεύδει {{c1::ὑπὸ τῷ δένδρῳ::under the tree}}.	ὑπὸ + Dative indicating static position *under*.			
+ὁ Δικαιόπολις ἄγει τοὺς βοῦς {{c1::ὑπὸ τὸ ζυγὸν::under the yoke}}.	ὑπὸ + Accusative indicating motion *to under*.			
+βλέπει {{c1::πρὸς τὸν::toward the}} δοῦλον.	πρὸς + Accusative indicating direction/looking *towards*.			
+{{c1::ἵλεως ἴσθι::Be gracious - Singular}}, ὦ Δήμητερ, καὶ πλήθυνε τὸ σπέρμα.	"Formulaic prayer. ἴσθι is the imperative of &#x27;to be&#x27;."			
+ἵλεως ἴσθι, ὦ Δήμητερ, καὶ {{c1::πλήθυνε::Multiply - Singular}} τὸ σπέρμα.	Singular imperative addressed to the goddess.			
+ὁ δοῦλος {{c1::ὄπισθεν::behind}} βαδίζει.	Adverb of place.			
+τί οὕτω {{c1::χαλεπὸς::difficult}} εἶ;	"Adjective describing Dikaiopolis&#x27;s mood/temper."			
