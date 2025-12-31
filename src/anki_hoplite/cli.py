@@ -18,6 +18,7 @@ from .detect_duplicates import analyze_candidates, analyze_deck_internal
 from .report import write_results_csv, print_summary
 from .cltk_setup import ensure_cltk_grc_models
 from .tag_hygiene import load_tag_schema
+from .tag_converter import load_tag_converter
 
 
 def load_config(path: str | Path) -> dict:
@@ -72,18 +73,40 @@ def cmd_lint(args: argparse.Namespace) -> int:
     # Load candidates
     candidates = [r.__dict__ for r in read_candidates_csv(args.input)]
 
-    # Analyze (with optional tag hygiene)
+    # Load cloze stop words if cloze validation is enabled
+    cloze_stopwords = None
+    if args.validate_cloze:
+        from .cloze_validator import GreekStopWords
+        try:
+            cloze_stopwords = GreekStopWords.load(args.cloze_stopwords)
+            print(f"Loaded Greek stop words from: {args.cloze_stopwords}")
+            print(f"  Stop words: {len(cloze_stopwords.words)}")
+        except FileNotFoundError as e:
+            print(f"Error: {e}")
+            return 1
+
+    # Analyze (with optional tag hygiene, cloze validation, context analysis, and recommendations)
     results = analyze_candidates(
         candidates,
         deck,
         lemmatizer,
         tag_schema=tag_schema,
-        enable_auto_tag=args.auto_tag
+        enable_auto_tag=args.auto_tag,
+        enable_cloze_validation=args.validate_cloze,
+        cloze_stopwords=cloze_stopwords,
+        enable_context_analysis=args.analyze_context,
+        enable_cloze_recommendations=args.recommend_cloze
     )
 
     # Report
     write_results_csv(args.out, results, include_tag_hygiene=args.enforce_tags)
-    print_summary(results, include_tag_hygiene=args.enforce_tags)
+    print_summary(
+        results,
+        include_tag_hygiene=args.enforce_tags,
+        include_cloze=args.validate_cloze,
+        include_context=args.analyze_context,
+        include_recommendations=args.recommend_cloze
+    )
     print(f"Wrote report: {args.out}")
     # Persist lemma cache for faster subsequent runs
     lemmatizer.save_cache()
@@ -124,6 +147,77 @@ def cmd_lint_deck(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_convert_tags(args: argparse.Namespace) -> int:
+    """Convert non-standard tags to schema-compliant format."""
+    import csv
+
+    # Load tag schema for filtering
+    tag_schema = load_tag_schema(args.tag_schema)
+    print(f"Loaded tag schema from: {args.tag_schema}")
+    print(f"  Allowed tags: {len(tag_schema.allowed_tags)}")
+
+    # Load tag converter
+    mapping_path = Path(args.mapping) if args.mapping else None
+    converter = load_tag_converter(mapping_path)
+    print(f"Loaded tag conversion mapping from: {args.mapping or 'default'}")
+
+    # Read input CSV
+    input_path = Path(args.input)
+    if not input_path.exists():
+        print(f"Error: Input file not found: {input_path}")
+        return 1
+
+    # Process CSV
+    converted_cards = []
+    with open(input_path, 'r', encoding='utf-8') as f:
+        reader = csv.DictReader(f)
+        if 'front' not in reader.fieldnames or 'back' not in reader.fieldnames:
+            print("Error: Input CSV must have 'front' and 'back' columns")
+            return 1
+
+        for row in reader:
+            tags_string = row.get('tags', '')
+            result = converter.convert_card_tags(tags_string, tag_schema=tag_schema)
+
+            tags_converted = ' '.join(result.converted_tags)
+            converted_cards.append({
+                'front': row['front'],
+                'back': row['back'],
+                'tags': tags_converted,  # Compatible with lint command
+                'tags_original': tags_string,
+                'tags_converted': tags_converted,
+                'chapter': result.chapter,
+                'source': result.source,
+                'section': result.section
+            })
+
+    # Write output CSV
+    output_path = Path(args.out)
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+
+    fieldnames = ['front', 'back', 'tags', 'tags_original', 'tags_converted', 'chapter', 'source', 'section']
+    with open(output_path, 'w', encoding='utf-8', newline='') as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(converted_cards)
+
+    # Print summary
+    total_cards = len(converted_cards)
+    with_chapter = sum(1 for c in converted_cards if c['chapter'])
+    with_section = sum(1 for c in converted_cards if c['section'])
+    total_tags_output = sum(len(c['tags'].split()) for c in converted_cards if c['tags'])
+    cards_with_tags = sum(1 for c in converted_cards if c['tags'])
+
+    print(f"Converted {total_cards} cards")
+    print(f"  Cards with chapter metadata: {with_chapter}")
+    print(f"  Cards with section metadata: {with_section}")
+    print(f"  Cards with allowlist tags: {cards_with_tags}")
+    print(f"  Total allowlist tags: {total_tags_output}")
+    print(f"Wrote converted tags to: {output_path}")
+
+    return 0
+
+
 def build_parser() -> argparse.ArgumentParser:
     p = argparse.ArgumentParser(prog="ankihoplite", description="Anki-Hoplite prototype CLI")
     sub = p.add_subparsers(dest="cmd", required=True)
@@ -151,6 +245,26 @@ def build_parser() -> argparse.ArgumentParser:
         action="store_true",
         help="Enable auto-tagging based on schema rules (requires --enforce-tags)",
     )
+    lint.add_argument(
+        "--validate-cloze",
+        action="store_true",
+        help="Enable cloze context quality validation",
+    )
+    lint.add_argument(
+        "--cloze-stopwords",
+        default="resources/greek_stopwords.txt",
+        help="Path to Greek stop words file (default: resources/greek_stopwords.txt)",
+    )
+    lint.add_argument(
+        "--analyze-context",
+        action="store_true",
+        help="Enable context quality analysis (identify isolated vocabulary)",
+    )
+    lint.add_argument(
+        "--recommend-cloze",
+        action="store_true",
+        help="Enable cloze conversion recommendations for suitable cards",
+    )
     lint.set_defaults(func=cmd_lint)
 
     lint_deck = sub.add_parser("lint-deck", help="Analyze deck itself for internal duplicates")
@@ -166,6 +280,21 @@ def build_parser() -> argparse.ArgumentParser:
         help="Minimum warning level to include (e.g., --min-level high shows only exact duplicates)",
     )
     lint_deck.set_defaults(func=cmd_lint_deck)
+
+    convert = sub.add_parser("convert-tags", help="Convert non-standard tags to schema-compliant format")
+    convert.add_argument("--input", required=True, help="Path to candidate CSV (front,back,tags)")
+    convert.add_argument("--out", required=True, help="Path to output CSV with converted tags")
+    convert.add_argument(
+        "--mapping",
+        default="resources/tag_conversion_map.json",
+        help="Path to tag conversion mapping JSON (default: resources/tag_conversion_map.json)",
+    )
+    convert.add_argument(
+        "--tag-schema",
+        default="resources/tag_schema.json",
+        help="Path to tag schema JSON for allowlist filtering (default: resources/tag_schema.json)",
+    )
+    convert.set_defaults(func=cmd_convert_tags)
 
     setup = sub.add_parser("setup-cltk", help="Download/ensure CLTK Greek models")
     setup.set_defaults(func=lambda _args: (ensure_cltk_grc_models() or 0))
