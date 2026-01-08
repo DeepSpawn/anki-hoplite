@@ -16,6 +16,7 @@ import unicodedata as ud
 
 from .normalize import normalize_greek_for_match
 from .cltk_setup import ensure_cltk_grc_models
+from .cloze_validator import GreekStopWords
 
 
 @dataclass
@@ -29,12 +30,15 @@ class GreekLemmatizer:
         self,
         cache_path: Optional[str] = "out/lemma_cache.json",
         overrides_path: Optional[str] = "resources/lemma_overrides.json",
+        stopwords_path: Optional[str] = "resources/greek_stopwords.txt",
     ) -> None:
         self._backend = None  # lazy init
         self._cache_path = Path(cache_path) if cache_path else None
         self._cache: dict[str, str] = {}
         self._overrides_path = Path(overrides_path) if overrides_path else None
         self._overrides: dict[str, str] = {}
+        self._stopwords_path = Path(stopwords_path) if stopwords_path else None
+        self._stopwords: Optional[GreekStopWords] = None  # lazy load
         # Load cache if present
         try:
             if self._cache_path and self._cache_path.exists():
@@ -65,6 +69,20 @@ class GreekLemmatizer:
                 self._backend = NLP(language="grc", suppress_banner=True)
             except Exception:
                 self._backend = None
+
+    def _ensure_stopwords(self) -> GreekStopWords:
+        """Lazy load stop words on first use."""
+        if self._stopwords is None:
+            try:
+                if self._stopwords_path and self._stopwords_path.exists():
+                    self._stopwords = GreekStopWords.load(self._stopwords_path)
+                else:
+                    # Default path
+                    self._stopwords = GreekStopWords.load()
+            except FileNotFoundError:
+                # Fallback: empty stop word set if file missing
+                self._stopwords = GreekStopWords(words=set())
+        return self._stopwords
 
     @lru_cache(maxsize=4096)
     def lemmatize_token(self, token: str) -> str:
@@ -122,15 +140,36 @@ class GreekLemmatizer:
         return results
 
     def best_lemma(self, text: str) -> str:
-        # Prefer the first token that has a Greek letter; strip leading/trailing punctuation.
+        """Extract the best lemma from potentially multi-word text.
+
+        For multi-word phrases, skips stop words (articles, particles) and
+        returns the lemma of the first substantive token.
+
+        Args:
+            text: Greek text (may contain multiple words)
+
+        Returns:
+            Lemma of the substantive token, or first token if all are stop words
+        """
+        stopwords = self._ensure_stopwords()
+
+        # Iterate through tokens, skip stop words
         for raw in (text or "").split():
             tok = raw.strip()
             # Remove surrounding punctuation by Unicode category
-            tok = tok.strip()
             tok = "".join(ch for ch in tok if not ud.category(ch).startswith("P")) or tok
+
+            # Check if token contains Greek characters
             if any(0x0370 <= ord(ch) <= 0x03FF or 0x1F00 <= ord(ch) <= 0x1FFF for ch in tok):
-                return self.lemmatize_token(tok)
-        # Fallback to first token's lemma if no obvious Greek token
+                # Normalize token for stop word check
+                normalized = normalize_greek_for_match(tok)
+
+                # Skip stop words
+                if not stopwords.is_stop_word(normalized):
+                    return self.lemmatize_token(tok)
+
+        # Fallback: all tokens are stop words or no Greek tokens found
+        # Return first token's lemma
         results = self.lemmatize(text)
         return results[0].lemma if results else ""
 

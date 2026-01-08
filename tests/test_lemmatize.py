@@ -25,6 +25,18 @@ class MockBackoffLemmatizer:
             "εἶπον": "εἶπον",
             "καί": "καί",
             "δέ": "δέ",
+            # Article forms (for testing stop word filtering)
+            "ἡ": "ὁ",      # Feminine article → masculine lemma
+            "ὁ": "ὁ",      # Masculine article
+            "τῆς": "ὁ",    # Genitive article
+            "τῇ": "ὁ",     # Dative article
+            "τοῦ": "ὁ",    # Genitive article
+            # Noun forms (for test cases)
+            "κρήνη": "κρήνη",     # Nominative
+            "κρήνης": "κρήνη",    # Genitive
+            "κρήνῃ": "κρήνη",     # Dative
+            "μέλιττα": "μέλιττα",  # Bee (noun)
+            "μάχαιρα": "μάχαιρα", # Knife
         }
 
     def lemmatize(self, tokens):
@@ -269,6 +281,83 @@ class TestLemmatizeText:
         result = lem.best_lemma("λύω, καί")
         # Should strip comma and return lemma of λύω
         assert result == "λυω"
+
+
+class TestBestLemmaStopWords:
+    """Test best_lemma with Greek stop word filtering."""
+
+    @patch("cltk.lemmatize.GreekBackoffLemmatizer")
+    def test_best_lemma_skips_article(self, mock_lemmatizer_class):
+        """Test that articles are skipped in article + noun phrases."""
+        mock_backend = MockBackoffLemmatizer()
+        mock_lemmatizer_class.return_value = mock_backend
+
+        lem = GreekLemmatizer(cache_path=None, overrides_path=None)
+
+        # Nominative: ἡ κρήνη → should return noun lemma, not article
+        result = lem.best_lemma("ἡ κρήνη")
+        assert result == "κρηνη", f"Expected 'κρηνη' but got '{result}'"
+
+    @patch("cltk.lemmatize.GreekBackoffLemmatizer")
+    def test_best_lemma_skips_genitive_article(self, mock_lemmatizer_class):
+        """Test genitive article forms are skipped."""
+        mock_backend = MockBackoffLemmatizer()
+        mock_lemmatizer_class.return_value = mock_backend
+
+        lem = GreekLemmatizer(cache_path=None, overrides_path=None)
+
+        # Genitive: τῆς κρήνης → should return noun lemma
+        result = lem.best_lemma("τῆς κρήνης")
+        assert result == "κρηνη", f"Expected 'κρηνη' but got '{result}'"
+
+    @patch("cltk.lemmatize.GreekBackoffLemmatizer")
+    def test_best_lemma_skips_dative_article(self, mock_lemmatizer_class):
+        """Test dative article forms are skipped."""
+        mock_backend = MockBackoffLemmatizer()
+        mock_lemmatizer_class.return_value = mock_backend
+
+        lem = GreekLemmatizer(cache_path=None, overrides_path=None)
+
+        # Dative: τῇ κρήνῃ → should return noun lemma
+        result = lem.best_lemma("τῇ κρήνῃ")
+        assert result == "κρηνη", f"Expected 'κρηνη' but got '{result}'"
+
+    @patch("cltk.lemmatize.GreekBackoffLemmatizer")
+    def test_best_lemma_with_multiple_stop_words(self, mock_lemmatizer_class):
+        """Test phrases with multiple stop words before noun."""
+        mock_backend = MockBackoffLemmatizer()
+        mock_lemmatizer_class.return_value = mock_backend
+
+        lem = GreekLemmatizer(cache_path=None, overrides_path=None)
+
+        # Article + particle + noun: should skip both stop words
+        result = lem.best_lemma("ἡ δέ κρήνη")
+        assert result == "κρηνη", f"Expected 'κρηνη' but got '{result}'"
+
+    @patch("cltk.lemmatize.GreekBackoffLemmatizer")
+    def test_best_lemma_all_stop_words_fallback(self, mock_lemmatizer_class):
+        """Test fallback when all tokens are stop words."""
+        mock_backend = MockBackoffLemmatizer()
+        mock_lemmatizer_class.return_value = mock_backend
+
+        lem = GreekLemmatizer(cache_path=None, overrides_path=None)
+
+        # Only stop words: should return first token's lemma
+        result = lem.best_lemma("ἡ καί")
+        # Fallback to first token (article or conjunction)
+        assert result in ["ο", "και"], f"Expected article or conjunction lemma, got '{result}'"
+
+    @patch("cltk.lemmatize.GreekBackoffLemmatizer")
+    def test_best_lemma_no_stop_words(self, mock_lemmatizer_class):
+        """Test that non-article phrases still work correctly."""
+        mock_backend = MockBackoffLemmatizer()
+        mock_lemmatizer_class.return_value = mock_backend
+
+        lem = GreekLemmatizer(cache_path=None, overrides_path=None)
+
+        # Single noun without article
+        result = lem.best_lemma("κρήνη")
+        assert result == "κρηνη", f"Expected 'κρηνη' but got '{result}'"
 
 
 class TestCachePersistence:
