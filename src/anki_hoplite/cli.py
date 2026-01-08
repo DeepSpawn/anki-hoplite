@@ -113,6 +113,119 @@ def cmd_lint(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_clean(args: argparse.Namespace) -> int:
+    """Generate clean import-ready CSV by removing duplicates and cleaning tags."""
+    import csv
+    from pathlib import Path
+
+    cfg = load_config(args.config)
+
+    # Load tag schema (required for clean command)
+    try:
+        tag_schema = load_tag_schema(args.tag_schema)
+        print(f"Loaded tag schema from: {args.tag_schema}")
+        print(f"  Allowed tags: {len(tag_schema.allowed_tags)}")
+        print(f"  Blocked tags: {len(tag_schema.blocked_tags)}")
+        if args.auto_tag:
+            print(f"  Auto-tag rules: {len(tag_schema.auto_tag_rules)}")
+    except FileNotFoundError as e:
+        print(f"Error: {e}")
+        return 1
+    except ValueError as e:
+        print(f"Error: {e}")
+        return 1
+
+    # Build deck index
+    export_path = cfg.get("export_path", "resources/Unified-Greek.txt")
+    model_map_path = cfg.get("model_field_map", "resources/model_field_map.json")
+    lemmatizer = GreekLemmatizer()
+    print(f"Loading reference deck from: {export_path}")
+    deck = build_from_export(export_path, model_map_path, lemmatizer=lemmatizer)
+    print(f"Loaded {len(deck.notes)} reference cards")
+
+    # Load candidates
+    print(f"Reading input cards from: {args.input}")
+    candidates = [r.__dict__ for r in read_candidates_csv(args.input)]
+    print(f"Loaded {len(candidates)} candidate cards")
+
+    # Analyze with tag hygiene enabled
+    print("Analyzing candidates for duplicates...")
+    results = analyze_candidates(
+        candidates,
+        deck,
+        lemmatizer,
+        tag_schema=tag_schema,
+        enable_auto_tag=args.auto_tag,
+        enable_cloze_validation=False,
+        cloze_stopwords=None,
+        enable_context_analysis=False,
+        enable_cloze_recommendations=False
+    )
+
+    # Filter out duplicates and self-duplicates
+    clean_results = []
+    duplicate_count = 0
+    self_duplicate_count = 0
+
+    for r in results:
+        # Skip if it's a duplicate against the reference deck
+        if r.warning_level != "none":
+            duplicate_count += 1
+            continue
+
+        # Skip if it's a self-duplicate within candidates
+        if r.self_duplicate_level and r.self_duplicate_level != "none":
+            self_duplicate_count += 1
+            continue
+
+        clean_results.append(r)
+
+    print(f"\nFiltering results:")
+    print(f"  Duplicates against reference deck: {duplicate_count}")
+    print(f"  Self-duplicates within candidates:  {self_duplicate_count}")
+    print(f"  Clean cards for import:             {len(clean_results)}")
+
+    # Create output directory if needed
+    output_path = Path(args.out)
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+
+    # Write clean cards with simplified fields (front, back, tags_final)
+    fieldnames = ['front', 'back', 'tags']
+    with open(output_path, 'w', encoding='utf-8', newline='') as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer.writeheader()
+        for r in clean_results:
+            writer.writerow({
+                'front': r.front,
+                'back': r.back,
+                'tags': r.tags_final or ''  # Use cleaned tags
+            })
+
+    print(f"\nWrote clean cards to: {output_path}")
+
+    # Print tag hygiene summary
+    from .tag_hygiene import parse_tags
+
+    total_kept = sum(len(parse_tags(r.tags_kept)) for r in clean_results if r.tags_kept)
+    total_deleted = sum(len(parse_tags(r.tags_deleted)) for r in clean_results if r.tags_deleted)
+    total_auto_added = sum(len(parse_tags(r.tags_auto_added)) for r in clean_results if r.tags_auto_added)
+    cards_with_unknown = sum(1 for r in clean_results if r.tags_need_review)
+
+    print(f"\nTag Hygiene Summary (clean cards only):")
+    print(f"  Tags kept (allowed):     {total_kept}")
+    print(f"  Tags deleted (blocked):  {total_deleted}")
+    print(f"  Tags auto-added:         {total_auto_added}")
+    print(f"  Cards with unknown tags: {cards_with_unknown}")
+
+    if cards_with_unknown > 0:
+        print(f"\nWarning: {cards_with_unknown} cards have unknown tags that need review.")
+        print("Consider reviewing the tag schema or manually checking these cards.")
+
+    # Persist lemma cache
+    lemmatizer.save_cache()
+    return 0
+
+
 def cmd_lint_deck(args: argparse.Namespace) -> int:
     """Analyze the deck itself for internal duplicates."""
     cfg = load_config(args.config)
@@ -266,6 +379,34 @@ def build_parser() -> argparse.ArgumentParser:
         help="Enable cloze conversion recommendations for suitable cards",
     )
     lint.set_defaults(func=cmd_lint)
+
+    clean = sub.add_parser("clean", help="Generate clean import-ready CSV (remove duplicates, clean tags)")
+    clean.add_argument(
+        "--input",
+        default="input/input-cards.csv",
+        help="Path to candidate CSV (default: input/input-cards.csv)",
+    )
+    clean.add_argument(
+        "--out",
+        default="output/clean-cards.csv",
+        help="Path to clean output CSV (default: output/clean-cards.csv)",
+    )
+    clean.add_argument(
+        "--config",
+        default="resources/config.json",
+        help="Path to config.json (optional; defaults will be used if missing)",
+    )
+    clean.add_argument(
+        "--tag-schema",
+        default="resources/tag_schema.json",
+        help="Path to tag schema JSON (default: resources/tag_schema.json)",
+    )
+    clean.add_argument(
+        "--auto-tag",
+        action="store_true",
+        help="Enable auto-tagging based on schema rules",
+    )
+    clean.set_defaults(func=cmd_clean)
 
     lint_deck = sub.add_parser("lint-deck", help="Analyze deck itself for internal duplicates")
     lint_deck.add_argument("--out", required=True, help="Path to output CSV report")

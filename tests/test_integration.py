@@ -31,6 +31,17 @@ class MockBackoffLemmatizer:
             "ἀγρός": "ἀγρός",
             "φέρε": "φέρω",
             "φέρω": "φέρω",
+            # Article forms (for testing stop word filtering)
+            "ἡ": "ὁ",
+            "ὁ": "ὁ",
+            "τῆς": "ὁ",
+            "τῇ": "ὁ",
+            "τοῦ": "ὁ",
+            # Noun forms (for test cases)
+            "κρήνη": "κρήνη",
+            "κρήνης": "κρήνη",
+            "κρήνῃ": "κρήνη",
+            "μέλιττα": "μέλιττα",
         }
 
     def lemmatize(self, tokens):
@@ -697,3 +708,39 @@ class TestTagHygieneIntegration:
             assert results[0].cloze_deletion_ratio == 0.0
             assert results[0].cloze_content_density == 0.0
             assert results[0].cloze_reasons == ""
+
+
+@pytest.mark.usefixtures("mock_cltk_backend")
+def test_recognition_cards_with_articles():
+    """Test that recognition cards with articles get correct noun lemmas."""
+    with tempfile.TemporaryDirectory() as tmpdir:
+        tmpdir = Path(tmpdir)
+
+        # Create input CSV with article + noun pairs
+        input_csv = tmpdir / "candidates.csv"
+        with input_csv.open("w", encoding="utf-8", newline="") as f:
+            writer = csv.DictWriter(f, fieldnames=["front", "back", "tags"])
+            writer.writeheader()
+            writer.writerow({"front": "ἡ κρήνη", "back": "Nom Sg — the spring", "tags": "noun"})
+            writer.writerow({"front": "τῆς κρήνης", "back": "Gen Sg — of the spring", "tags": "noun"})
+            writer.writerow({"front": "τῇ κρήνῃ", "back": "Dat Sg — to the spring", "tags": "noun"})
+
+        # Ingest candidates
+        candidates = [r.__dict__ for r in read_candidates_csv(str(input_csv))]
+
+        # Create lemmatizer with mock
+        lemmatizer = GreekLemmatizer(cache_path=None, overrides_path=None)
+
+        # Check lemmas - all should map to noun lemma, not article
+        for card in candidates:
+            lemma = lemmatizer.best_lemma(card["front"])
+            # All should return the noun lemma "κρηνη", not article lemma
+            assert lemma == "κρηνη", f"Card '{card['front']}' got lemma '{lemma}', expected 'κρηνη'"
+
+        # Also verify in full pipeline with empty deck
+        deck = DeckIndex()
+        results = analyze_candidates(candidates, deck, lemmatizer)
+
+        # All results should have noun lemma
+        for result in results:
+            assert result.lemma == "κρηνη", f"Result for '{result.front}' has lemma '{result.lemma}', expected 'κρηνη'"
